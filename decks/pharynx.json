@@ -1,0 +1,1773 @@
+{
+ "id": "pharynx",
+ "title": "Pharyngotonsillar Disorders & OSA",
+ "short": "Throat & OSA",
+ "emoji": "😴",
+ "source": "Pharyntonsillar disease and OSA_260927_082342.pdf",
+ "topics": {
+  "ANAT": "Anatomy: Waldeyer's ring, oropharynx, innervation & pharyngeal spaces",
+  "PHYS": "Physiology: swallowing & tonsillar immunity",
+  "TONS": "Acute & chronic tonsillitis (and membrane differentials)",
+  "TSX": "Tonsillectomy: indications & complications",
+  "QUIN": "Peritonsillar abscess (quinsy)",
+  "PPA": "Parapharyngeal abscess",
+  "RPA": "Retropharyngeal abscess",
+  "TUM": "Oropharyngeal tumours: benign & carcinoma",
+  "OSA": "OSA: risk factors, features, screening & diagnosis",
+  "OSAT": "OSA: treatment & complications"
+ },
+ "cards": [
+  {
+   "t": "ANAT",
+   "q": "What is Waldeyer's ring, and what are its components and their positions?",
+   "a": "• **Incomplete ring of MALT** (T cells, B cells, macrophages) guarding the entrance to the aerodigestive tract\n• **Pharyngeal tonsil (adenoid)** – roof and posterior wall of nasopharynx (superior)\n• **Tubal tonsils** – around the Eustachian tube openings, near the salpingopharyngeal fold (lateral, upper)\n• **Palatine tonsils** – tonsillar fossae of the oropharynx (lateral)\n• **Lingual tonsil** – base (posterior 1/3) of tongue (inferior)\n• First-line defence against inhaled and ingested pathogens",
+   "m": "Clock face from above: adenoid at 12, tubal tonsils at 2 and 10, palatine tonsils at 3 and 9, lingual tonsil at 6.",
+   "r": "Slides p5-6"
+  },
+  {
+   "t": "ANAT",
+   "q": "Where exactly does the palatine tonsil sit, and what forms its bed?",
+   "a": "• Lies in the **tonsillar fossa** on each side of the oropharynx\n• **Anterior pillar = palatoglossal arch**; **posterior pillar = palatopharyngeal arch**\n• Lateral bed: tonsillar capsule on the **superior constrictor** muscle\n• Potential **peritonsillar space** between capsule and superior constrictor = site of quinsy\n• Most commonly infected and surgically removed part of Waldeyer's ring",
+   "m": "Pillars in alphabetical order front to back: palatoGlossal before palatoPharyngeal (G before P).",
+   "r": "Slides p6, p10"
+  },
+  {
+   "t": "ANAT",
+   "q": "What are the boundaries of the oropharynx?",
+   "a": "• **Superior:** soft palate / pharyngeal isthmus (opens into nasopharynx)\n• **Inferior:** upper border of the epiglottis (opens into laryngopharynx)\n• **Anterior:** oropharyngeal isthmus and **posterior 1/3 of tongue**\n• **Posterior:** posterior pharyngeal wall in front of **C2-C3**\n• **Lateral:** palatine tonsils and palatopharyngeal arches\n• Key structures: base of tongue, lingual tonsils, palatine tonsils, superior constrictor",
+   "m": "Oropharynx spans soft palate to tip of epiglottis – the part you see when the patient says 'Ahh'.",
+   "r": "Slide p10"
+  },
+  {
+   "t": "ANAT",
+   "q": "What is the arterial supply and venous drainage of the palatine tonsil, and which vessels bleed after tonsillectomy?",
+   "a": "• Arteries: **tonsillar branch of facial artery (main supply)**, ascending palatine, ascending pharyngeal, dorsal lingual, lesser palatine\n• Veins: **paratonsillar (external palatine) vein** → pterygoid plexus above and facial / internal jugular vein below\n• Post-tonsillectomy bleeding usually comes from the **paratonsillar vein** or the **tonsillar artery** at the lower pole\n• The **internal carotid artery** lies about 2.5 cm posterolateral to the tonsil – relevant in deep neck abscesses",
+   "m": "Five arteries, one main: the Facial artery Feeds the tonsil.",
+   "r": "Slide p11"
+  },
+  {
+   "t": "ANAT",
+   "q": "Where does the palatine tonsil drain lymph, and which node enlarges in tonsillitis?",
+   "a": "• Main drainage: **jugulodigastric (upper deep cervical) node** – the 'tonsillar node' below the angle of the mandible\n• Also retropharyngeal nodes (posterior pharyngeal wall, adenoids)\n• Enlarged, tender jugulodigastric node is a classic sign of acute tonsillitis; suppuration → cervical abscess\n• Note: slide p11 lists only retropharyngeal nodes; the tonsil drains mainly to the jugulodigastric node (as p22 states)",
+   "m": "Feel just below the angle of the jaw – the jugulodigastric node is the tonsil's sentry.",
+   "r": "Slides p11, p22"
+  },
+  {
+   "t": "ANAT",
+   "q": "Which nerve gives sensation to the oropharynx and tonsil, and why does tonsil disease cause earache?",
+   "a": "• **Glossopharyngeal nerve (CN IX)** is the main sensory nerve: oropharyngeal mucosa, palatine tonsil, posterior 1/3 of tongue, soft palate\n• CN IX also supplies the middle ear via its **tympanic branch (Jacobson's nerve)**\n• So tonsillitis, quinsy, tonsillar carcinoma and post-tonsillectomy pain are felt as **referred otalgia**\n• Earache with a normal ear drum in an adult smoker → examine the oropharynx for cancer",
+   "m": "IX = Ear and Throat on one wire: pain in the tonsil rings in the ear.",
+   "r": "Slide p11"
+  },
+  {
+   "t": "ANAT",
+   "q": "What is the motor nerve supply of the soft palate and pharynx?",
+   "a": "• **Pharyngeal plexus** – fibres of the **vagus (CN X)** with the cranial accessory (CN XI)\n• Supplies pharyngeal constrictors, palatopharyngeus, salpingopharyngeus, levator veli palatini, uvular muscle, palatoglossus\n• **Exception: tensor veli palatini** – supplied by the **mandibular nerve (CN V3)** via the nerve to medial pterygoid\n• Stylopharyngeus is the only pharyngeal muscle supplied by **CN IX**",
+   "m": "'Tensor is the Trigeminal one' – both start with T.",
+   "r": "Slides p7, p11"
+  },
+  {
+   "t": "ANAT",
+   "q": "How is sensation and taste supplied to the tongue?",
+   "a": "• **Anterior 2/3:** general sensation **lingual nerve (V3)**; taste **chorda tympani (VII)**\n• **Posterior 1/3:** general sensation **and** taste **glossopharyngeal (IX)**\n• **Epiglottic region / vallecula:** sensation and taste **internal laryngeal nerve (X)**\n• Clinical: base-of-tongue cancer → referred otalgia via IX",
+   "m": "Front of tongue borrows two nerves (V for touch, VII for taste); the back does both with one (IX).",
+   "r": "Slide p8"
+  },
+  {
+   "t": "ANAT",
+   "q": "What supplies the muscles of the tongue, and what is the exception?",
+   "a": "• All intrinsic and extrinsic tongue muscles: **hypoglossal nerve (CN XII)**\n• **Exception: palatoglossus** – supplied by the **vagus (CN X)** via the pharyngeal plexus (it is really a palatal muscle)\n• XII palsy (LMN): tongue deviates **towards** the side of the lesion, with wasting and fasciculation",
+   "m": "Palatoglossus belongs to the Palate gang, so it takes the palate's nerve – X, not XII.",
+   "r": "Slide p8"
+  },
+  {
+   "t": "ANAT",
+   "q": "What is the gag reflex, what triggers it and what are its nerve pathways?",
+   "a": "• Involuntary bilateral contraction of pharyngeal muscles and elevation of the soft palate to prevent choking on foreign material\n• Trigger: touching the **posterior pharyngeal wall, tonsillar pillars or base of tongue**\n• **Afferent: CN IX**; **efferent: CN X**\n• Absent gag on one side → think IX / X lesion (e.g. post-styloid parapharyngeal pathology, jugular foramen)",
+   "m": "Gag goes in on IX, out on X – 'nine in, ten out'.",
+   "r": "Slide p9"
+  },
+  {
+   "t": "ANAT",
+   "q": "Describe the parapharyngeal space: shape, extent, boundaries and connections.",
+   "a": "• **Inverted pyramid**: base at the **skull base**, apex at the **hyoid** bone\n• **Medial:** buccopharyngeal fascia over the superior constrictor (pharynx/tonsil)\n• **Lateral:** superficial layer of deep cervical fascia over the medial pterygoid, mandible and parotid\n• Connects **posteriorly with the retropharyngeal space** and **anteriorly with the submandibular space**\n• Infection reaches it from **teeth, tonsils/pharynx, maxilla or mandible**",
+   "m": "Upside-down pyramid hanging from the skull base beside the throat, pointing down at the hyoid.",
+   "r": "Slide p12"
+  },
+  {
+   "t": "ANAT",
+   "q": "What are the boundaries of the retropharyngeal space, and why is the danger space so called?",
+   "a": "• Retropharyngeal space: **anterior** – buccopharyngeal fascia (behind pharynx); **posterior** – **alar fascia**\n• Extends from **skull base** down into the upper mediastinum; contains retropharyngeal nodes\n• **Danger space** lies between the **alar** and **prevertebral** fascia and runs from skull base to the **diaphragm**\n• Infection: Waldeyer's ring / dental focus → retropharyngeal space → danger space → **mediastinitis**\n• Note: slide p38 calls the posterior boundary prevertebral fascia; correct is alar fascia (as p12 states)",
+   "m": "Front to back: pharynx – retropharyngeal space – Alar – DANGER – Prevertebral – spine. Danger is sandwiched between A and P.",
+   "r": "Slides p12, p38"
+  },
+  {
+   "t": "PHYS",
+   "q": "What are the functions of the oropharynx?",
+   "a": "• **Common conduit** for air (to lungs) and food (to oesophagus)\n• **Deglutition** – the pharyngeal phase of swallowing\n• **Local defence and immunity** – Waldeyer's ring\n• **Part of the vocal tract** – resonance and articulation\n• **Taste** – posterior 1/3 of tongue and epiglottic region",
+   "m": "'CRISP-T': Conduit, Resonance, Immunity, Swallowing, Protection of airway, Taste.",
+   "r": "Slides p14-15"
+  },
+  {
+   "t": "PHYS",
+   "q": "What happens in the oral phase of swallowing?",
+   "a": "• **Voluntary** phase\n• **Preparatory:** food + saliva form a bolus; bolus held on the tongue against the hard palate; soft palate and tongue rest down (seals the back of the mouth)\n• **Propulsion:** tongue presses on the palate from front to back, pushing the bolus backwards\n• Oropharyngeal isthmus then opens to receive the bolus\n• **Breathing continues** during the oral phase",
+   "m": "Oral phase = you are still in charge; once the bolus touches the pillars, the reflex takes over.",
+   "r": "Slide p17"
+  },
+  {
+   "t": "PHYS",
+   "q": "What are the key events of the pharyngeal phase of swallowing?",
+   "a": "• **Involuntary** reflex; two jobs: **move the bolus** and **protect the airway**\n• **Soft palate rises** to close the nasopharynx (prevents nasal regurgitation)\n• **Larynx elevates**, **epiglottis folds back** over the inlet, **vocal cords close** = **deglutition apnoea**\n• **Upper oesophageal sphincter (cricopharyngeus) relaxes**\n• Tongue pushes the bolus down and **pharyngeal constrictors contract sequentially**",
+   "m": "Shut the three doors – nose (soft palate), larynx (epiglottis + cords) – and open the fourth (UES).",
+   "r": "Slide p18"
+  },
+  {
+   "t": "PHYS",
+   "q": "Which phases of swallowing are voluntary, and what happens in the oesophageal phase?",
+   "a": "• **Oral – voluntary**; **pharyngeal – involuntary (reflex)**; **oesophageal – involuntary**\n• Oesophageal phase: **peristalsis** carries the bolus down; lower oesophageal sphincter relaxes\n• After the bolus passes, the epiglottis returns upright and the airway reopens\n• Clinical: pharyngeal-phase failure (e.g. IX/X palsy) causes **aspiration** and nasal regurgitation",
+   "m": "One voluntary, two automatic – you choose to swallow, then the body finishes the job.",
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "PHYS",
+   "q": "How do the tonsils generate mucosal immunity?",
+   "a": "• **M cells** over the tonsillar crypts capture antigens and deliver them to the underlying lymphoid tissue\n• Activates **T and B lymphocytes**\n• **B cells → secretory IgA** (mucosal protection); IgM and IgG neutralise bacteria, viruses and fungi\n• **T cells** → cell-mediated immunity\n• Tonsils are most active in childhood – why they enlarge physiologically up to about 7-8 years",
+   "m": "M cells are the Mailmen: they post antigens from the crypt surface to the lymphocytes below.",
+   "r": "Slide p19"
+  },
+  {
+   "t": "TONS",
+   "q": "How is tonsillitis classified by duration, and what defines recurrent tonsillitis (Paradise criteria)?",
+   "a": "• **Acute:** < 2 weeks\n• **Chronic:** persistent > 3 months\n• **Recurrent (Paradise criteria):** **≥ 7 episodes in 1 year**, or **≥ 5/year for 2 years**, or **≥ 3/year for 3 years**\n• Recurrent episodes meeting these criteria are the commonest indication for tonsillectomy",
+   "m": "7-5-3: seven in one, five for two, three for three.",
+   "r": "Slide p21"
+  },
+  {
+   "t": "TONS",
+   "q": "What organisms cause acute tonsillitis?",
+   "a": "• **Viral (~70%, commonest, usually milder):** adenovirus, rhinovirus, influenza, EBV, HSV, CMV\n• **Main bacterial cause: group A β-haemolytic Streptococcus (S. pyogenes)**\n• Others: Staphylococcus aureus, pneumococcus, H. influenzae\n• Note: slide p21 lists staphylococcus first; the main bacterial cause is group A Streptococcus (as p22 states)",
+   "m": "Most sore throats are viral; the bacterium to treat and fear is GAS – Group A Strep (rheumatic fever).",
+   "r": "Slides p21-22"
+  },
+  {
+   "t": "TONS",
+   "q": "What are the symptoms of acute tonsillitis, and who does it affect?",
+   "a": "• Mainly **school-aged children** and adults under 50; rare in infants\n• **Sore throat**, **odynophagia / dysphagia**, **fever** (may be high in children)\n• **Earache** – referred via CN IX, or due to coexisting AOM\n• Constitutional: headache, body ache, malaise\n• Young children may present with vomiting, abdominal pain or refusing feeds",
+   "m": "Throat, fever, ear – the classic triad of a child with tonsillitis.",
+   "r": "Slide p22"
+  },
+  {
+   "t": "TONS",
+   "q": "What examination findings support acute tonsillitis?",
+   "a": "• **Foetid breath** and coated tongue\n• Hyperaemia of the pillars, soft palate and uvula\n• Tonsils **red and swollen**; yellow spots of pus at crypt openings (follicular) or a whitish membrane (membranous)\n• **Enlarged, tender jugulodigastric nodes**\n• Check for asymmetry, uvula deviation and trismus – these point to quinsy rather than simple tonsillitis",
+   "m": "Look in the mouth, then feel the neck – the tender jugulodigastric node confirms it.",
+   "r": "Slide p22"
+  },
+  {
+   "t": "TONS",
+   "q": "What are the four clinical types of acute tonsillitis?",
+   "a": "• **Catarrhal (superficial):** surface epithelium only, part of generalised pharyngitis, usually **viral**\n• **Follicular:** infection in the crypts → **yellowish spots of pus** at crypt openings\n• **Parenchymatous:** whole tonsil uniformly enlarged, red, congested – may **meet in the midline**\n• **Membranous:** exudate from crypts coalesces into a whitish membrane that is **easily wiped away**",
+   "m": "CFPM – going deeper and wider: Catarrhal (surface) → Follicular (crypts) → Parenchymatous (whole tonsil) → Membranous (coalesced).",
+   "r": "Slide p23"
+  },
+  {
+   "t": "TONS",
+   "q": "Which clinical scores help decide on antibiotics in sore throat?",
+   "a": "• **Centor:** fever > 38 °C, tonsillar exudate, tender anterior cervical nodes, **absence of cough** (1 point each)\n• **McIsaac** adds age: +1 if 3-14 y, −1 if ≥ 45 y\n• **FeverPAIN:** Fever, Purulence, Attend rapidly (≤ 3 days), Inflamed tonsils, No cough/coryza\n• Centor 3-4 or FeverPAIN ≥ 4 → bacterial infection more likely → consider antibiotics\n• Low scores → analgesia, fluids, no antibiotic (most are viral)",
+   "m": "Centor = 'no cough plus three signs'; cough and coryza point to a virus.",
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "TONS",
+   "q": "How do you treat acute bacterial tonsillitis?",
+   "a": "• Bed rest, **plenty of oral fluids**, warm saline gargles\n• Analgesia: **paracetamol ± NSAID** (e.g. ibuprofen)\n• **Penicillin V for 10 days** – drug of choice; full course eradicates group A Strep (prevents rheumatic fever)\n• Penicillin allergy: **erythromycin / other macrolide**\n• **Avoid amoxicillin/ampicillin** if infectious mononucleosis is possible (rash)\n• Note: slide p28 says 'aspirin or paracetamol'; **avoid aspirin** in children (Reye syndrome) and in anyone who may need tonsil surgery (bleeding)",
+   "m": "Pen V for ten: 'P-10'. Aspirin = Reye's + bleeding – keep it off the throat ward.",
+   "r": "Slide p28"
+  },
+  {
+   "t": "TONS",
+   "q": "What are the differential diagnoses of a membrane over the tonsil?",
+   "a": "• **Membranous tonsillitis**\n• **Diphtheria**\n• **Vincent's angina**\n• **Infectious mononucleosis**\n• **Agranulocytosis**, **leukaemia**\n• **Aphthous ulcers**, **traumatic ulcer**, **candidal infection**\n• **Malignancy of the tonsil**",
+   "m": "Sort the list into three bins: Infection (tonsillitis, diphtheria, Vincent, IM, Candida), Blood (agranulocytosis, leukaemia), Ulcer/tumour (aphthous, traumatic, malignancy).",
+   "r": "Slide p24"
+  },
+  {
+   "t": "TONS",
+   "q": "How does diphtheria differ from membranous tonsillitis, and how is it managed?",
+   "a": "• **Corynebacterium diphtheriae**; unvaccinated child; insidious, low-grade fever but very toxic\n• **Greyish-white membrane extending beyond the tonsil** onto pillars, soft palate and uvula\n• **Adherent – bleeds when removed** (tonsillitis membrane wipes off easily)\n• **Bull neck** (marked nodes and oedema); risks: airway obstruction, myocarditis, palatal/nerve palsy\n• Management: isolate, **notify (notifiable in Malaysia)**, throat swab, **antitoxin** urgently + **penicillin or erythromycin**, airway care, trace and treat contacts",
+   "m": "Diphtheria: Dirty grey, Doesn't wipe off, Drips blood, Deadly toxin.",
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "TONS",
+   "q": "What features point to infectious mononucleosis in a patient with membranous tonsillitis?",
+   "a": "• **EBV**; adolescent / young adult\n• Prolonged fever, malaise, very enlarged tonsils with membrane\n• **Generalised lymphadenopathy** (posterior cervical), **splenomegaly**, **palatal petechiae**\n• FBC: **lymphocytosis with atypical lymphocytes**; **Monospot / Paul-Bunnell** (heterophile antibodies), EBV serology\n• **Amoxicillin/ampicillin → widespread maculopapular rash**\n• Advise **no contact sports for ~4-6 weeks** (splenic rupture); steroids if airway threatened",
+   "m": "'Kissing disease': big tonsils, big nodes, big spleen – and an amoxicillin rash.",
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "TONS",
+   "q": "What is Vincent's angina?",
+   "a": "• Ulceromembranous tonsillitis / gingivitis due to **fusiform bacilli + spirochaetes** (Borrelia vincentii)\n• Associated with **poor oral hygiene**, malnutrition, debilitated patients\n• **Painful ulcer covered by a membrane** that leaves a bleeding ulcer when removed; often unilateral; foul breath, bleeding gums\n• Diagnosis: smear of the membrane\n• Treatment: **penicillin and/or metronidazole**, oral hygiene, hydrogen peroxide mouthwash",
+   "m": "Vincent = Very poor oral hygiene + Vermicular spirochaetes.",
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "TONS",
+   "q": "Which membrane or ulcer on the tonsil demands a full blood count or a biopsy?",
+   "a": "• **Agranulocytosis** (drug-induced, e.g. carbimazole) and **acute leukaemia** – necrotic ulcer/membrane, minimal pus, sepsis, bruising → **urgent FBC**\n• **Malignancy** – **unilateral**, ulcerated, indurated or enlarging tonsil, often an **older smoker/drinker**, referred otalgia, neck node → **biopsy**\n• Any 'tonsillitis' not responding to antibiotics, or unilateral, is not simple tonsillitis",
+   "m": "Bilateral and young = infection; unilateral and old = cancer until proven otherwise.",
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "TONS",
+   "q": "What causes chronic tonsillitis, and what are its types?",
+   "a": "• Complication of **repeated acute tonsillitis**, or **subclinical** infection of the tonsil\n• Predisposed by chronic infection in the **sinuses and teeth**\n• Mainly **children and young adults**; rare > 50 years\n• Types: **chronic follicular** (crypts full of infected cheesy material), **chronic parenchymatous** (hyperplasia, large tonsils), **chronic fibroid** (small but infected tonsils)",
+   "m": "Chronic types = 'Follicles, Flesh, Fibrosis'.",
+   "r": "Slide p25"
+  },
+  {
+   "t": "TONS",
+   "q": "What are the clinical features and treatment of chronic tonsillitis?",
+   "a": "• Symptoms: **recurrent sore throat**, chronic throat irritation with cough, **bad taste / halitosis** (pus in crypts), thick speech, dysphagia, choking spells at night\n• Signs: varying enlargement; **yellow beads of pus**; small tonsils where pressure on the anterior pillar **expresses cheesy material**; **flushed anterior pillars**; enlarged jugulodigastric nodes\n• Treatment: conservative – general health, diet, treat teeth, nose and sinus infection\n• **Tonsillectomy** if recurrent attacks or tonsils interfere with speech, swallowing or breathing",
+   "m": "Chronic tonsillitis smells before it hurts – halitosis and cheesy crypts.",
+   "r": "Slides p26-27"
+  },
+  {
+   "t": "TONS",
+   "q": "What are the complications of acute tonsillitis?",
+   "a": "• **Local / suppurative:** chronic tonsillitis, **peritonsillar abscess**, **parapharyngeal abscess**, **cervical abscess** (suppuration of jugulodigastric node), **acute otitis media**\n• **Systemic / non-suppurative (GAS):** **rheumatic fever**, **acute post-streptococcal glomerulonephritis**, scarlet fever\n• **Subacute bacterial endocarditis** (Streptococcus viridans) in valvular heart disease",
+   "m": "Spreads around (abscesses, ear) or stirs the immune system (heart, joints, kidneys).",
+   "r": "Slide p28"
+  },
+  {
+   "t": "TONS",
+   "q": "What are tonsillolith, tonsillar cyst and intratonsillar abscess?",
+   "a": "• **Tonsillolith:** blocked crypt → debris accumulates → **calcium and magnesium salts** deposit → stone that enlarges and may ulcerate through; causes halitosis, foreign body feeling\n• **Tonsillar cyst:** blocked crypt → yellowish swelling over the tonsil; usually **symptomless**; easily drained\n• **Intratonsillar abscess:** pus **within** the tonsil – swollen, red, local pain and dysphagia; drain ± tonsillectomy",
+   "m": "All three start with a blocked crypt: stone (salts), sac (cyst) or pus (abscess).",
+   "r": "Slides p27-28"
+  },
+  {
+   "t": "TSX",
+   "q": "What are the absolute indications for tonsillectomy?",
+   "a": "• **Recurrent throat infection** meeting **Paradise criteria** (7 in 1 y / 5 per y for 2 y / 3 per y for 3 y)\n• **Peritonsillar abscess** – children after the first episode; adults after a second episode\n• Tonsillitis causing **febrile seizures**\n• **Obstructive hypertrophy** → sleep-disordered breathing / **OSA**, dysphagia, **cor pulmonale**\n• **Suspected malignancy** – e.g. **unilateral tonsillar enlargement** (excision biopsy)",
+   "m": "'Recurrent, Abscess, Seizures, Obstruction, Malignancy' – RASOM.",
+   "r": "Slide p28"
+  },
+  {
+   "t": "TSX",
+   "q": "What are the relative indications for tonsillectomy, and other uses of the operation?",
+   "a": "• Relative: **diphtheria carriers** and **streptococcal carriers** not cleared by antibiotics\n• **Chronic tonsillitis** with halitosis and cheesy crypts unresponsive to treatment\n• **Recurrent streptococcal tonsillitis in valvular heart disease** (risk of rheumatic fever / endocarditis)\n• As part of another operation: **uvulopalatopharyngoplasty**, **glossopharyngeal neurectomy**, **removal of an elongated styloid process** (Eagle syndrome)",
+   "m": "Relative = carriers, chronic smell, cardiac risk; 'access' = the tonsil is in the way of another operation.",
+   "r": "Slide p28"
+  },
+  {
+   "t": "TSX",
+   "q": "What are the contraindications to tonsillectomy?",
+   "a": "• **Acute infection** of the tonsils – wait **2-3 weeks** (more bleeding when inflamed)\n• **Bleeding disorder** (haemophilia, von Willebrand disease, leukaemia) until corrected\n• **Cleft palate / submucous cleft** – risk of velopharyngeal insufficiency (nasal speech)\n• **Anaemia** (Hb < 10 g/dL) and uncontrolled systemic disease (diabetes, hypertension, heart disease)\n• Old teaching: avoid during **polio epidemics** (bulbar polio)",
+   "m": "Before you cut, check: infection, blood (clotting + Hb), cleft, systemic disease.",
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "TSX",
+   "q": "In what position is tonsillectomy performed, and why?",
+   "a": "• **Rose's position:** supine, **head extended** with a sandbag/pad under the shoulders\n• Mouth held open with a **Boyle-Davis mouth gag**\n• Extension lets **blood pool in the nasopharynx** rather than run into the larynx (airway protected; cuffed tube in place)\n• Gives the surgeon a direct view of the tonsillar fossae\n• Techniques: cold steel dissection, bipolar diathermy, coblation",
+   "m": "Rose's position: chin to the ceiling, blood to the nasopharynx, not the larynx.",
+   "r": "Slide p28"
+  },
+  {
+   "t": "TSX",
+   "q": "What is primary (reactionary) post-tonsillectomy haemorrhage, and how is it managed?",
+   "a": "• Bleeding within **24 hours**, usually in the **first few hours** after surgery\n• Cause: slipped ligature, rise in BP on waking, unsecured vessel (**paratonsillar vein**, tonsillar branch of facial artery)\n• Signs: frequent swallowing, vomiting dark blood, tachycardia, pallor – children hide blood loss\n• Management: resuscitate (IV access, group and crossmatch), sit up, remove clot, pressure/adrenaline swab\n• Persistent bleeding → **return to theatre** for haemostasis under GA (beware stomach full of blood)",
+   "m": "Reactionary = Reaction to the operation (first 24 h) → Return to theatre.",
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "TSX",
+   "q": "What is secondary post-tonsillectomy haemorrhage, and how is it managed?",
+   "a": "• Bleeding at **day 5-10** post-operatively\n• Cause: **infection of the tonsillar bed** with slough separation\n• Management: **admit**, IV access, FBC and group and save, **IV antibiotics**, hydrogen peroxide gargles\n• Most settle; heavy or persistent bleeding → **return to theatre**\n• Advise all patients at discharge to return immediately if any bleeding occurs",
+   "m": "Secondary = Septic, Seven-ish days (5-10).",
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "TSX",
+   "q": "Apart from haemorrhage, what are the complications of tonsillectomy?",
+   "a": "• **Pain** and **referred otalgia** (CN IX) – peaks around day 3-5; regular analgesia\n• **Dehydration** from poor oral intake – encourage eating and drinking normally\n• Airway: laryngospasm, aspiration of blood, obstruction (especially in OSA children – monitor overnight)\n• Injury: teeth, lips, uvula, soft palate, temporomandibular joint (gag)\n• Infection of tonsillar bed, velopharyngeal insufficiency, rarely **ICA injury**\n• Anaesthetic complications",
+   "m": "After tonsils: Pain, Ear pain, Poor drinking, Puffy airway.",
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "QUIN",
+   "q": "What is a peritonsillar abscess (quinsy), and where exactly is the pus?",
+   "a": "• Collection of pus in the **peritonsillar space**\n• Between the **tonsillar capsule** and the **superior constrictor** muscle\n• Usually at the **upper pole**, in the soft palate above the tonsil\n• Almost always **unilateral**\n• Commonest deep neck space infection in **adults**",
+   "m": "Quinsy pus sits outside the capsule but inside the constrictor – 'between the coat and the wall'.",
+   "r": "Slide p31"
+  },
+  {
+   "t": "QUIN",
+   "q": "How does a quinsy develop, and who gets it?",
+   "a": "• Sequence: infected tonsillar crypt (often near the **Weber glands** at the upper pole) → **intratonsillar abscess** → bursts through the capsule → **peritonsillitis (cellulitis)** → **peritonsillar abscess**\n• Usually follows acute tonsillitis; may arise **de novo** without preceding sore throat\n• **Common in adults**, rare in children even though tonsillitis is common in children\n• Risk factors: **smoking**, **previous quinsy**",
+   "m": "Crypt → inside tonsil → through capsule → cellulitis → abscess: five steps from sore throat to quinsy.",
+   "r": "Slide p31"
+  },
+  {
+   "t": "QUIN",
+   "q": "Which organisms cause peritonsillar abscess?",
+   "a": "• **Mixed aerobic and anaerobic** infection\n• Aerobes: **Streptococcus pyogenes** (commonest), Staphylococcus aureus, H. influenzae\n• Anaerobes: **Bacteroides** species, Fusobacterium\n• Hence antibiotic must cover anaerobes: **co-amoxiclav**, or penicillin + **metronidazole**",
+   "m": "Quinsy is a mixed bag – always cover anaerobes.",
+   "r": "Slide p31"
+  },
+  {
+   "t": "QUIN",
+   "q": "What are the symptoms of a quinsy, and why do trismus and earache occur?",
+   "a": "• General: fever, chills and rigors, malaise, headache, body ache, nausea\n• Local: **severe unilateral throat pain**, **odynophagia** (cannot swallow saliva – **drooling**), **dehydration**\n• **'Hot potato' voice** – muffled, thick speech\n• **Trismus** – spasm of the **medial pterygoid** irritated by pus lateral to the constrictor\n• **Unilateral earache** – referred via **CN IX**\n• Foul breath",
+   "m": "Quinsy 'T's: Tonsil pain one side, Trismus, Thick (hot potato) voice, Tympanic referred pain.",
+   "r": "Slide p32"
+  },
+  {
+   "t": "QUIN",
+   "q": "What are the examination findings in a quinsy?",
+   "a": "• **Bulging of the soft palate and anterior pillar above the tonsil** on the affected side\n• **Uvula oedematous and deviated to the OPPOSITE side**\n• Tonsil congested, swollen and pushed **downwards and medially**; mucopus over the tonsillar region\n• Trismus limits the view\n• **Cervical lymphadenopathy**; **torticollis** towards the affected side",
+   "m": "The pus pushes the uvula away – it points to the healthy side.",
+   "r": "Slide p33"
+  },
+  {
+   "t": "QUIN",
+   "q": "How do you tell peritonsillitis (cellulitis) from a peritonsillar abscess?",
+   "a": "• Clinically similar: unilateral pain, palatal swelling, trismus\n• Abscess favoured by: marked **bulge with fluctuance**, uvula deviation, worsening despite 24-48 h IV antibiotics\n• **Needle aspiration** at the point of maximum bulge: pus = abscess; no pus = peritonsillitis (or abscess missed)\n• **CECT neck** if diagnosis unclear, aspiration dry, or deeper (parapharyngeal) spread suspected\n• Peritonsillitis: IV antibiotics, fluids, analgesia; abscess: drain + antibiotics",
+   "m": "Needle settles the argument: pus or no pus.",
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "QUIN",
+   "q": "What investigations are done in a quinsy?",
+   "a": "• **Pus for culture and sensitivity** (from aspiration or I&D)\n• **CECT neck** if parapharyngeal/deep neck extension, failure to improve, or unclear diagnosis\n• FBC (leucocytosis), renal profile (dehydration), glucose (diabetes)\n• Consider Monospot / EBV serology in young adults with atypical features",
+   "m": "Get the pus, and scan if it may have gone deep.",
+   "r": "Slide p33"
+  },
+  {
+   "t": "QUIN",
+   "q": "What is the medical management of a quinsy?",
+   "a": "• **Admit**; **IV fluid replacement** (patient often cannot swallow)\n• **IV co-amoxiclav (Augmentin) 1.2 g TDS** – or IV benzylpenicillin + metronidazole; clindamycin if penicillin-allergic\n• **Analgesia** (paracetamol, NSAID) and a **corticosteroid** (e.g. single dose of IV dexamethasone) to reduce pain, swelling and trismus\n• **Oral hygiene:** hydrogen peroxide or saline mouthwash\n• Switch to oral antibiotics to complete the course once eating",
+   "m": "Fluids, Augmentin, painkiller, steroid – then let the knife do the rest.",
+   "r": "Slide p33"
+  },
+  {
+   "t": "QUIN",
+   "q": "How is a quinsy drained, and when is tonsillectomy done?",
+   "a": "• Under **local anaesthetic**, patient sitting up with suction ready\n• **Needle aspiration** or **incision and drainage** at the **point of maximum bulge** – above the upper pole, where a horizontal line through the **base of the uvula** meets a vertical line along the **anterior pillar**\n• Keep the blade guarded (shallow incision) – the ICA lies posterolateral\n• Followed by warm salt-water gargles\n• **Interval tonsillectomy** about **4-6 weeks** later; or **hot (abscess) tonsillectomy** in selected cases",
+   "m": "Cross-hairs: base of uvula across, anterior pillar down – aim where they meet.",
+   "r": "Slide p33"
+  },
+  {
+   "t": "QUIN",
+   "q": "What are the complications of a peritonsillar abscess?",
+   "a": "• Early: **parapharyngeal abscess**, **laryngeal oedema** (airway obstruction), **septicaemia**\n• Aspiration of pus → **pneumonitis / lung abscess** (spontaneous rupture during sleep)\n• **Internal jugular vein thrombophlebitis** (Lemierre syndrome – Fusobacterium, septic emboli)\n• **Spontaneous haemorrhage** from erosion of the carotid artery or jugular vein\n• Late: **recurrent quinsy** and recurrent tonsillitis",
+   "m": "Quinsy can spread Out (parapharyngeal), Down (larynx, lungs) or into Vessels (IJV, carotid).",
+   "r": "Slide p34"
+  },
+  {
+   "t": "PPA",
+   "q": "How is the parapharyngeal space divided, and what does the prestyloid compartment contain?",
+   "a": "• The **styloid process and its muscles** divide it into **prestyloid (anterior)** and **poststyloid (posterior)** compartments\n• **Prestyloid** contents: mostly **fat**; **deep lobe of parotid**; **internal maxillary artery**; branches of **V3** (inferior alveolar, lingual, auriculotemporal nerves); styloglossus and stylopharyngeus\n• Prestyloid infection lies next to the **medial pterygoid** → trismus",
+   "m": "Prestyloid = 'Fat, Parotid, Maxillary artery, V3' – soft stuff in front.",
+   "r": "Slide p35"
+  },
+  {
+   "t": "PPA",
+   "q": "What does the poststyloid compartment contain, and why does it matter?",
+   "a": "• **Internal carotid artery**, **internal jugular vein**\n• **Cranial nerves IX, X, XI, XII**\n• **Cervical sympathetic chain**; associated lymph nodes\n• Clinical: infection here can cause **IX-XII palsies**, **Horner syndrome**, **IJV thrombophlebitis** and **carotid erosion / haemorrhage**",
+   "m": "Poststyloid = the carotid sheath crowd: 'Carotid, Jugular, 9-10-11-12, Sympathetic'.",
+   "r": "Slide p35"
+  },
+  {
+   "t": "PPA",
+   "q": "What are the sources of a parapharyngeal abscess?",
+   "a": "• **Pharynx:** acute/chronic tonsillitis and adenoiditis, **bursting of a peritonsillar abscess**\n• **Teeth:** dental infection, especially lower third molar\n• **Ear:** **Bezold abscess**, petrositis\n• **Other spaces:** parotid, retropharyngeal and submandibular infections\n• **Trauma:** penetrating neck injury, LA injection for tonsillectomy or **inferior alveolar (mandibular) nerve block**",
+   "m": "'PTEST': Pharynx, Teeth, Ear, Spaces, Trauma.",
+   "r": "Slide p36"
+  },
+  {
+   "t": "PPA",
+   "q": "What are the clinical features of a parapharyngeal abscess, anterior versus posterior compartment?",
+   "a": "• General: fever, sore throat, odynophagia, **torticollis**, pain and swelling\n• **Anterior (prestyloid):** **prolapse of the tonsil and tonsillar fossa** medially, **trismus**, external swelling **behind the angle of the jaw**\n• **Posterior (poststyloid):** **bulge of the pharynx behind the posterior pillar**, swelling of the parotid region, **paralysis of CN IX, X, XI, XII**, Horner syndrome\n• Little or no trismus in poststyloid abscess",
+   "m": "Anterior = Angle-of-jaw swelling + trismus; Posterior = Palsies (IX-XII).",
+   "r": "Slide p36"
+  },
+  {
+   "t": "PPA",
+   "q": "How do you distinguish a parapharyngeal abscess from a quinsy on examination?",
+   "a": "• Quinsy: swelling **above** the tonsil in the soft palate; uvula markedly deviated; little external neck swelling\n• Parapharyngeal abscess: tonsil itself often **looks normal** but the **tonsil and lateral pharyngeal wall are pushed medially**\n• Parapharyngeal: firm **swelling behind the angle of the mandible**, torticollis, may have **cranial nerve palsies**\n• Both have trismus; CECT confirms which space is involved",
+   "m": "Quinsy pushes the palate down and the uvula across; parapharyngeal pushes the whole side wall in and bulges the neck out.",
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "PPA",
+   "q": "What is the key investigation for a suspected parapharyngeal abscess, and what does it show?",
+   "a": "• **Contrast-enhanced CT (CECT) of the neck** (extend to the chest if mediastinal spread suspected)\n• Shows a **rim-enhancing fluid collection**, its compartment (pre- vs poststyloid) and relation to the **carotid sheath**\n• Detects spread to retropharyngeal space or mediastinum and IJV thrombosis\n• Plus: FBC, CRP, blood cultures, glucose; assess the **airway** first",
+   "m": "No CT, no knife – you must see the carotid before you drain.",
+   "r": "Slide p37"
+  },
+  {
+   "t": "PPA",
+   "q": "How is a parapharyngeal abscess treated?",
+   "a": "• **Secure the airway** (stridor → awake fibreoptic intubation or tracheostomy)\n• **IV antibiotics** covering aerobes and anaerobes (e.g. co-amoxiclav or ceftriaxone + metronidazole)\n• **Incision and drainage – transcervical (external) approach** is standard for most, and for large or **poststyloid** abscesses: protects the great vessels\n• **Transoral** drainage only for select, accessible abscesses medial to and away from the carotid/IJV",
+   "m": "Go in from the neck where you can see and control the carotid – not blindly through the mouth.",
+   "r": "Slide p37"
+  },
+  {
+   "t": "PPA",
+   "q": "What are the complications of a parapharyngeal abscess?",
+   "a": "• **Acute laryngeal oedema** with respiratory obstruction\n• **Thrombophlebitis of the internal jugular vein** with septicaemia (Lemierre syndrome)\n• **Carotid artery erosion** – sentinel bleeding, haemorrhage\n• Spread to the **retropharyngeal space**\n• Spread to the **mediastinum** along the carotid sheath → mediastinitis",
+   "m": "Airway, Vessels, Spread – the three ways it kills.",
+   "r": "Slide p37"
+  },
+  {
+   "t": "RPA",
+   "q": "Why is acute retropharyngeal abscess mainly a disease of young children?",
+   "a": "• The retropharyngeal space contains **retropharyngeal lymph nodes (nodes of Rouvière)** draining the nose, adenoids, nasopharynx and Eustachian tube\n• These nodes **regress by about 3-5 years** of age\n• Acute RPA = **suppuration of these nodes** after URTI, adenoiditis, tonsillitis or nasopharyngitis\n• Hence most acute cases are in children **under 5**; in adults think trauma (fish bone, instrumentation) or TB",
+   "m": "No nodes, no acute abscess – Rouvière's nodes retire before school age.",
+   "r": "Slide p38"
+  },
+  {
+   "t": "RPA",
+   "q": "What are the clinical features of an acute retropharyngeal abscess?",
+   "a": "• Young child, **sudden rapid progression** after a URTI; fever, irritability\n• **Dysphagia**, **drooling**, refusal to feed\n• **Difficulty breathing**, **stridor**, **croupy cough**\n• **Neck held stiff / extended**, torticollis\n• **Bulge of the posterior pharyngeal wall**, typically to **one side of the midline**",
+   "m": "A drooling child with stridor who will not move the neck – look behind the pharynx.",
+   "r": "Slide p39"
+  },
+  {
+   "t": "RPA",
+   "q": "Why is the bulge of an acute retropharyngeal abscess off the midline but a chronic one central?",
+   "a": "• Acute: pus is in the **retropharyngeal space**, divided in the midline by a fibrous **median raphe** (superior constrictor attached to the fascia) → bulge on **one side**\n• Chronic (TB of cervical spine): pus is **behind the prevertebral fascia**, which has no midline septum → **central** bulge\n• Lateral X-ray in chronic cases may show vertebral body destruction",
+   "m": "Acute = Aside (one side); Chronic = Central.",
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "RPA",
+   "q": "How is an acute retropharyngeal abscess investigated?",
+   "a": "• **Airway first** – examine gently; do not upset a child with stridor\n• **Lateral soft-tissue X-ray of the neck** (neck extended, on inspiration): **prevertebral widening** (more than about 7 mm at C2 or more than about half the vertebral body width), air-fluid level, loss of cervical lordosis\n• **CECT neck** – confirms abscess vs cellulitis and shows extent (mediastinum)\n• **FBC (raised WBC), ESR, CRP**, blood culture",
+   "m": "Lateral neck film in a child: prevertebral soft tissue at C2 thicker than about 7 mm = suspect pus.",
+   "r": "Slide p39"
+  },
+  {
+   "t": "RPA",
+   "q": "How is an acute retropharyngeal abscess managed?",
+   "a": "• **Secure the airway** – may need intubation or **tracheostomy**\n• **Intraoral incision and drainage** with the child in **Trendelenburg (head-down) position** and suction ready, to prevent aspiration of pus\n• **IV antibiotics** (e.g. co-amoxiclav or ceftriaxone + metronidazole), IV fluids\n• Small phlegmons may settle on antibiotics alone with close monitoring",
+   "m": "Head down, suck, cut – so the pus runs out of the mouth, not into the lungs.",
+   "r": "Slide p39"
+  },
+  {
+   "t": "RPA",
+   "q": "What are the features and management of a chronic retropharyngeal abscess?",
+   "a": "• **Adult**; **slow, insidious** onset\n• Cause: **TB** of retropharyngeal nodes (from deep cervical node TB) or **caries of the cervical spine (Pott's disease)** – actually in the prevertebral space\n• Features: throat discomfort, mild dysphagia, **spinal tenderness**, **central fluctuant swelling** of the posterior pharyngeal wall\n• Investigations: FBC, ESR, CRP, CT/MRI spine and neck, CXR, AFB/GeneXpert on pus\n• Treatment: **antitubercular therapy**; drain **externally** (incision behind the sternocleidomastoid), not intraorally – avoids a chronic sinus",
+   "m": "Chronic = Cold abscess, Central bulge, Cervical spine TB, Cut from outside.",
+   "r": "Slide p39"
+  },
+  {
+   "t": "RPA",
+   "q": "What are the complications of a retropharyngeal abscess?",
+   "a": "• **Airway obstruction** (oedema or spontaneous rupture and aspiration of pus)\n• **Sepsis**\n• **Mediastinitis** – via the danger space\n• **Purulent meningitis**\n• Others: IJV thrombosis, carotid erosion, atlanto-axial instability (Grisel syndrome)",
+   "m": "'ASMM': Airway, Sepsis, Mediastinum, Meninges.",
+   "r": "Slide p40"
+  },
+  {
+   "t": "TUM",
+   "q": "How are oropharyngeal tumours classified, and what are the sites of malignancy?",
+   "a": "• **Benign:** papilloma, haemangioma, pleomorphic adenoma (minor salivary glands), mucous cyst\n• **Malignant sites:** **posterior 1/3 (base) of tongue**, **tonsil and tonsillar fossa**, **faucial arch** (anterior pillar / soft palate), **posterior and lateral pharyngeal wall**\n• Note: slide p42 says 'posterior and lateral laryngeal arch'; correct is posterior and lateral **pharyngeal** wall",
+   "m": "Four malignant sites = Tongue base, Tonsil, Tonsillar pillar (faucial arch), back wall.",
+   "r": "Slide p42"
+  },
+  {
+   "t": "TUM",
+   "q": "What are the features and treatment of an oropharyngeal squamous papilloma?",
+   "a": "• Caused by **HPV 6 and 11** (low-risk types)\n• **Pedunculated**, pink or whitish, **cauliflower-like** lesion\n• Arises from the **tonsil, soft palate, uvula or faucial pillars**\n• Usually **asymptomatic**, found incidentally\n• Treatment: **surgical excision** (send for histology)",
+   "m": "HPV 6 and 11 make warts; HPV 16 and 18 make cancer.",
+   "r": "Slide p43"
+  },
+  {
+   "t": "TUM",
+   "q": "When does an oropharyngeal haemangioma need treatment, and how is it treated?",
+   "a": "• Sites: palate, tonsil, posterior and lateral **pharyngeal** wall\n• Types: **capillary** or **cavernous**\n• Treat if **increasing in size**, **bleeding** or causing **dysphagia**\n• Options: **sclerotherapy**, **laser coagulation**, cryotherapy\n• Never biopsy blindly – a bluish compressible lesion bleeds heavily\n• Note: slide p43 says 'laryngeal wall'; correct is pharyngeal wall",
+   "m": "Blue, squashy, bleeds – laser or sclerose, never casually biopsy.",
+   "r": "Slide p43"
+  },
+  {
+   "t": "TUM",
+   "q": "Where do oropharyngeal mucous cysts arise, and how are they managed?",
+   "a": "• Usually in the **vallecula** (between base of tongue and epiglottis)\n• **Yellowish**, pedunculated or sessile; retention of mucus from a blocked minor gland\n• Large ones cause dysphagia, foreign-body sensation or airway obstruction (infants)\n• **Pedunculated → surgical excision**; **sessile → incision and drainage** (or marsupialisation)",
+   "m": "Vallecular cyst = yellow balloon in the valley.",
+   "r": "Slide p44"
+  },
+  {
+   "t": "TUM",
+   "q": "What are the key points about pleomorphic adenoma in the oropharynx?",
+   "a": "• **Commonest benign salivary gland tumour** – most in the parotid\n• In the oropharynx it arises from **minor salivary glands** of the **hard and soft palate** (or a parotid deep lobe presenting as a parapharyngeal mass)\n• Painless, smooth, slow-growing, submucosal swelling\n• **Potentially malignant** (carcinoma ex pleomorphic adenoma) and recurs if shelled out\n• Treatment: **complete wide surgical excision** with a cuff; superficial/total parotidectomy for parotid lesions",
+   "m": "Pleomorphic = many faces, many recurrences – take a cuff, not a scoop.",
+   "r": "Slide p44"
+  },
+  {
+   "t": "TUM",
+   "q": "What are the aetiology and pathology of oropharyngeal carcinoma?",
+   "a": "• Risk factors: **tobacco**, **alcohol** (synergistic), **HPV (especially HPV-16)**, immunosuppression, family history; betel quid chewing in South-East Asia\n• Histology: **squamous cell carcinoma** (vast majority); also **lymphoma** (tonsil, base of tongue) and adenocarcinoma (minor salivary glands)\n• Gross types: superficial spreading, **exophytic**, **ulcerative**, **infiltrative**\n• Spread: local, **lymphatic (early, often bilateral)**, distant (lungs, bone)",
+   "m": "Smoke, drink, HPV-16 – SCC in nine out of ten.",
+   "r": "Slide p45"
+  },
+  {
+   "t": "TUM",
+   "q": "How does HPV-associated oropharyngeal carcinoma differ from tobacco-related disease?",
+   "a": "• Driven by **HPV-16**; marker: **p16 immunohistochemistry positive**\n• **Younger** patients, often **non-smokers** and non-drinkers\n• Typically **tonsil or base of tongue**; small primary with a large **cystic neck node**\n• **Much better prognosis** and response to (chemo)radiotherapy\n• Staged separately in **AJCC 8th edition** (p16+ vs p16−)\n• A cystic neck lump in an adult is **metastatic SCC until proven otherwise** – not a branchial cyst",
+   "m": "HPV-positive = Healthier, Happier Prognosis – young, non-smoker, cystic node.",
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "TUM",
+   "q": "What is the T staging of (p16-negative) oropharyngeal carcinoma?",
+   "a": "• **T1:** ≤ 2 cm\n• **T2:** > 2 cm but ≤ 4 cm\n• **T3:** > 4 cm, or extension to the **lingual surface of the epiglottis**\n• **T4a:** invades **larynx**, **extrinsic tongue muscles**, **medial pterygoid**, **hard palate** or **mandible**\n• **T4b:** lateral pterygoid, pterygoid plates, lateral nasopharynx, skull base or encasing the carotid",
+   "m": "2-4-beyond: T1 up to 2, T2 up to 4, T3 over 4, T4 invades neighbours.",
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "TUM",
+   "q": "How does carcinoma of the base (posterior 1/3) of the tongue present?",
+   "a": "• **Initially silent** – the base of tongue is hidden and less sensitive\n• Early: vague sore throat, mild odynophagia, **lump-in-throat** feeling\n• Commonly first presents with a **neck lump** (nodal metastasis)\n• Later: **referred otalgia** (CN IX), odynophagia, bleeding, **'hot potato' voice**, dysphagia, reduced tongue mobility\n• Exophytic or infiltrating mass felt on **digital palpation**",
+   "m": "Base of tongue cancer whispers – neck lump and earache are often its first words.",
+   "r": "Slide p47"
+  },
+  {
+   "t": "TUM",
+   "q": "How do you diagnose and treat carcinoma of the base of tongue?",
+   "a": "• Diagnosis: **palpation**, **laryngoscopy / flexible nasoendoscopy**, **CT/MRI** (local extent, nodes), **biopsy for HPE** (+ p16), CT thorax for staging\n• Treatment: **radiotherapy** or **chemoradiotherapy** (organ-preserving)\n• Or **surgery** (transoral robotic/laser resection, mandibulotomy approaches) + **neck dissection**\n• Palliative: **tracheostomy**, **gastrostomy** feeding, analgesia\n• Note: slide p47 says 'gastrotomy'; correct is gastrostomy",
+   "m": "Feel it, scope it, scan it, biopsy it – then radiate or resect.",
+   "r": "Slide p47"
+  },
+  {
+   "t": "TUM",
+   "q": "How does carcinoma of the tonsil present, and what should you do with a unilaterally enlarged tonsil in an adult?",
+   "a": "• **Persistent unilateral sore throat**, odynophagia, **referred otalgia**, **neck lump**\n• Progression: bleeding, **halitosis**, **trismus** (pterygoid invasion)\n• Diagnosis: palpation (induration), **biopsy for HPE**, CT/MRI\n• Treatment: radiotherapy / chemoradiotherapy, or surgery ± neck dissection\n• **Unilateral tonsillar enlargement in an adult → excision biopsy (tonsillectomy)** to exclude **SCC or lymphoma**",
+   "m": "One big tonsil in an adult is a tumour until the pathologist says otherwise.",
+   "r": "Slide p48"
+  },
+  {
+   "t": "TUM",
+   "q": "How do carcinomas of the faucial arch and the posterior/lateral pharyngeal wall present and spread?",
+   "a": "• **Faucial (palatine) arch:** persistent sore throat, local pain or earache, dysphagia; spreads to lymph nodes; diagnosis biopsy + CT; treatment irradiation or surgical excision\n• **Posterior/lateral pharyngeal wall:** often **asymptomatic** until dysphagia; seen on indirect laryngoscopy/endoscopy\n• Wall tumours spread **submucosally** to tonsil, soft palate, tongue, nasopharynx, hypopharynx; may invade the **parapharyngeal space** or **anterior spinal ligament**; early **node metastases** (retropharyngeal)\n• Wall treatment: radiotherapy; surgical excision with skin grafting",
+   "m": "The back wall hides its spread under the mucosa – what you see is the tip of the iceberg.",
+   "r": "Slides p49-50"
+  },
+  {
+   "t": "OSA",
+   "q": "What are central, obstructive and mixed sleep apnoea?",
+   "a": "• **Apnoea:** cessation of airflow for **≥ 10 seconds**; **hypopnoea:** ≥ 30% fall in airflow with ≥ 3% desaturation or arousal\n• **Obstructive:** upper airway **collapses**; respiratory **effort continues** against the closed airway\n• **Central:** airway patent but the **brain fails to signal** the respiratory muscles – **no effort**\n• **Mixed:** begins central, ends obstructive",
+   "m": "Obstructive = trying but blocked; Central = not even trying.",
+   "r": "Slide p52"
+  },
+  {
+   "t": "OSA",
+   "q": "What are the anatomical risk factors for OSA?",
+   "a": "• **Micrognathia / retrognathia**, **mandibular hypoplasia**\n• **Facial elongation**\n• **Adenotonsillar hypertrophy** – commonest cause in children\n• **Inferior displacement of the hyoid**\n• Also: macroglossia, nasal obstruction (septal deviation, polyps, turbinate hypertrophy), crowded oropharynx",
+   "m": "Small jaw, big tonsils, low hyoid = a small box with too much in it.",
+   "r": "Slide p52"
+  },
+  {
+   "t": "OSA",
+   "q": "What are the non-anatomical and medical risk factors for OSA?",
+   "a": "• **Obesity** (central fat, large neck), **male sex**, **advancing age**, **supine sleeping**, **pregnancy**\n• Medical: **hypothyroidism** and **acromegaly** (endocrine), **Down syndrome**, **Prader-Willi syndrome**, neuromuscular/neurological disease, **congestive heart failure**\n• Others: **alcohol**, **sedatives and hypnotics**, **smoking**",
+   "m": "Fat, fifty, male, on his back after a few drinks – the classic snorer.",
+   "r": "Slide p52"
+  },
+  {
+   "t": "OSA",
+   "q": "Why does the upper airway collapse during sleep in OSA, and why is REM sleep worst?",
+   "a": "• Sleep **reduces pharyngeal dilator muscle tone** → narrower, floppy airway → collapse in an anatomically narrow airway\n• **REM sleep** → **greatest muscle relaxation (atonia)** → longest, deepest events\n• **Alcohol and sedatives** further suppress muscle activity and arousal → more collapse\n• Each event ends with an **arousal** that fragments sleep → daytime sleepiness",
+   "m": "Asleep, the throat is a wet paper straw – it collapses when the muscles holding it open switch off.",
+   "r": "Slide p54"
+  },
+  {
+   "t": "OSA",
+   "q": "What is 'high loop gain' and how does it worsen OSA?",
+   "a": "• Loop gain = sensitivity of the **respiratory control system** to changes in CO2\n• Obstruction → O2 falls, CO2 rises → over-sensitive brain responds with **rapid deep breathing**\n• Overshoot blows off CO2 → **hypocapnia** → central drive falls → breathing **temporarily stops**\n• Low drive also **reduces dilator muscle activity** → airway more likely to collapse → cycle repeats",
+   "m": "Like an over-sensitive thermostat: overshoots, undershoots, never settles.",
+   "r": "Slide p54"
+  },
+  {
+   "t": "OSA",
+   "q": "What are the night-time features of OSA?",
+   "a": "• **Loud habitual snoring**\n• **Witnessed apnoeas** (pauses noticed by the bed partner)\n• **Gasping or choking** on waking\n• **Nocturia**\n• Restless sleep, night sweats\n• Children: snoring, mouth breathing, restless sleep, enuresis",
+   "m": "The bed partner gives the history – ask them.",
+   "r": "Slide p53"
+  },
+  {
+   "t": "OSA",
+   "q": "What are the daytime features of OSA?",
+   "a": "• **Excessive daytime sleepiness** (falling asleep driving, in meetings)\n• **Morning headache** (CO2 retention), fatigue\n• **Dry mouth or sore throat** on waking\n• Poor concentration, **memory problems**, forgetfulness\n• **Mood changes** (irritability, depression), reduced libido\n• Children: hyperactivity, behavioural problems, poor school performance, failure to thrive",
+   "m": "Sleepy adults, hyperactive children.",
+   "r": "Slide p53"
+  },
+  {
+   "t": "OSA",
+   "q": "What should you look for on examination of a patient with suspected OSA?",
+   "a": "• **General:** BMI (obesity), **neck circumference > 40 cm** (> 43 cm men, > 40 cm women in some texts), **blood pressure**\n• **Craniofacial:** **micrognathia / retrognathia**, high-arched palate\n• **Oropharynx:** crowded oropharynx, **modified Mallampati grade 3-4**, **enlarged tonsils**, macroglossia, long soft palate/uvula\n• **Nose:** septal deviation, turbinate hypertrophy, polyps\n• Note: slide p55 says 'Anthropometic'; the term is anthropometric",
+   "m": "Weigh, measure the neck, look at the jaw, look in the mouth, look up the nose.",
+   "r": "Slide p55"
+  },
+  {
+   "t": "OSA",
+   "q": "What is the STOP-BANG questionnaire and how is it interpreted?",
+   "a": "• **S**noring, **T**iredness, **O**bserved apnoea, high blood **P**ressure\n• **B**MI > 35 kg/m², **A**ge > 50 years, **N**eck > 40 cm, male **G**ender\n• 1 point each (0-8): **0-2 low**, **3-4 intermediate**, **5-8 high risk**\n• **Score ≥ 3 = increased risk → refer for a sleep study**\n• Screening tool only – it does not diagnose OSA\n• Note: slide p56 writes 'STOP-BANG > 3'; standard cut-off is ≥ 3",
+   "m": "Three ticks and you are in the sleep lab.",
+   "r": "Slide p56"
+  },
+  {
+   "t": "OSA",
+   "q": "What is the Epworth Sleepiness Scale and what does it tell you?",
+   "a": "• Self-rated chance of dozing in **8 everyday situations**, each scored **0-3** → total **0-24**\n• **> 10 = excessive daytime sleepiness**\n• Measures **subjective sleepiness only** – **not diagnostic** of OSA (many patients with severe OSA score low)\n• Useful to track response to treatment and for driving assessment",
+   "m": "Eight situations × three points = 24; double figures (> 10) = sleepy.",
+   "r": "Slide p56"
+  },
+  {
+   "t": "OSA",
+   "q": "What are the four levels of sleep study, and which can diagnose OSA?",
+   "a": "• **Level 1:** full **attended in-lab PSG** (≥ 7 channels, staff present) – gold standard\n• **Level 2:** full **unattended PSG** (≥ 7 channels)\n• **Level 3:** portable / home sleep apnoea test (**HSAT**, ≥ 4 channels)\n• **Level 4:** 1-2 channels (e.g. **overnight oximetry**) – **screening only**\n• OSA is diagnosed with **level 1, 2 or 3**\n• Negative, inconclusive or inadequate HSAT despite high suspicion → **full PSG**",
+   "m": "Levels 1-3 diagnose; level 4 only knocks on the door.",
+   "r": "Slide p57"
+  },
+  {
+   "t": "OSA",
+   "q": "What is the AHI, what are the adult diagnostic criteria for OSA, and how is severity graded?",
+   "a": "• **AHI = (apnoeas + hypopnoeas) per hour of sleep**\n• Diagnosis: **AHI ≥ 5** with typical symptoms or associated disease (hypertension, IHD, stroke, AF), **or AHI ≥ 15** even without symptoms\n• Severity: **mild 5 to < 15**, **moderate 15-30**, **severe > 30** events/h\n• Children: **AHI > 1** is abnormal",
+   "m": "5-15-30: the three doors of OSA severity.",
+   "r": "Slide p58"
+  },
+  {
+   "t": "OSA",
+   "q": "How is the site of upper-airway obstruction assessed before OSA surgery?",
+   "a": "• **Drug-induced sleep endoscopy (DISE):** flexible endoscopy under sedation (e.g. propofol) that mimics sleep; shows the **site, degree and pattern** of dynamic collapse (velum, oropharynx, tongue base, epiglottis)\n• Malaysian CPG: DISE is **more accurate** than awake assessment for planning sleep surgery\n• **Fibre-optic nasendoscopy with Müller manoeuvre (FNMM):** awake; patient inspires forcibly against a closed mouth and nose; identifies level of collapse\n• FNMM may be offered when **DISE cannot be performed**",
+   "m": "DISE watches the airway asleep; Müller asks the awake patient to pretend.",
+   "r": "Slide p59"
+  },
+  {
+   "t": "OSA",
+   "q": "What are the main differential diagnoses of OSA?",
+   "a": "• **Central sleep apnoea:** apnoea **without respiratory effort**; heart failure (Cheyne-Stokes), stroke, **opioids**, neurological disease\n• **Obesity hypoventilation syndrome:** **BMI ≥ 30 + awake PaCO2 > 45 mmHg**, other causes excluded\n• **Primary snoring:** loud snoring but **no witnessed apnoea, desaturation or significant daytime sleepiness**\n• Upper airway obstruction (nasal, adenotonsillar) and **insomnia** (fatigue without apnoeas)\n• Others: narcolepsy, depression, hypothyroidism, shift work",
+   "m": "No effort = central; high CO2 awake = OHS; noise only = primary snoring.",
+   "r": "Slide p60"
+  },
+  {
+   "t": "OSAT",
+   "q": "What are the conservative (lifestyle and positional) measures for OSA?",
+   "a": "• **Weight reduction** – diet, exercise; bariatric surgery for morbid obesity\n• **Avoid alcohol, sedatives and smoking** (especially in the evening)\n• **Positional therapy:** sleep on the side; **tennis-ball technique** (ball sewn into the back of the pyjamas) prevents supine sleep\n• Treat nasal disease: **intranasal corticosteroids** for allergic rhinitis / chronic rhinosinusitis\n• Sleep hygiene; treat hypothyroidism if present",
+   "m": "Lose weight, lose the nightcap, lose the back position.",
+   "r": "Slide p61"
+  },
+  {
+   "t": "OSAT",
+   "q": "What is CPAP, and what is its role in OSA?",
+   "a": "• **Continuous positive airway pressure** via nasal or full-face mask acts as a **pneumatic splint** holding the pharynx open\n• **First-line / gold-standard treatment for moderate-severe OSA** and symptomatic mild OSA\n• Improves sleepiness, BP, quality of life and driving safety\n• Main problem: **adherence** (mask discomfort, nasal blockage, claustrophobia)\n• **BiPAP** (separate inspiratory and expiratory pressures) for CPAP intolerance at high pressures or coexisting hypoventilation (OHS, COPD)",
+   "m": "CPAP = an air splint – it blows the floppy throat open.",
+   "r": "Slide p61"
+  },
+  {
+   "t": "OSAT",
+   "q": "What intraoral devices are used for OSA, and for whom?",
+   "a": "• **Mandibular advancement appliance (MAA/MAD):** holds the lower jaw forward → pulls the tongue base forward, enlarges the airway\n• **Tongue-retaining device (TRD):** suction bulb holds the tongue forward (edentulous patients)\n• Indicated for **mild-moderate OSA**, primary snoring, or **CPAP-intolerant** patients\n• Need adequate healthy teeth; side effects: jaw/TMJ pain, tooth movement",
+   "m": "Jaw forward, tongue forward, airway open.",
+   "r": "Slide p61"
+  },
+  {
+   "t": "OSAT",
+   "q": "What is the role of nasal surgery in OSA?",
+   "a": "• Procedures: **septoplasty**, **inferior turbinate reduction**, **polypectomy** / FESS\n• Reduces nasal resistance and mouth breathing\n• Rarely cures OSA alone – mainly **improves CPAP tolerance** (lower pressure, better mask comfort) and snoring\n• Combine with intranasal steroids for allergic or inflammatory disease",
+   "m": "Fix the nose to help the mask, not to replace it.",
+   "r": "Slides p61, p63"
+  },
+  {
+   "t": "OSAT",
+   "q": "What soft-tissue (pharyngeal) operations are used for OSA?",
+   "a": "• **Tonsillectomy ± adenoidectomy** – very effective when tonsils are large\n• **Uvulopalatopharyngoplasty (UPPP):** removes uvula, redundant soft palate and tonsils, tightens pillars\n• **Expansion / reposition pharyngoplasty** and **uvulopalatoplasty** (e.g. laser-assisted, mainly for snoring) – separate procedures\n• **Tongue base radiofrequency reduction**\n• Best chosen after **DISE** shows the level of collapse\n• Note: slide p61 lists uvulopalatoplasty as if it were a type of reposition pharyngoplasty; they are different operations",
+   "m": "Soft-tissue surgery trims the curtains (palate, uvula, tonsils, tongue base).",
+   "r": "Slides p61, p63"
+  },
+  {
+   "t": "OSAT",
+   "q": "What skeletal surgery is used for OSA, and what is the last-resort operation?",
+   "a": "• **Genioplasty (genioglossus advancement) with hyoid suspension** – pulls the tongue base and hyoid forward\n• **Maxillomandibular osteotomy and advancement (MMA)** – moves both jaws forward; most effective surgery for severe OSA / retrognathia\n• **Tracheostomy** – bypasses all upper-airway obstruction; **last resort** for severe OSA failing other treatment (e.g. cor pulmonale, life-threatening hypoxia)",
+   "m": "Soft tissue trims the curtains; skeletal surgery moves the window frame; tracheostomy builds a new door.",
+   "r": "Slides p61, p63"
+  },
+  {
+   "t": "OSAT",
+   "q": "What is the first-line treatment of OSA in children?",
+   "a": "• Commonest cause: **adenotonsillar hypertrophy**\n• **Adenotonsillectomy** is first-line in otherwise healthy children\n• Monitor overnight post-op if severe OSA, age < 3 years, obesity, Down syndrome, craniofacial or neuromuscular disease (airway complications)\n• Persistent OSA after surgery (obese, syndromic) → **CPAP**\n• Mild cases: intranasal steroids / montelukast may help",
+   "m": "In children, take out the tonsils and adenoids before you reach for the mask.",
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "OSAT",
+   "q": "What are the cardiovascular complications of untreated OSA?",
+   "a": "• **Systemic hypertension** – classically **resistant hypertension**\n• **Atrial and ventricular arrhythmias** (especially **atrial fibrillation**)\n• **Angina / ischaemic heart disease**\n• **Congestive heart failure** and **pulmonary hypertension / cor pulmonale**\n• **Stroke**\n• Mechanism: repeated hypoxia and arousals → sympathetic surges, oxidative stress, intrathoracic pressure swings",
+   "m": "OSA strains the heart every night – hundreds of tiny suffocations.",
+   "r": "Slide p65"
+  },
+  {
+   "t": "OSAT",
+   "q": "What are the non-cardiac complications of OSA, and what driving advice should you give?",
+   "a": "• **Road traffic accidents** from sleepiness\n• **Snoring spouse syndrome** – partner's sleep disturbed\n• **Loss of memory**, poor concentration, depression\n• **Decreased libido**, erectile dysfunction\n• Metabolic: insulin resistance / diabetes\n• Driving: advise **not to drive while sleepy**; resume once symptoms are controlled on treatment (e.g. CPAP); inform the licensing authority if required, especially commercial drivers",
+   "m": "Sleepy at the wheel kills – treat first, drive later.",
+   "r": "Slide p65"
+  }
+ ],
+ "mcq": [
+  {
+   "t": "ANAT",
+   "stem": "A 26-year-old woman attends the ENT clinic two days after an elective tonsillectomy. She complains of severe right earache, worse on swallowing. Otoscopy shows normal, mobile tympanic membranes and she is afebrile.\nWhich nerve is most likely carrying this pain to the ear?",
+   "o": [
+    "Auricular branch of the vagus nerve (Arnold's nerve)",
+    "Auriculotemporal branch of the mandibular nerve",
+    "Tympanic branch of the glossopharyngeal nerve",
+    "Great auricular nerve from the C2-C3 roots",
+    "Lesser occipital nerve from the C2 root"
+   ],
+   "a": 2,
+   "e": "The tonsil and tonsillar bed are supplied by the **glossopharyngeal nerve (CN IX)**, whose **tympanic (Jacobson's) branch** also supplies the middle ear mucosa, so tonsil-bed pain is felt in the ear. This is why referred otalgia follows tonsillectomy, tonsillitis and quinsy with a normal drum. Arnold's nerve (X) is the pathway for otalgia from laryngeal and hypopharyngeal lesions.",
+   "w": [
+    "Wrong - Arnold's nerve refers pain from the larynx and hypopharynx (vagal territory), not from the tonsil bed.",
+    "Wrong - the auriculotemporal nerve refers pain from the teeth, TMJ and anterior tongue, not the tonsillar fossa.",
+    "Correct - CN IX supplies the tonsil bed and, via Jacobson's nerve, the tympanic cavity.",
+    "Wrong - C2-C3 refer pain from the cervical spine and neck, not from the oropharynx.",
+    "Wrong - the lesser occipital nerve supplies skin behind the ear and carries no oropharyngeal sensation."
+   ],
+   "r": "Slides p11, p32"
+  },
+  {
+   "t": "ANAT",
+   "stem": "A 58-year-old man is reviewed in the ENT clinic after resection of a left jugular foramen tumour. His voice is hoarse and breathy. On saying 'Ah', the uvula is pulled to the right; the tongue protrudes in the midline and facial sensation is intact.\nWhich nerve lesion best explains the palatal findings?",
+   "o": [
+    "Left vagus nerve via the pharyngeal plexus",
+    "Right vagus nerve via the pharyngeal plexus",
+    "Left mandibular nerve to tensor veli palatini",
+    "Right glossopharyngeal nerve",
+    "Left hypoglossal nerve"
+   ],
+   "a": 0,
+   "e": "All soft palate muscles except **tensor veli palatini (V3)** are supplied by the **vagus via the pharyngeal plexus**. When one side is paralysed, the intact levator veli palatini pulls the uvula **towards the healthy side**, so a uvula pulled to the right means a **left** vagal lesion, fitting a left jugular foramen tumour. Tensor veli palatini is too weak to deviate the uvula on its own.",
+   "w": [
+    "Correct - left X palsy: the intact right levator veli palatini pulls the uvula to the right.",
+    "Wrong - a right vagal lesion would pull the uvula to the left, towards the healthy side.",
+    "Wrong - loss of tensor veli palatini (V3) does not visibly deviate the uvula, and facial sensation is intact.",
+    "Wrong - CN IX is mainly sensory to the oropharynx (gag afferent); it does not elevate the palate.",
+    "Wrong - a XII palsy causes tongue deviation on protrusion, which is absent here."
+   ],
+   "r": "Slide p7"
+  },
+  {
+   "t": "ANAT",
+   "stem": "A 17-year-old boy presents to the Klinik Kesihatan with 3 days of fever and painful swallowing. Both tonsils are red and swollen. A single tender, enlarged lymph node is palpable just below and behind the angle of the mandible, deep to the anterior border of sternocleidomastoid.\nWhich lymph node is this?",
+   "o": [
+    "Retropharyngeal node of Rouvière (lateral group)",
+    "Submental node of the superficial ring",
+    "Jugulo-omohyoid node of the lower deep chain",
+    "Pre-auricular node of the parotid group",
+    "Jugulodigastric node of the upper deep chain"
+   ],
+   "a": 4,
+   "e": "The palatine tonsil drains mainly to the **jugulodigastric node** (the 'tonsillar node') of the upper deep cervical chain, which enlarges and becomes tender in tonsillitis and may suppurate into a cervical abscess. Note: slide p11 lists only retropharyngeal nodes; these receive some pharyngeal drainage but are impalpable and regress in early childhood. Correct is the jugulodigastric node as the main tonsillar node, as slide p22 states.",
+   "w": [
+    "Wrong - retropharyngeal nodes lie behind the pharynx, cannot be palpated in the neck and regress by about 3-5 years.",
+    "Wrong - submental nodes drain the chin, lower lip and tip of the tongue.",
+    "Wrong - the jugulo-omohyoid node lies low, where omohyoid crosses the IJV, and is the key node for the tongue.",
+    "Wrong - pre-auricular nodes drain the scalp, eyelids and parotid region.",
+    "Correct - the jugulodigastric (tonsillar) node is the main drainage of the palatine tonsil."
+   ],
+   "r": "Slides p11, p22"
+  },
+  {
+   "t": "ANAT",
+   "stem": "A 64-year-old man is seen on the surgical ward after a right carotid endarterectomy. On protrusion his tongue deviates to the right and the right half shows early fasciculation. Palatal movement and the gag reflex are normal.\nWhich muscle acting on the tongue is NOT supplied by the injured nerve?",
+   "o": [
+    "Genioglossus",
+    "Palatoglossus",
+    "Hyoglossus",
+    "Styloglossus",
+    "Superior longitudinal (intrinsic)"
+   ],
+   "a": 1,
+   "e": "The injured nerve is the **hypoglossal (XII)**, which supplies all intrinsic and extrinsic tongue muscles **except palatoglossus**, supplied by the **vagus via the pharyngeal plexus** (it is really a palatal muscle and forms the anterior tonsillar pillar). The tongue deviates towards the side of a LMN XII lesion because the healthy genioglossus pushes it across.",
+   "w": [
+    "Wrong - genioglossus is supplied by XII; its weakness is why the tongue deviates to the lesion side.",
+    "Correct - palatoglossus is supplied by X via the pharyngeal plexus and forms the anterior pillar.",
+    "Wrong - hyoglossus is supplied by XII.",
+    "Wrong - styloglossus is supplied by XII.",
+    "Wrong - all intrinsic tongue muscles are supplied by XII."
+   ],
+   "r": "Slide p8"
+  },
+  {
+   "t": "PHYS",
+   "stem": "A 6-year-old unvaccinated girl is reviewed on the paediatric ward three weeks after a severe throat infection. Her mother reports that milk comes out of her nose when she drinks, and her speech has become nasal. The pharynx now looks clear.\nFailure of which pharyngeal-phase event best explains the nasal regurgitation?",
+   "o": [
+    "Elevation of the larynx under the base of the tongue",
+    "Backward folding of the epiglottis over the inlet",
+    "Adduction of the vocal cords during swallowing apnoea",
+    "Elevation of the soft palate to seal the nasopharynx",
+    "Relaxation of the upper oesophageal sphincter"
+   ],
+   "a": 3,
+   "e": "In the **pharyngeal (involuntary) phase** the soft palate rises against the posterior pharyngeal wall to **close the nasopharyngeal isthmus**, so the bolus cannot enter the nose. Palatal paralysis, classically post-diphtheritic 2-3 weeks after the throat infection, causes nasal regurgitation and hypernasal speech. Laryngeal elevation, epiglottic folding and cord closure protect the lower airway; their failure causes aspiration and coughing, not nasal reflux.",
+   "w": [
+    "Wrong - poor laryngeal elevation leads to aspiration into the larynx, not fluid from the nose.",
+    "Wrong - epiglottic failure lets the bolus enter the laryngeal inlet (aspiration).",
+    "Wrong - cord closure (deglutition apnoea) protects the trachea; failure causes coughing and choking.",
+    "Correct - the soft palate must close the nasopharynx; palatal palsy gives nasal regurgitation and nasal speech.",
+    "Wrong - failure of UES relaxation causes pooling in the pyriform fossae and overflow aspiration."
+   ],
+   "r": "Slide p18"
+  },
+  {
+   "t": "PHYS",
+   "stem": "A mother in the ENT clinic asks how her 5-year-old son's tonsils 'fight germs' before agreeing to tonsillectomy for recurrent tonsillitis. You explain how antigens in the tonsillar crypts reach the lymphoid tissue and which antibody guards the mucosal surface.\nWhich pairing is correct?",
+   "o": [
+    "M (microfold) cells and secretory IgA",
+    "Goblet cells and secretory IgA",
+    "M (microfold) cells and IgE",
+    "Langerhans cells and IgG",
+    "Follicular dendritic cells and secretory IgA"
+   ],
+   "a": 0,
+   "e": "**M (microfold) cells** overlying the tonsillar crypts capture antigens and deliver them to the underlying lymphoid follicles, activating T and B lymphocytes. B cells produce **secretory IgA** for mucosal protection, while IgG and IgM neutralise organisms and T cells provide cell-mediated immunity. Removing the tonsils causes no clinically important immune deficit because the rest of the mucosa-associated lymphoid tissue compensates.",
+   "w": [
+    "Correct - M cells sample crypt antigens; B cells make secretory IgA for mucosal defence.",
+    "Wrong - goblet cells secrete mucus and do not transport antigen, although IgA is right.",
+    "Wrong - IgE mediates allergy and antiparasitic defence, not routine mucosal protection.",
+    "Wrong - Langerhans cells belong to squamous surface epithelium and IgG acts mainly in serum and tissues.",
+    "Wrong - follicular dendritic cells sit in germinal centres presenting antigen to B cells; they do not sample the crypt lumen."
+   ],
+   "r": "Slide p19"
+  },
+  {
+   "t": "TONS",
+   "stem": "A 19-year-old university student presents to the Klinik Kesihatan with a 6-day sore throat, fever and marked fatigue. Both tonsils are enlarged with a creamy exudate. There are palatal petechiae, tender posterior cervical and axillary nodes and a palpable spleen tip. A widespread itchy maculopapular rash appeared two days after starting amoxicillin.\nWhich investigation is most likely to confirm the diagnosis?",
+   "o": [
+    "Throat swab for group A streptococcal culture",
+    "Antistreptolysin O titre at presentation",
+    "Monospot test with a peripheral blood film",
+    "Swab culture on Loeffler's serum medium",
+    "Skin patch testing for penicillin allergy"
+   ],
+   "a": 2,
+   "e": "Generalised lymphadenopathy, splenomegaly, palatal petechiae and an **amoxicillin rash** in a young adult point to **infectious mononucleosis (EBV)**. Confirm with a **Monospot (heterophile antibody)** test and a film showing **atypical lymphocytes**, with EBV serology if the Monospot is negative early. The rash is not a true penicillin allergy; advise avoiding contact sports for several weeks because of the risk of splenic rupture.",
+   "w": [
+    "Wrong - a positive culture may only reflect carriage and does not explain splenomegaly and the drug rash.",
+    "Wrong - ASO rises late and shows past streptococcal infection, not the cause of this illness.",
+    "Correct - Monospot plus atypical lymphocytes on the film confirms EBV glandular fever.",
+    "Wrong - Loeffler's medium is for diphtheria, which gives an adherent grey membrane in the unvaccinated, not splenomegaly with a drug rash.",
+    "Wrong - the amoxicillin rash of EBV is not allergic; patch testing does not make the diagnosis."
+   ],
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "TONS",
+   "stem": "A 5-year-old boy whose parents declined childhood vaccination is brought to the Emergency Department with 2 days of low-grade fever, sore throat and noisy breathing. He looks toxic, with marked soft-tissue swelling of the neck. A dirty grey membrane covers both tonsils and extends onto the uvula and soft palate; it bleeds when touched with a swab.\nWhile securing the airway as needed, what is the most appropriate immediate management?",
+   "o": [
+    "Oral penicillin V for 10 days and review in clinic",
+    "IV amoxicillin with a Monospot test before treating",
+    "Emergency tonsillectomy to remove the membrane",
+    "Metronidazole and chlorhexidine mouthwash",
+    "Isolate, give antitoxin and penicillin, and notify"
+   ],
+   "a": 4,
+   "e": "An adherent grey membrane spreading **beyond the tonsil onto the uvula and palate** that **bleeds on removal**, with **bull neck** and toxicity in an unvaccinated child, is **diphtheria**. Give **diphtheria antitoxin** on clinical suspicion without waiting for culture, plus penicillin or erythromycin; isolate, protect the airway and **notify** (notifiable disease in Malaysia), and give contacts prophylaxis. The toxin causes myocarditis and palatal and cranial nerve palsies, so monitor the ECG.",
+   "w": [
+    "Wrong - outpatient antibiotics alone leave circulating toxin untreated and skip isolation and notification.",
+    "Wrong - amoxicillin and Monospot target EBV; delaying antitoxin for tests worsens toxin damage.",
+    "Wrong - stripping or excising the membrane causes bleeding and toxin absorption; surgery has no acute role.",
+    "Wrong - metronidazole and mouthwash treat Vincent's angina, not a toxin-producing infection.",
+    "Correct - antitoxin early, antibiotics, isolation and notification are the core of diphtheria care."
+   ],
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "TONS",
+   "stem": "A 30-year-old man who smokes heavily presents to the ENT clinic with a week of painful swallowing on the right and a foul taste. His gums are inflamed and bleed easily, with poor dental hygiene. The right tonsil has a punched-out ulcer covered by a yellow-grey slough that comes away easily; the left tonsil is normal. He is mildly febrile.\nWhat would a Gram-stained smear from the ulcer most likely show?",
+   "o": [
+    "Gram-positive cocci in long chains",
+    "Fusiform bacilli with numerous spirochaetes",
+    "Club-shaped Gram-positive rods in palisades",
+    "Pseudohyphae with budding yeast cells",
+    "Gram-negative intracellular diplococci"
+   ],
+   "a": 1,
+   "e": "A unilateral ulcer with slough in a patient with **poor oral hygiene and gingivitis** is **Vincent's angina** (ulceromembranous tonsillitis), caused by **fusiform bacilli and spirochaetes** (Borrelia vincentii). Treat with penicillin or **metronidazole**, dental care and chlorhexidine or hydrogen peroxide mouthwash. In a smoker, a unilateral ulcer that has not healed within 2-3 weeks needs biopsy to exclude carcinoma.",
+   "w": [
+    "Wrong - chains of cocci suggest streptococcal tonsillitis, which is usually bilateral and lacks gingivitis.",
+    "Correct - fusiform bacilli plus spirochaetes are the organisms of Vincent's angina.",
+    "Wrong - club-shaped palisading rods are Corynebacterium diphtheriae, which forms an adherent membrane that bleeds.",
+    "Wrong - Candida gives white plaques, mainly in the immunocompromised or after antibiotics or inhaled steroids.",
+    "Wrong - Gram-negative diplococci suggest gonococcal pharyngitis, which does not cause a punched-out ulcer with gingivitis."
+   ],
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "TONS",
+   "stem": "Five children aged 5-10 years are referred from Klinik Kesihatan to the ENT clinic for recurrent sore throats. Every episode was documented with fever above 38.3 °C, tonsillar exudate or tender cervical nodes, and antibiotic treatment.\nWhich child meets the frequency criteria for tonsillectomy?",
+   "o": [
+    "Six episodes in the past 12 months, none before that",
+    "Four episodes a year in each of the last 2 years",
+    "Two episodes a year in each of the last 4 years",
+    "Three episodes a year in each of the last 3 years",
+    "Five episodes this year and two the year before"
+   ],
+   "a": 3,
+   "e": "The **Paradise criteria** for recurrent tonsillitis are **≥ 7 episodes in 1 year, ≥ 5 a year for 2 years, or ≥ 3 a year for 3 years**, each episode documented (fever > 38.3 °C, exudate, tender nodes or positive streptococcal culture). Only three a year sustained over 3 years qualifies here. The other children can be watched, as many improve with age.",
+   "w": [
+    "Wrong - six in one year falls short of the seven needed for the 1-year criterion.",
+    "Wrong - the 2-year criterion needs at least five episodes in each year.",
+    "Wrong - two a year meets no criterion, however long it continues.",
+    "Correct - at least three a year for 3 years meets the Paradise criteria.",
+    "Wrong - the earlier year has only two episodes, so neither the 1-year nor the 2-year criterion is met."
+   ],
+   "r": "Slide p21"
+  },
+  {
+   "t": "TONS",
+   "stem": "A 7-year-old boy with no drug allergies is seen at the Klinik Kesihatan with 2 days of fever of 39 °C, painful swallowing and no cough. The tonsils are swollen with exudate and the jugulodigastric nodes are tender. His mother asks what to give for the pain and fever.\nWhich is the most appropriate management?",
+   "o": [
+    "Penicillin V for 10 days with paracetamol",
+    "Penicillin V for 10 days with aspirin",
+    "Amoxicillin for 5 days with aspirin",
+    "Erythromycin for 3 days with ibuprofen",
+    "Ciprofloxacin for 7 days with paracetamol"
+   ],
+   "a": 0,
+   "e": "Probable bacterial tonsillitis (high Centor or FeverPAIN score) is treated with **penicillin V for 10 days**, the course needed to eradicate group A streptococcus and prevent rheumatic fever, with **paracetamol ± ibuprofen**, fluids and rest. **Avoid aspirin** in children (Reye syndrome) and in anyone who may need tonsil surgery (bleeding). Note: slide p28 says 'aspirin or paracetamol'; correct is paracetamol ± NSAID, never aspirin in a child. Macrolides are for penicillin allergy, and amoxicillin is avoided when glandular fever is possible.",
+   "w": [
+    "Correct - 10 days of penicillin V with paracetamol is standard for streptococcal tonsillitis.",
+    "Wrong - aspirin is contraindicated under 16 years (Reye syndrome), even though the slide lists it.",
+    "Wrong - amoxicillin causes a rash if this is EBV, 5 days is too short, and aspirin is unsafe.",
+    "Wrong - erythromycin is for penicillin allergy, and 3 days will not eradicate the streptococcus.",
+    "Wrong - ciprofloxacin has poor streptococcal cover and is not used for tonsillitis in children."
+   ],
+   "r": "Slide p28"
+  },
+  {
+   "t": "TONS",
+   "stem": "A 42-year-old woman started carbimazole for Graves' disease 6 weeks ago. She presents to the Emergency Department with 2 days of high fever, rigors and a severe sore throat. Both tonsils show grey necrotic ulcers with dirty slough, but there is little cervical lymphadenopathy.\nWhat is the most important next step?",
+   "o": [
+    "Throat swab and start oral penicillin V",
+    "Monospot test and avoid contact sports",
+    "Urgent full blood count with differential",
+    "Diphtheria antitoxin and notify the outbreak",
+    "Excision biopsy of the more ulcerated tonsil"
+   ],
+   "a": 2,
+   "e": "Necrotic tonsillar ulceration with fever and **little nodal response** in a patient on **carbimazole** suggests **drug-induced agranulocytosis**. Do an **urgent FBC with differential**; if neutrophils are low, stop carbimazole and treat as **neutropenic sepsis** with broad-spectrum IV antibiotics. Any tonsillar membrane in an unwell patient deserves an FBC to exclude agranulocytosis and leukaemia.",
+   "w": [
+    "Wrong - oral penicillin as an outpatient is dangerous if she is neutropenic.",
+    "Wrong - EBV is unlikely at 42 on carbimazole, and the test ignores the life-threatening possibility.",
+    "Correct - the FBC confirms agranulocytosis, and the drug must be stopped at once.",
+    "Wrong - nothing suggests diphtheria (no adherent palatal membrane, no bull neck); antitoxin is not indicated.",
+    "Wrong - biopsy is for a unilateral suspicious lesion; bilateral necrosis with fever needs a blood count first."
+   ],
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "TONS",
+   "stem": "A 10-year-old girl is seen at the Klinik Kesihatan with 1 day of fever, sore throat and pain on swallowing. Both tonsils are congested and studded with discrete yellowish spots of pus at the openings of the crypts; the spots have not joined into a sheet.\nWhich type of acute tonsillitis is this?",
+   "o": [
+    "Catarrhal (superficial)",
+    "Follicular",
+    "Parenchymatous",
+    "Membranous",
+    "Chronic parenchymatous"
+   ],
+   "a": 1,
+   "e": "In **follicular** tonsillitis the infection spreads into the **crypts**, which fill with pus seen as **discrete yellow spots** at their openings. When the crypt exudate **coalesces** into a continuous whitish sheet that wipes off easily, it is **membranous**. Catarrhal is superficial (often viral pharyngitis) and parenchymatous is uniform gross enlargement that may meet in the midline.",
+   "w": [
+    "Wrong - catarrhal tonsillitis is limited to the surface epithelium with generalised pharyngitis, without crypt pus.",
+    "Correct - discrete pus spots at the crypt openings define follicular tonsillitis.",
+    "Wrong - parenchymatous means uniform enlargement of the whole tonsil, often meeting in the midline.",
+    "Wrong - membranous tonsillitis needs the crypt exudate to coalesce into a continuous membrane.",
+    "Wrong - this is a 1-day illness; chronic tonsillitis means symptoms lasting over 3 months."
+   ],
+   "r": "Slides p22-23"
+  },
+  {
+   "t": "TONS",
+   "stem": "A 23-year-old man attends the ENT clinic with a year of recurrent sore throats, a persistent bad taste and halitosis noticed by his family. Between attacks he is well. The tonsils are small, but pressing on the anterior pillar squeezes out cheesy material; the anterior pillars are flushed compared with the rest of the pharynx and the jugulodigastric nodes are palpable.\nWhat is the most likely diagnosis?",
+   "o": [
+    "Tonsillar retention cyst",
+    "Isolated tonsillolith",
+    "Vincent's angina",
+    "Carcinoma of the tonsil",
+    "Chronic tonsillitis"
+   ],
+   "a": 4,
+   "e": "Recurrent sore throats, halitosis and bad taste with **cheesy material expressed from the crypts**, **flushed anterior pillars** and **enlarged jugulodigastric nodes** indicate **chronic tonsillitis**; small tonsils fit the fibroid type, so size is not the test. Treat coexisting dental or sinus infection and offer tonsillectomy if attacks recur or symptoms interfere with life.",
+   "w": [
+    "Wrong - a retention cyst is a smooth yellowish swelling, usually symptomless, without flushed pillars or nodes.",
+    "Wrong - a tonsillolith is a hard calcified stone in one crypt, not diffuse cheesy debris with inflamed pillars.",
+    "Wrong - Vincent's angina is an acute ulcer with slough and gingivitis.",
+    "Wrong - carcinoma is usually a unilateral ulcer or enlargement with progressive pain in an older smoker.",
+    "Correct - crypt debris, flushed anterior pillars and nodes are the signs of chronic tonsillitis."
+   ],
+   "r": "Slide p26"
+  },
+  {
+   "t": "TSX",
+   "stem": "A 6-year-old boy is on the ENT ward 4 hours after tonsillectomy. The nurse notes he is swallowing repeatedly, his pulse has risen from 100 to 140/min and he has vomited dark blood. Fresh clot is seen in the left tonsillar fossa; capillary refill time is 3 seconds.\nAfter starting resuscitation, what is the most appropriate next step?",
+   "o": [
+    "Observe on the ward with hourly pulse charting",
+    "Oral antibiotics and hydrogen peroxide gargles",
+    "Remove the clot and apply pressure with the child awake",
+    "Return to theatre under GA to secure the bleeding",
+    "Admit for IV antibiotics and review in 24 hours"
+   ],
+   "a": 3,
+   "e": "Bleeding within **24 hours** (usually the first few hours) is **primary or reactionary haemorrhage**, from a slipped tie or a vessel opening up as blood pressure recovers after anaesthesia. Repeated swallowing with tachycardia in a child means a large loss from a small circulating volume. Resuscitate (IV access, cross-match, fluids or blood) and **return to theatre** promptly to secure the vessel, with a senior anaesthetist because of the full stomach and blood in the airway.",
+   "w": [
+    "Wrong - tachycardia and repeated swallowing mean significant blood loss; watching delays definitive control.",
+    "Wrong - antibiotics and gargles are for secondary (infective) haemorrhage at day 5-10, not a bleed at 4 hours.",
+    "Wrong - an awake child will not tolerate clot removal or pressure, and it risks aspiration.",
+    "Correct - reactionary haemorrhage with haemodynamic change needs haemostasis in theatre.",
+    "Wrong - this is the plan for secondary haemorrhage; reactionary bleeding is a mechanical problem."
+   ],
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "TSX",
+   "stem": "A 24-year-old woman returns to the Emergency Department on day 7 after tonsillectomy with a small amount of fresh bleeding from the mouth. She has had worsening throat pain and a temperature of 38.2 °C. The tonsillar fossae are covered with thick, foul-smelling slough, and the oozing has now stopped.\nWhat is the most likely underlying cause of this bleed?",
+   "o": [
+    "Infection of the healing tonsil bed",
+    "Slipped ligature on a tonsillar vessel",
+    "Undiagnosed von Willebrand disease",
+    "Erosion of the internal carotid artery",
+    "Rebound rise in blood pressure after GA"
+   ],
+   "a": 0,
+   "e": "Bleeding between **day 5 and 10** is **secondary haemorrhage**, caused by **infection** of the tonsillar fossa as slough separates from the raw bed. Admit, establish IV access, give **IV antibiotics** and send a group and save; most settle, but persistent or heavy bleeding needs theatre. Slipped ties and the post-anaesthetic rise in blood pressure cause reactionary bleeding within 24 hours.",
+   "w": [
+    "Correct - day 5-10 bleeding with fever and slough is infective secondary haemorrhage.",
+    "Wrong - a slipped tie bleeds within the first 24 hours (reactionary haemorrhage).",
+    "Wrong - a coagulopathy usually shows at or soon after surgery; fever and slough point to infection.",
+    "Wrong - carotid erosion is very rare and causes torrential bleeding, not a self-limiting ooze.",
+    "Wrong - blood pressure rebound after anaesthesia causes reactionary bleeding in the first hours."
+   ],
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "TSX",
+   "stem": "Five patients on the ENT clinic list are asking about tonsillectomy. All are otherwise fit, with normal clotting and no current infection.\nWhich patient has an ABSOLUTE indication for tonsillectomy?",
+   "o": [
+    "A 20-year-old man who is a symptomless diphtheria carrier",
+    "A 17-year-old girl with chronic tonsillitis and halitosis",
+    "A 4-year-old boy with tonsils causing OSA and poor growth",
+    "A 25-year-old nurse who is a group A streptococcal carrier",
+    "A 40-year-old with valvular disease and recurrent strep throat"
+   ],
+   "a": 2,
+   "e": "**Obstructive tonsillar hypertrophy** causing sleep apnoea, failure to thrive or cor pulmonale is an **absolute** indication, alongside recurrent infection meeting the Paradise criteria, quinsy, tonsillitis causing febrile seizures and suspected malignancy. Carrier states (diphtheria, streptococcus), chronic tonsillitis with halitosis and recurrent streptococcal tonsillitis in valvular heart disease are **relative** indications, where surgery is reasonable but not mandatory.",
+   "w": [
+    "Wrong - diphtheria carriage is a relative indication, usually treated first with antibiotics.",
+    "Wrong - chronic tonsillitis with halitosis is a relative indication.",
+    "Correct - airway obstruction with OSA and failure to thrive is an absolute indication.",
+    "Wrong - streptococcal carriage is a relative indication.",
+    "Wrong - recurrent streptococcal tonsillitis in valvular heart disease is a relative indication (endocarditis risk)."
+   ],
+   "r": "Slide p28"
+  },
+  {
+   "t": "TSX",
+   "stem": "An 8-year-old girl is admitted on the morning of her elective tonsillectomy for recurrent tonsillitis. Since yesterday she has had a fever of 38.5 °C and a sore throat, and both tonsils are inflamed with exudate. Her haemoglobin and clotting screen are normal.\nWhat is the most appropriate plan?",
+   "o": [
+    "Proceed today under intravenous antibiotic cover",
+    "Postpone surgery for about 2-3 weeks after recovery",
+    "Proceed today as a hot tonsillectomy without antibiotics",
+    "Postpone for 6 months and recount the episodes",
+    "Cancel, as acute tonsillitis removes the indication"
+   ],
+   "a": 1,
+   "e": "**Acute infection is a contraindication** to elective tonsillectomy: inflamed tissue bleeds more and the risk of secondary haemorrhage rises. Treat the attack and reschedule about **2-3 weeks** after it settles. Other contraindications include bleeding disorders, anaemia, cleft palate or submucous cleft and uncontrolled systemic disease.",
+   "w": [
+    "Wrong - antibiotic cover does not remove the extra bleeding risk of operating through acute inflammation.",
+    "Correct - wait 2-3 weeks after the infection has settled, then operate.",
+    "Wrong - hot tonsillectomy is reserved for selected quinsy cases, not elective surgery during acute tonsillitis.",
+    "Wrong - a 6-month delay is unnecessary once the acute attack has resolved.",
+    "Wrong - this attack is further evidence of recurrent tonsillitis; the indication stands."
+   ],
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "QUIN",
+   "stem": "A 28-year-old man who smokes presents to the Emergency Department with 5 days of worsening left-sided sore throat, drooling and a muffled voice. He can open his mouth only 1.5 cm. The left soft palate and anterior pillar bulge above the tonsil and the uvula is pushed to the right.\nWhere is the pus most likely to be located?",
+   "o": [
+    "Within the substance of the left palatine tonsil",
+    "Retropharyngeal space between buccopharyngeal and alar fascia",
+    "Parapharyngeal space lateral to the superior constrictor",
+    "Submandibular space below the mylohyoid muscle",
+    "Between the tonsil capsule and the superior constrictor"
+   ],
+   "a": 4,
+   "e": "A unilateral bulge of the soft palate and anterior pillar **above the tonsil**, uvula pushed to the **opposite side**, trismus and hot potato voice is a **peritonsillar abscess (quinsy)**: pus in the **peritonsillar space between the tonsil capsule and the superior constrictor**. It usually follows tonsillitis, an intratonsillar abscess bursting through the capsule. Pus lateral to the constrictor (parapharyngeal) pushes the whole tonsil and lateral wall medially, with swelling behind the angle of the jaw.",
+   "w": [
+    "Wrong - an intratonsillar abscess swells the tonsil itself, without the supratonsillar palatal bulge.",
+    "Wrong - retropharyngeal pus bulges the posterior pharyngeal wall, typically in a young child.",
+    "Wrong - parapharyngeal pus displaces the whole tonsil medially and causes swelling behind the angle of the mandible.",
+    "Wrong - submandibular (Ludwig's) infection raises the floor of mouth and tongue with a brawny neck swelling.",
+    "Correct - quinsy pus lies in the peritonsillar space, outside the capsule and inside the superior constrictor."
+   ],
+   "r": "Slide p31"
+  },
+  {
+   "t": "QUIN",
+   "stem": "A 35-year-old woman with a right peritonsillar abscess is in the ENT procedure room. Topical and infiltrated local anaesthetic has been given and she is sitting upright.\nWhere should the incision for drainage be made?",
+   "o": [
+    "Through the posterior pillar at the level of mid-tonsil",
+    "Low on the tonsil near its junction with the tongue base",
+    "Externally, through the skin behind the angle of the jaw",
+    "At the maximum bulge, above the upper pole of the tonsil",
+    "In the midline of the posterior pharyngeal wall"
+   ],
+   "a": 3,
+   "e": "Drain at the **point of maximum bulge**, usually **above the upper pole**, where a horizontal line through the base of the uvula meets a vertical line along the anterior pillar. Keep the incision shallow (about 1 cm) and open the cavity bluntly, because the internal carotid artery lies about 2.5 cm posterolateral to the tonsil. Needle aspiration at the same point is diagnostic and often curative.",
+   "w": [
+    "Wrong - the pus lies above and in front of the tonsil; the posterior pillar route misses it and heads towards the great vessels.",
+    "Wrong - quinsy collects at the upper pole, so a low incision misses the pus.",
+    "Wrong - external drainage is for parapharyngeal abscess, not quinsy.",
+    "Correct - incise at the maximum bulge above the upper pole, shallow and blunt.",
+    "Wrong - the posterior pharyngeal wall is the site for retropharyngeal collections, not peritonsillar ones."
+   ],
+   "r": "Slide p33"
+  },
+  {
+   "t": "QUIN",
+   "stem": "A 30-year-old man has a 4-day history of left-sided throat pain following a bout of tonsillitis. Examination shows a bulging left soft palate with the uvula displaced to the right, and he can open his mouth only one fingerbreadth.\nSpasm of which muscle chiefly causes his restricted mouth opening?",
+   "o": [
+    "Medial pterygoid",
+    "Lateral pterygoid",
+    "Masseter",
+    "Temporalis",
+    "Superior constrictor"
+   ],
+   "a": 0,
+   "e": "Trismus in quinsy comes from inflammation spreading through the superior constrictor to the **medial pterygoid**, which lies just lateral to it and is a jaw elevator; its spasm stops the mouth opening. Marked or worsening trismus suggests lateral spread and is a red flag for parapharyngeal extension. The lateral pterygoid opens the jaw, so its spasm would not lock it shut.",
+   "w": [
+    "Correct - the medial pterygoid lies lateral to the superior constrictor and closes the jaw when irritated.",
+    "Wrong - the lateral pterygoid opens and protrudes the mandible and lies higher in the infratemporal fossa.",
+    "Wrong - the masseter lies superficially on the ramus; it is involved in dental or masseteric space infection.",
+    "Wrong - the temporalis lies far from the pharynx.",
+    "Wrong - the superior constrictor forms the lateral wall of the abscess but does not move the jaw."
+   ],
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "QUIN",
+   "stem": "A 22-year-old woman presents to the Emergency Department with 3 days of severe right-sided sore throat and odynophagia. There is diffuse redness and swelling of the right soft palate without a localised bulge, the uvula is midline and there is no trismus. Needle aspiration at the upper pole yields no pus.\nWhat is the most appropriate next step?",
+   "o": [
+    "Incision at the upper pole until pus is found",
+    "Immediate hot tonsillectomy under general anaesthetic",
+    "IV co-amoxiclav and fluids, then reassess in 24-48 h",
+    "External drainage through a transcervical incision",
+    "Discharge on oral penicillin with no follow-up"
+   ],
+   "a": 2,
+   "e": "Diffuse palatal swelling without a pointing bulge, trismus or pus on aspiration is **peritonsillitis (peritonsillar cellulitis)**, the stage before an abscess forms. Treat with **IV antibiotics, fluids and analgesia** (a steroid may help) and reassess; if she has not improved in 24-48 hours, re-aspirate or request a **CECT neck** to look for a collection. Blind deep incision risks the great vessels.",
+   "w": [
+    "Wrong - cutting blindly when there is no collection risks bleeding and does not treat cellulitis.",
+    "Wrong - hot tonsillectomy is an option for selected confirmed quinsy, not for cellulitis that may settle.",
+    "Correct - peritonsillitis is treated medically, with reassessment for abscess formation.",
+    "Wrong - transcervical drainage is for parapharyngeal abscess.",
+    "Wrong - severe unilateral peritonsillar infection needs review because it can progress to an abscess."
+   ],
+   "r": "Slides p31-33"
+  },
+  {
+   "t": "QUIN",
+   "stem": "A 40-year-old man with no drug allergies has had 15 ml of foul-smelling pus drained from a left peritonsillar collection. He is dehydrated and cannot swallow tablets. Gram stain shows Gram-positive cocci and numerous Gram-negative anaerobic bacilli.\nWhich antibiotic regimen is most appropriate?",
+   "o": [
+    "IV benzylpenicillin 1.2 g 6-hourly alone",
+    "IV co-amoxiclav 1.2 g every 8 hours",
+    "IV gentamicin 5 mg/kg once daily",
+    "Oral azithromycin 500 mg daily for 3 days",
+    "Oral metronidazole 400 mg 8-hourly"
+   ],
+   "a": 1,
+   "e": "Quinsy pus contains **mixed aerobic (S. pyogenes, S. aureus) and anaerobic (Bacteroides, Fusobacterium)** flora, often with β-lactamase producers. **IV co-amoxiclav 1.2 g TDS** covers all of these, and the IV route suits a patient who cannot swallow; penicillin plus metronidazole (or clindamycin if allergic) is an alternative. Add IV fluids, analgesia and often a steroid, and switch to oral once he is swallowing.",
+   "w": [
+    "Wrong - penicillin alone misses β-lactamase-producing staphylococci and some anaerobes.",
+    "Correct - co-amoxiclav covers streptococci, staphylococci and anaerobes, given IV.",
+    "Wrong - gentamicin has no anaerobic activity and poor streptococcal cover.",
+    "Wrong - oral therapy is impractical when he cannot swallow, and 3 days is too short for a deep abscess.",
+    "Wrong - metronidazole covers only anaerobes, missing the streptococci and staphylococci."
+   ],
+   "r": "Slides p31, p33"
+  },
+  {
+   "t": "QUIN",
+   "stem": "A 33-year-old man had a right quinsy treated by needle aspiration 3 days ago but is getting worse. He now has a temperature of 39 °C, a tender swelling behind the right angle of the mandible and painful neck stiffness, and the whole right tonsil and lateral pharyngeal wall are pushed towards the midline.\nWhat is the most appropriate next investigation?",
+   "o": [
+    "Repeat aspiration at the upper pole",
+    "Lateral soft-tissue neck radiograph",
+    "Orthopantomogram for a dental source",
+    "Contrast-enhanced CT of the neck",
+    "Bedside ultrasound of the neck"
+   ],
+   "a": 3,
+   "e": "Medial displacement of the **whole tonsil and lateral pharyngeal wall**, swelling behind the angle of the jaw, torticollis and worsening sepsis after quinsy mean spread to the **parapharyngeal space**. **CECT neck** defines the collection, its relation to the carotid sheath and any extension to the retropharyngeal space or mediastinum, and guides **external (transcervical) drainage**. Other quinsy complications include laryngeal oedema, jugular vein thrombophlebitis and carotid haemorrhage.",
+   "w": [
+    "Wrong - the pus is now lateral to the constrictor; another intraoral aspiration will not reach it safely.",
+    "Wrong - a lateral neck film assesses prevertebral (retropharyngeal) widening, not the lateral parapharyngeal space.",
+    "Wrong - a dental source is possible, but the urgent question is the extent of the deep neck collection.",
+    "Correct - CECT maps the parapharyngeal collection and its relation to the great vessels before drainage.",
+    "Wrong - ultrasound cannot reliably show the deep parapharyngeal space or mediastinal spread."
+   ],
+   "r": "Slides p33-34"
+  },
+  {
+   "t": "PPA",
+   "stem": "A 42-year-old man presents to the ED with 5 days of fever, odynophagia and neck pain that began after an infected, painful lower third molar. He has trismus and holds his neck stiffly. There is a tender, firm swelling behind the angle of the left mandible. Intraorally the left tonsil and lateral pharyngeal wall are displaced medially, but the tonsil itself is not inflamed and the uvula is central.\nWhat is the most likely diagnosis?",
+   "o": [
+    "Left parapharyngeal space abscess",
+    "Left peritonsillar abscess (quinsy)",
+    "Acute retropharyngeal abscess",
+    "Ludwig's angina of the floor of mouth",
+    "Infected deep-lobe parotid tumour"
+   ],
+   "a": 0,
+   "e": "Medial displacement of the tonsil and lateral pharyngeal wall with a normal-looking tonsil, plus swelling behind the angle of the jaw, places the pus lateral to the superior constrictor in the **parapharyngeal space**; teeth are a classic source (slide p36). In quinsy the tonsil itself is angry, the bulge is above the upper pole and the uvula is pushed to the opposite side. Trismus occurs in both (medial pterygoid irritation), so it does not discriminate.",
+   "w": [
+    "Correct - medially pushed but normal-looking tonsil, swelling behind the jaw angle, trismus and a dental source = parapharyngeal abscess.",
+    "Wrong - quinsy gives an inflamed tonsil, bulging soft palate above the upper pole and a uvula deviated to the opposite side.",
+    "Wrong - retropharyngeal abscess bulges the POSTERIOR pharyngeal wall and is mainly a disease of young children.",
+    "Wrong - Ludwig's angina is bilateral submandibular/sublingual cellulitis with a raised, woody floor of mouth and tongue.",
+    "Wrong - a deep-lobe parotid tumour pushes the tonsil medially too but grows slowly and painlessly, without fever."
+   ],
+   "r": "Slides p35-36"
+  },
+  {
+   "t": "PPA",
+   "stem": "A 38-year-old man with poorly controlled diabetes is admitted with a right deep neck abscess after tonsillitis. On day 2 his voice becomes hoarse and breathy, his tongue deviates to the right on protrusion, he cannot shrug his right shoulder, and he has right ptosis with a small right pupil.\nWhich compartment does the collection involve?",
+   "o": [
+    "Prestyloid parapharyngeal compartment",
+    "Poststyloid parapharyngeal compartment",
+    "Retropharyngeal space in front of the alar fascia",
+    "Peritonsillar space lateral to the tonsil capsule",
+    "Danger space between alar and prevertebral fascia"
+   ],
+   "a": 1,
+   "e": "The **poststyloid** compartment contains the carotid artery, internal jugular vein, **CN IX-XII** and the cervical **sympathetic chain** (slide p35). Vagal palsy (hoarseness), hypoglossal palsy (tongue deviates TOWARDS the lesion), accessory palsy (weak shrug) and Horner syndrome together localise there. The prestyloid compartment holds fat, the deep lobe of parotid, the maxillary artery and V3 branches, so it gives trismus and a medial tonsil bulge, not lower cranial nerve palsies.",
+   "w": [
+    "Wrong - the prestyloid compartment contains fat, deep parotid, maxillary artery and V3 branches; no CN IX-XII or sympathetic chain.",
+    "Correct - CN X, XI and XII palsies plus Horner syndrome localise to the poststyloid compartment (carotid sheath contents and sympathetic chain).",
+    "Wrong - a retropharyngeal collection bulges the posterior pharyngeal wall and does not cause this cluster of cranial nerve palsies.",
+    "Wrong - quinsy lies between the tonsil capsule and superior constrictor, medial to the nerves; it gives trismus and uvular deviation.",
+    "Wrong - danger-space infection spreads down to the mediastinum; it does not selectively involve CN IX-XII and the sympathetic chain."
+   ],
+   "r": "Slides p35-36"
+  },
+  {
+   "t": "PPA",
+   "stem": "A 30-year-old woman with a right parapharyngeal abscess has had 48 hours of IV co-amoxiclav without improvement. She remains febrile with trismus and a tender swelling behind the angle of the jaw. CECT neck shows a 4 cm rim-enhancing collection in the poststyloid compartment, abutting the carotid sheath.\nWhat is the most appropriate next step?",
+   "o": [
+    "Needle aspiration through the anterior pillar under local anaesthesia",
+    "Transoral incision over the medial bulge of the lateral pharyngeal wall",
+    "Transcervical drainage through an external neck incision",
+    "Continue the same IV antibiotics for seven more days, then re-image",
+    "Incision at the point of maximum bulge above the upper tonsillar pole"
+   ],
+   "a": 2,
+   "e": "A large abscess that fails 48 hours of IV antibiotics needs drainage, and for a **poststyloid** collection next to the carotid sheath the standard is an **external transcervical approach**, which gives control of the great vessels (slide p37). The transoral route is kept for small, accessible prestyloid collections well away from the carotid and jugular. Aspirating or incising above the tonsil treats quinsy, not a deep parapharyngeal collection.",
+   "w": [
+    "Wrong - anterior pillar aspiration reaches the peritonsillar space; it cannot safely drain a poststyloid collection.",
+    "Wrong - transoral incision is only for small, accessible collections away from the great vessels; here it risks carotid injury.",
+    "Correct - an external transcervical incision drains large or poststyloid abscesses while protecting the carotid and internal jugular vein.",
+    "Wrong - a 4 cm abscess failing 48 h of IV antibiotics needs drainage; prolonging the same regimen risks spread and vessel erosion.",
+    "Wrong - incision at the point of maximum bulge above the upper pole is the quinsy technique, not for a parapharyngeal abscess."
+   ],
+   "r": "Slide p37"
+  },
+  {
+   "t": "PPA",
+   "stem": "A 24-year-old man is on the ward with a left parapharyngeal abscess. On day 3 he develops spiking fevers with rigors, a tender cord-like swelling along the anterior border of the left sternocleidomastoid, and pleuritic chest pain. Chest X-ray shows multiple small peripheral cavitating nodules.\nWhich complication is most likely?",
+   "o": [
+    "Erosion of the internal carotid artery with sentinel bleeding",
+    "Spread of infection to the mediastinum along the carotid sheath",
+    "Acute laryngeal oedema with upper airway obstruction",
+    "Septic thrombophlebitis of the internal jugular vein",
+    "Extension into the retropharyngeal and danger spaces"
+   ],
+   "a": 3,
+   "e": "Septic **thrombophlebitis of the internal jugular vein** throwing **septic emboli** to the lungs (Lemierre syndrome, classically Fusobacterium necrophorum) explains rigors, a tender cord along the sternocleidomastoid and cavitating lung nodules (slide p37: thrombophlebitis of jugular vein with septicaemia). Treat with prolonged IV antibiotics covering anaerobes and drain any collection. Carotid erosion presents with herald bleeds from the mouth or ear; mediastinitis with retrosternal pain and a widened mediastinum.",
+   "w": [
+    "Wrong - carotid erosion presents with small herald bleeds from mouth or ear before torrential haemorrhage, not lung nodules.",
+    "Wrong - mediastinitis gives retrosternal pain, dyspnoea and a widened mediastinum rather than a tender cord and peripheral emboli.",
+    "Wrong - laryngeal oedema causes stridor and voice change; it does not explain rigors, a venous cord or cavitating nodules.",
+    "Correct - IJV septic thrombophlebitis (Lemierre) gives rigors, a tender cord along the SCM and septic pulmonary emboli.",
+    "Wrong - retropharyngeal or danger-space spread would bulge the posterior pharyngeal wall and track to the mediastinum."
+   ],
+   "r": "Slide p37"
+  },
+  {
+   "t": "RPA",
+   "stem": "A 2-year-old boy is referred from a Klinik Kesihatan after a week of URTI. He has fever, drools, refuses feeds, holds his neck extended and has a croupy cough with mild inspiratory stridor. Gentle examination shows a soft bulge of the posterior pharyngeal wall lying to the right of the midline.\nWhich anatomical feature best explains both his age group and the one-sided bulge?",
+   "o": [
+    "A space running from the skull base to the diaphragm in front of the spine",
+    "The styloid process dividing the lateral space into two compartments",
+    "The superior constrictor separating the tonsil bed from the lateral space",
+    "Prevertebral fascia attached laterally to the cervical transverse processes",
+    "Paired nodes that regress by about age 4, either side of a midline raphe"
+   ],
+   "a": 4,
+   "e": "Acute retropharyngeal abscess is suppuration of the **retropharyngeal (Rouvière) nodes**, which atrophy by about 3-5 years, so it is a disease of young children (slide p38). A midline fibrous raphe divides the space, so the abscess bulges to ONE side; a central bulge in an adult suggests a chronic TB (prevertebral) collection. Note: slide p38 gives the posterior boundary as prevertebral fascia; correct is the **alar fascia** - the danger space lies between alar and prevertebral fascia and leads to the mediastinum.",
+   "w": [
+    "Wrong - this describes the danger space, which explains spread to the mediastinum, not the age group or lateral bulge.",
+    "Wrong - the styloid divides the parapharyngeal space into pre- and poststyloid compartments; irrelevant to a posterior wall bulge.",
+    "Wrong - the superior constrictor forms the lateral wall of the peritonsillar space, relevant to quinsy rather than this child.",
+    "Wrong - lateral attachment of the prevertebral fascia defines a central prevertebral (adult TB) abscess, not a one-sided bulge.",
+    "Correct - Rouvière nodes regress in early childhood and lie either side of the median raphe, hence young children and a lateral bulge."
+   ],
+   "r": "Slides p38-39"
+  },
+  {
+   "t": "RPA",
+   "stem": "An 18-month-old girl has 3 days of fever, drooling, neck stiffness and noisy breathing after a cold. She sits comfortably on her mother's lap with SpO2 97% on air. A lateral soft-tissue neck X-ray is taken with the neck extended during inspiration.\nWhich finding would best support the most likely diagnosis?",
+   "o": [
+    "Prevertebral soft tissue at C2 thicker than 7 mm",
+    "Swollen, rounded epiglottis giving a 'thumb sign'",
+    "Ballooned hypopharynx with subglottic narrowing",
+    "Round radio-opaque disc at the cricopharyngeus",
+    "Large adenoid pad narrowing the nasopharynx"
+   ],
+   "a": 0,
+   "e": "In children the prevertebral soft tissue at C2 should be less than about **7 mm** (roughly 14 mm at C6); widening, sometimes with a gas-fluid level or loss of lordosis, suggests a **retropharyngeal abscess**. The film must be taken in extension on inspiration, because flexion or expiration falsely widens the shadow. CECT neck then distinguishes abscess from cellulitis and shows the extent (slide p39).",
+   "w": [
+    "Correct - widened prevertebral soft tissue on a properly taken lateral film supports a retropharyngeal collection.",
+    "Wrong - the thumb sign is acute epiglottitis: toxic, sitting forward, rapidly progressive, usually without neck stiffness.",
+    "Wrong - subglottic narrowing with hypopharyngeal ballooning suggests croup, which gives barking cough without drooling or neck stiffness.",
+    "Wrong - a radio-opaque disc at cricopharyngeus is an ingested coin; there would be a history of sudden onset, not fever after a cold.",
+    "Wrong - adenoid hypertrophy causes chronic mouth breathing and snoring, not acute fever, drooling and neck stiffness."
+   ],
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "RPA",
+   "stem": "A 3-year-old boy with fever, drooling and stridor has a CECT neck showing a 3 cm rim-enhancing collection in the retropharyngeal space to one side of the midline, with no mediastinal extension. He is tiring but maintains SpO2 94% on oxygen.\nWhat is the most appropriate definitive management?",
+   "o": [
+    "IV antibiotics alone with close ward observation for 72 hours",
+    "Secure the airway, then intraoral drainage with the head down",
+    "External drainage through an incision behind the sternomastoid",
+    "Needle aspiration through the anterior pillar under local anaesthetic",
+    "Antituberculous therapy and an MRI scan of the cervical spine"
+   ],
+   "a": 1,
+   "e": "A large acute retropharyngeal abscess with airway compromise needs drainage: **secure the airway first** (intubation by an experienced anaesthetist, tracheostomy if that fails), then incise the bulge **intraorally** with the child **head-down (Rose's position)** so pus does not spill into the larynx (slides p39-40). Antibiotics alone are reserved for small collections or cellulitis in a stable child. External drainage behind the sternomastoid is the route for chronic TB abscesses.",
+   "w": [
+    "Wrong - antibiotics alone suit small collections or cellulitis; a 3 cm abscess in a tiring child with stridor needs drainage.",
+    "Correct - airway first, then intraoral incision in the head-down position to prevent aspiration of pus.",
+    "Wrong - the external route behind the sternomastoid is for chronic (TB) retropharyngeal abscess, to avoid a chronic sinus.",
+    "Wrong - anterior pillar aspiration drains a peritonsillar abscess and cannot reach the retropharyngeal space.",
+    "Wrong - antituberculous therapy is for the chronic adult type with cervical spine caries, not acute nodal suppuration in a child."
+   ],
+   "r": "Slides p39-40"
+  },
+  {
+   "t": "RPA",
+   "stem": "A 34-year-old man presents to ENT clinic with 3 months of throat discomfort, mild dysphagia, neck stiffness, night sweats and 6 kg weight loss. The posterior pharyngeal wall shows a smooth, fluctuant swelling in the midline. There is tenderness over the lower cervical spine, and X-ray shows narrowing of the C4-C5 disc space with vertebral erosion.\nWhat is the most appropriate management?",
+   "o": [
+    "Intraoral incision over the bulge followed by oral co-amoxiclav",
+    "Transoral drainage in the head-down position with IV ceftriaxone",
+    "Antituberculous therapy with drainage via an external neck incision",
+    "Repeated transoral needle aspiration with a soft cervical collar",
+    "Urgent tracheostomy followed by palliative neck radiotherapy"
+   ],
+   "a": 2,
+   "e": "A slow, **central** prevertebral collection in an adult with vertebral erosion is a **chronic retropharyngeal (cold) abscess** from cervical spine TB (Pott's disease) or caseous nodes (slide p39). Give antituberculous therapy and, when drainage is needed, use an **external approach behind the sternocleidomastoid** - an intraoral incision risks a persistent pharyngeal sinus and secondary infection. Spinal review is needed for stability. Note: slide p39 says only 'incision and drainage'; for the chronic type this should be external, not transoral.",
+   "w": [
+    "Wrong - intraoral incision of a TB cold abscess leaves a chronic pharyngeal sinus, and co-amoxiclav does not treat tuberculosis.",
+    "Wrong - transoral head-down drainage is the technique for acute pyogenic abscess in children, not adult spinal TB.",
+    "Correct - treat the TB with antituberculous therapy and drain externally behind the sternocleidomastoid to avoid a sinus.",
+    "Wrong - repeated transoral aspiration risks a chronic sinus and leaves the spinal tuberculosis untreated.",
+    "Wrong - his airway is not compromised and this is infection, not malignancy; tracheostomy and radiotherapy are inappropriate."
+   ],
+   "r": "Slide p39"
+  },
+  {
+   "t": "TUM",
+   "stem": "A 61-year-old man, a heavy smoker and drinker, attends ENT clinic with 2 months of right otalgia, mild odynophagia and a muffled voice. Otoscopy is normal. There is a hard, painless 3 cm right upper neck node. Bimanual palpation reveals an indurated mass at the right tongue base, and flexible laryngoscopy shows an ulcerated exophytic growth there.\nWhich investigation establishes the diagnosis?",
+   "o": [
+    "Contrast-enhanced CT scan of the neck and thorax",
+    "Open excision biopsy of the right neck node",
+    "PET-CT scan to look for distant metastases",
+    "Biopsy of the tongue-base lesion for histology",
+    "MRI of the oropharynx and the skull base"
+   ],
+   "a": 3,
+   "e": "The diagnosis is **histological** - biopsy the primary (at endoscopy or EUA) for HPE (slide p47); CT, MRI and PET-CT stage the disease but do not prove it. Otalgia with a normal ear in a smoker is referred pain via **CN IX** from the tongue base or tonsil until proven otherwise. Open biopsy of a neck node before the primary is found is a classic trap: it seeds the neck and compromises later neck dissection; FNAC or core biopsy is used for the node instead.",
+   "w": [
+    "Wrong - CT stages local extent, nodes and chest disease but cannot give a tissue diagnosis.",
+    "Wrong - open node biopsy risks tumour seeding and spoils the later neck dissection; sample the primary (and FNAC the node).",
+    "Wrong - PET-CT detects metastases and occult primaries; it does not establish histology.",
+    "Correct - biopsy of the visible primary for histopathology confirms squamous cell carcinoma.",
+    "Wrong - MRI defines soft-tissue extent for staging and planning but is not diagnostic."
+   ],
+   "r": "Slide p47"
+  },
+  {
+   "t": "TUM",
+   "stem": "A 44-year-old non-smoking accountant notices a painless, soft, cystic lump in the left upper neck. Examination shows a small, firm left tonsil with no ulceration. Tonsil biopsy shows squamous cell carcinoma that stains strongly for p16.\nCompared with tobacco-related oropharyngeal carcinoma, which statement about this tumour is correct?",
+   "o": [
+    "It is mainly driven by low-risk HPV types 6 and 11",
+    "It typically affects elderly heavy smokers and drinkers",
+    "It only rarely spreads to the cervical lymph nodes",
+    "It is staged with the same AJCC 8th edition TNM tables",
+    "It responds better to treatment, with better survival"
+   ],
+   "a": 4,
+   "e": "p16-positive oropharyngeal SCC is driven by **high-risk HPV-16**, affects younger non-smokers, often presents with a **cystic neck node** from a small primary, and has much **better survival** after (chemo)radiotherapy or TORS; AJCC 8th edition stages it separately from p16-negative disease. HPV 6 and 11 are low-risk types causing benign papillomas (slide p43). A cystic lateral neck mass in an adult over 40 is HPV-related SCC until proven otherwise, not a branchial cyst.",
+   "w": [
+    "Wrong - HPV 6 and 11 cause benign papillomas; HPV-related SCC is driven mainly by high-risk HPV-16.",
+    "Wrong - that is the profile of tobacco/alcohol-related disease; HPV-positive patients are younger and often non-smokers.",
+    "Wrong - early cystic nodal metastasis from a small primary is typical of HPV-positive tumours.",
+    "Wrong - AJCC 8th edition has separate, more favourable staging for p16-positive oropharyngeal cancer.",
+    "Correct - HPV-positive tumours are more radio- and chemosensitive and carry a much better prognosis."
+   ],
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "TUM",
+   "stem": "A 56-year-old woman is referred from a Klinik Kesihatan with 6 weeks of a 'lump in the throat'. She has no fever or sore throat but reports night sweats. The left tonsil is markedly larger than the right, firm and smooth, without exudate or ulceration. There is a 2 cm rubbery left level II node.\nWhat is the most appropriate next step?",
+   "o": [
+    "Tonsillectomy as an excision biopsy for histology",
+    "Penicillin V for 10 days and review in clinic",
+    "Incision and drainage of the left tonsil under LA",
+    "Reassurance with a routine review in three months",
+    "Throat swab culture and a Monospot blood test"
+   ],
+   "a": 0,
+   "e": "Unilateral tonsillar enlargement in an adult, especially with night sweats or a node, is **malignancy (lymphoma or SCC) until proven otherwise**; suspicion of malignancy is an absolute indication for tonsillectomy (slide p28), and lymphoma is one of the histological types (slide p45). The specimen goes fresh for histology and flow cytometry. Antibiotic trials or watchful waiting only delay the diagnosis; incision and drainage is for quinsy, which is acutely painful and febrile.",
+   "w": [
+    "Correct - excision tonsillectomy gives the whole specimen for histology, essential to diagnose lymphoma or carcinoma.",
+    "Wrong - she has no infective features; an antibiotic trial delays diagnosis of a probable malignancy.",
+    "Wrong - there is no abscess; I&D is for quinsy, which presents with acute pain, fever and trismus.",
+    "Wrong - an asymmetric firm tonsil with night sweats and a node must not be watched.",
+    "Wrong - swab and Monospot investigate infective sore throat in younger patients, not an afebrile asymmetric tonsil."
+   ],
+   "r": "Slide p28"
+  },
+  {
+   "t": "TUM",
+   "stem": "A 26-year-old woman attends ENT clinic with intermittent blood-stained saliva and mild dysphagia. There is a soft, bluish, compressible lesion on the right lateral pharyngeal wall extending onto the tonsil, which has enlarged over the past year.\nWhat is the most appropriate management?",
+   "o": [
+    "Punch biopsy in clinic to confirm the histology",
+    "Sclerotherapy or laser coagulation of the lesion",
+    "Observation, as such lesions involute in adulthood",
+    "Incision and drainage of the swelling under LA",
+    "Wide excision with postoperative radiotherapy"
+   ],
+   "a": 1,
+   "e": "A soft, bluish, compressible lesion is a **haemangioma** (capillary or cavernous). Treat when it enlarges, bleeds or causes dysphagia, using **sclerotherapy, cryotherapy or laser coagulation** (slide p43). Avoid clinic biopsy or incision - it can bleed torrentially. Involution is a feature of infantile haemangiomas, not enlarging adult lesions. Note: slides p42-43 say 'laryngeal wall/arch'; correct is posterior and lateral **pharyngeal** wall.",
+   "w": [
+    "Wrong - biopsy of a vascular lesion risks severe haemorrhage; the clinical picture (plus imaging if needed) suffices.",
+    "Correct - an enlarging, bleeding haemangioma is treated with sclerotherapy, cryotherapy or laser coagulation.",
+    "Wrong - spontaneous involution is typical of infantile haemangiomas; this adult lesion is growing and bleeding.",
+    "Wrong - this is not a collection; incising a haemangioma causes brisk bleeding.",
+    "Wrong - it is benign; wide excision with radiotherapy is cancer treatment and is unnecessary."
+   ],
+   "r": "Slides p42-43"
+  },
+  {
+   "t": "TUM",
+   "stem": "A 63-year-old man who smokes has biopsy-proven p16-negative squamous cell carcinoma of the left tonsil. Examination under anaesthesia and MRI show a 3.5 cm primary extending onto the lingual surface of the epiglottis, with no invasion of the larynx, extrinsic tongue muscles, medial pterygoid, hard palate or mandible.\nWhat is the T stage?",
+   "o": [
+    "T1",
+    "T2",
+    "T3",
+    "T4a",
+    "T4b"
+   ],
+   "a": 2,
+   "e": "For p16-negative oropharyngeal SCC: **T1 ≤ 2 cm, T2 > 2-4 cm, T3 > 4 cm or extension to the lingual surface of the epiglottis**, T4a invades the larynx, extrinsic tongue muscles, medial pterygoid, hard palate or mandible, and T4b the lateral pterygoid, pterygoid plates, skull base or encases the carotid. Size alone (3.5 cm) would make it T2, but spread onto the lingual epiglottis upstages it to T3. p16-positive tumours use separate AJCC 8th edition tables.",
+   "w": [
+    "Wrong - T1 is 2 cm or less in greatest dimension.",
+    "Wrong - 3.5 cm alone would be T2, but extension onto the lingual surface of the epiglottis upstages it.",
+    "Correct - extension to the lingual surface of the epiglottis makes it T3 regardless of size.",
+    "Wrong - T4a requires invasion of larynx, extrinsic tongue muscles, medial pterygoid, hard palate or mandible.",
+    "Wrong - T4b requires lateral pterygoid, pterygoid plates, lateral nasopharynx, skull base or carotid encasement."
+   ],
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "TUM",
+   "stem": "A 48-year-old woman notices a painless swelling of the palate that has grown slowly over 2 years. There is a firm, smooth, 2 cm submucosal mass at the junction of the left hard and soft palate, with intact mucosa and no neck nodes. Biopsy shows a mixed epithelial and myxoid stromal tumour.\nWhat is the most appropriate management?",
+   "o": [
+    "Incision and drainage through the overlying mucosa",
+    "Enucleation of the mass through a mucosal incision",
+    "Radiotherapy alone, to avoid a palatal defect",
+    "Wide local excision with a cuff of normal tissue",
+    "Observation, as it has no malignant potential"
+   ],
+   "a": 3,
+   "e": "This is a **pleomorphic adenoma of the minor palatal salivary glands** (slide p44). It has an incomplete capsule with finger-like projections, so enucleation leaves tumour behind and it recurs; the treatment is **complete wide excision** with a margin (often including periosteum). It is potentially malignant (carcinoma ex pleomorphic adenoma), so observation is wrong, and it is not managed with primary radiotherapy.",
+   "w": [
+    "Wrong - it is a solid tumour, not a cyst or abscess; incision achieves nothing and seeds tumour.",
+    "Wrong - pseudopod extensions through the incomplete capsule make enucleation prone to recurrence.",
+    "Wrong - pleomorphic adenoma is treated surgically; radiotherapy is not primary treatment for this benign tumour.",
+    "Correct - wide local excision with a margin of normal tissue prevents recurrence of a palatal pleomorphic adenoma.",
+    "Wrong - pleomorphic adenoma can undergo malignant change, so it should be excised."
+   ],
+   "r": "Slide p44"
+  },
+  {
+   "t": "OSA",
+   "stem": "A 56-year-old woman is seen at a Klinik Kesihatan because her husband complains of her loud snoring. She feels refreshed during the day and he has never noticed pauses in her breathing. She takes amlodipine for hypertension. BMI is 32 kg/m² and neck circumference is 43 cm.\nWhat is her STOP-BANG score and the most appropriate action?",
+   "o": [
+    "Score 2; low risk, so give weight-loss advice only",
+    "Score 3; low risk, so repeat the questionnaire yearly",
+    "Score 5; high risk, so start CPAP without a sleep study",
+    "Score 6; high risk, so refer directly for tonsillectomy",
+    "Score 4; intermediate risk, so refer for a sleep study"
+   ],
+   "a": 4,
+   "e": "S1 (loud snoring) + T0 + O0 + P1 (treated hypertension) + B0 (BMI not > 35) + A1 (> 50) + N1 (> 40 cm) + G0 = **4**. STOP-BANG 0-2 is low, 3-4 intermediate and 5-8 high risk; a score of **≥ 3** warrants objective sleep testing. Note: slide p56 writes 'STOP-BANG > 3'; the standard cut-off is ≥ 3. STOP-BANG screens - it never replaces a sleep study before CPAP or surgery.",
+   "w": [
+    "Wrong - this misses the age and neck points; the score is 4.",
+    "Wrong - the score is 4, and a score of 3 is already intermediate risk needing referral, not low risk.",
+    "Wrong - BMI 32 does not score (cut-off > 35) and she is female; even high scores need a diagnostic study before CPAP.",
+    "Wrong - the score is 4, and there is no tonsillar hypertrophy; surgery is never planned from a questionnaire.",
+    "Correct - snoring, pressure, age > 50 and neck > 40 cm give 4 (intermediate risk), so refer for a diagnostic sleep study."
+   ],
+   "r": "Slide p56"
+  },
+  {
+   "t": "OSA",
+   "stem": "A 48-year-old taxi driver is referred because his wife has witnessed long pauses in his breathing. He nearly fell asleep at a traffic light last week. Epworth Sleepiness Scale is 16, BMI 38 kg/m² and neck circumference 45 cm. Overnight pulse oximetry alone (one channel) at the district hospital was reported as normal.\nWhat is the most appropriate next step?",
+   "o": [
+    "Attended level 1 polysomnography in a sleep laboratory",
+    "Reassure him that overnight oximetry has excluded OSA",
+    "Repeat the Epworth Sleepiness Scale in three months",
+    "Drug-induced sleep endoscopy to grade the obstruction",
+    "Uvulopalatopharyngoplasty with a tonsillectomy"
+   ],
+   "a": 0,
+   "e": "Single- or dual-channel oximetry is a **level 4** study - screening only, it cannot exclude OSA (slide p57). With a high pre-test probability (witnessed apnoeas, ESS 16 > 10, BMI 38), a negative, inconclusive or inadequate limited study must be followed by full **polysomnography**; only levels 1-3 can diagnose. He must be advised not to drive while sleepy until treated. DISE and surgery come only after OSA is confirmed and CPAP has been considered.",
+   "w": [
+    "Correct - a negative level 4 study with high clinical suspicion must be followed by full polysomnography.",
+    "Wrong - level 4 oximetry is a screening tool and cannot exclude OSA in a high-probability patient.",
+    "Wrong - ESS only measures sleepiness; repeating it delays diagnosis in a sleepy professional driver.",
+    "Wrong - DISE localises collapse before surgery; it is not used to diagnose OSA.",
+    "Wrong - surgery is not planned before OSA is confirmed and CPAP, the first-line treatment, is considered."
+   ],
+   "r": "Slide p57"
+  },
+  {
+   "t": "OSA",
+   "stem": "A 45-year-old man undergoes polysomnography as part of a research screening programme. He has no complaints of snoring or daytime sleepiness (ESS 4) and no hypertension, diabetes or cardiac disease. His apnoea-hypopnoea index is 22 events/hour, mostly obstructive.\nWhat is the correct interpretation?",
+   "o": [
+    "Not OSA, because he has no symptoms or comorbidity",
+    "Moderate OSA, diagnosed even without any symptoms",
+    "Mild OSA, but only if symptoms develop in future",
+    "Severe OSA, as the index is above 20 events/hour",
+    "Primary snoring with no apnoea-related disease"
+   ],
+   "a": 1,
+   "e": "Adult OSA is diagnosed with **AHI ≥ 5 plus** typical symptoms or associated disease, or **AHI ≥ 15 regardless of symptoms** (slide p58). Severity: mild 5 to < 15, moderate 15-30, severe > 30 events/hour, so 22 is moderate. ESS measures subjective sleepiness, not airway collapse, so a low ESS does not exclude OSA.",
+   "w": [
+    "Wrong - symptoms are only needed when AHI is 5-14; an AHI of 15 or more is diagnostic on its own.",
+    "Correct - AHI 15-30 is moderate OSA, and AHI ≥ 15 is diagnostic even without symptoms.",
+    "Wrong - 22 is above the mild range (5 to < 15) and the diagnosis does not wait for symptoms.",
+    "Wrong - severe OSA is AHI > 30 events/hour.",
+    "Wrong - primary snoring has no significant apnoeas or desaturation; his AHI is 22."
+   ],
+   "r": "Slide p58"
+  },
+  {
+   "t": "OSA",
+   "stem": "A 40-year-old woman with BMI 46 kg/m² presents with hypersomnolence, morning headaches and ankle swelling. Spirometry, chest X-ray and thyroid function are normal. An awake arterial blood gas on room air shows pH 7.37, PaCO2 56 mmHg, PaO2 62 mmHg and a raised bicarbonate.\nWhich diagnosis best explains the daytime blood gas?",
+   "o": [
+    "Obstructive sleep apnoea alone",
+    "Central sleep apnoea from opioids",
+    "Obesity hypoventilation syndrome",
+    "Primary snoring with nasal blockage",
+    "Chronic obstructive pulmonary disease"
+   ],
+   "a": 2,
+   "e": "**Obesity hypoventilation syndrome** = BMI ≥ 30 + awake daytime **PaCO2 > 45 mmHg** with other causes of hypoventilation excluded (normal spirometry, chest X-ray and thyroid) (slide p60). Most OHS patients also have OSA, but OSA alone does not cause daytime hypercapnia; the raised bicarbonate shows chronic CO2 retention and ankle oedema hints at cor pulmonale. These patients often need BiPAP rather than CPAP.",
+   "w": [
+    "Wrong - OSA causes nocturnal desaturation, but daytime PaCO2 stays normal unless OHS coexists.",
+    "Wrong - there is no opioid use, and central apnoea does not explain obesity-related daytime hypercapnia.",
+    "Correct - BMI ≥ 30 with awake PaCO2 > 45 mmHg and other causes excluded defines OHS.",
+    "Wrong - primary snoring causes no apnoeas, desaturation or blood gas abnormality.",
+    "Wrong - normal spirometry excludes COPD as the cause of hypercapnia."
+   ],
+   "r": "Slide p60"
+  },
+  {
+   "t": "OSA",
+   "stem": "A 69-year-old man with ischaemic heart failure (ejection fraction 25%) is referred for disturbed sleep. He is not obese and takes no opioids. Polysomnography shows repeated cycles of waxing and waning breathing with 20-second pauses, during which both airflow and chest and abdominal belt movements are absent.\nWhat is the most likely diagnosis?",
+   "o": [
+    "Obstructive sleep apnoea",
+    "Obesity hypoventilation",
+    "Mixed sleep apnoea",
+    "Central sleep apnoea",
+    "Upper airway resistance syndrome"
+   ],
+   "a": 3,
+   "e": "In **central apnoea** the airway is open but the brainstem stops driving the respiratory muscles, so airflow AND respiratory effort are both absent (slide p52); in heart failure this takes the crescendo-decrescendo **Cheyne-Stokes** pattern (slide p60). In obstructive apnoea effort continues, often with paradoxical chest-abdominal movement, against a closed airway. Mixed apnoea starts central and ends with obstructed efforts.",
+   "w": [
+    "Wrong - in obstructive apnoea chest and abdominal effort continue while airflow stops.",
+    "Wrong - he is not obese, and OHS is defined by awake daytime hypercapnia, not this PSG pattern.",
+    "Wrong - mixed apnoea begins without effort but ends with obstructed breathing efforts.",
+    "Correct - absent airflow AND absent effort in a waxing-waning pattern with heart failure = central (Cheyne-Stokes) apnoea.",
+    "Wrong - upper airway resistance causes effort-related arousals with increasing effort, not absent effort."
+   ],
+   "r": "Slides p52, p60"
+  },
+  {
+   "t": "OSA",
+   "stem": "A 45-year-old woman is referred with loud snoring, daytime fatigue and 8 kg weight gain over a year. She also reports cold intolerance, constipation and a hoarse voice. Examination shows dry skin, an enlarged tongue, a puffy face and slow-relaxing ankle reflexes. BMI is 31 kg/m².\nAlongside a sleep study, which blood test is most important to request?",
+   "o": [
+    "Glycated haemoglobin",
+    "Morning serum cortisol",
+    "Serum IGF-1 level",
+    "Serum ferritin level",
+    "TSH and free T4"
+   ],
+   "a": 4,
+   "e": "Weight gain, cold intolerance, hoarseness, macroglossia and slow-relaxing reflexes point to **hypothyroidism**, an endocrine cause of OSA (slide p52) through macroglossia, mucopolysaccharide deposition in the pharynx and reduced ventilatory drive. Treating it with thyroxine can improve or resolve the OSA. IGF-1 screens for acromegaly, which also causes macroglossia and OSA, but she has hypothyroid rather than acromegalic features.",
+   "w": [
+    "Wrong - diabetes screening is reasonable in obesity but does not explain her hypothyroid features.",
+    "Wrong - cortisol tests for Cushing's syndrome; she has no striae, proximal myopathy or plethora.",
+    "Wrong - IGF-1 tests for acromegaly, which also gives macroglossia, but she lacks coarse features or enlarging hands.",
+    "Wrong - ferritin looks for iron deficiency in restless legs; it does not explain this picture.",
+    "Correct - hypothyroidism is a treatable cause of OSA; TSH and free T4 confirm it."
+   ],
+   "r": "Slide p52"
+  },
+  {
+   "t": "OSA",
+   "stem": "A 52-year-old man with loud snoring completes the Epworth Sleepiness Scale at ENT clinic. His scores are: sitting and reading 2, watching TV 3, sitting inactive in a public place 2, car passenger for an hour 3, lying down in the afternoon 3, sitting and talking 0, sitting quietly after lunch 2, in a car stopped in traffic 1.\nWhat is the correct interpretation?",
+   "o": [
+    "16; excessive sleepiness, so arrange a sleep study",
+    "16; this confirms moderate OSA, so start CPAP",
+    "14; borderline sleepiness, so repeat in 6 months",
+    "8; normal daytime sleepiness, so take no action",
+    "16; this indicates severe OSA, so refer for UPPP"
+   ],
+   "a": 0,
+   "e": "ESS has 8 situations each scored 0-3 (total 0-24); his total is **16**, and **> 10 indicates excessive daytime sleepiness** (slide p56). ESS measures subjective sleepiness only - it is **not diagnostic** of OSA and does not grade severity, so the next step is objective sleep testing, not treatment. Severity comes from the AHI.",
+   "w": [
+    "Correct - 16 is above 10 (excessive sleepiness), and objective sleep testing is needed to diagnose OSA.",
+    "Wrong - ESS is not diagnostic and cannot grade OSA; CPAP needs a confirmed diagnosis.",
+    "Wrong - the total is 16, not 14, and either score is above 10, not borderline.",
+    "Wrong - the total is 16; 8 would be within normal limits.",
+    "Wrong - ESS cannot grade severity, and surgery is never planned from a questionnaire."
+   ],
+   "r": "Slide p56"
+  },
+  {
+   "t": "OSA",
+   "stem": "A 38-year-old man with moderate OSA (AHI 24 events/hour) has stopped CPAP after 6 months despite mask refits and humidification. BMI is 27 kg/m². He has a modified Mallampati grade 3 and grade 2 tonsils, and wants surgery.\nWhich assessment most accurately identifies the level and pattern of airway collapse before surgery?",
+   "o": [
+    "Awake nasendoscopy with Müller's manoeuvre",
+    "Drug-induced sleep endoscopy",
+    "Lateral cephalometric radiograph",
+    "Repeat attended polysomnography",
+    "Awake CT scan of the upper airway"
+   ],
+   "a": 1,
+   "e": "**DISE** reproduces sleep-like muscle relaxation with propofol or midazolam, showing the site (palate, oropharynx, tongue base, epiglottis) and pattern of collapse (slide p59). The Malaysian CPG considers it more accurate than awake **FNMM** (Müller's manoeuvre), which is a fallback when DISE is not possible. Awake imaging misses dynamic collapse, and PSG quantifies severity but cannot localise the obstruction.",
+   "w": [
+    "Wrong - awake FNMM is less accurate than DISE and is offered only when DISE cannot be performed.",
+    "Correct - DISE shows the site and degree of dynamic collapse under sedation and guides sleep surgery.",
+    "Wrong - cephalometry shows skeletal relationships but not dynamic soft-tissue collapse during sleep.",
+    "Wrong - PSG measures severity (AHI) but cannot localise the level of obstruction.",
+    "Wrong - an awake static scan misses the collapse that only happens with sleep-related muscle relaxation."
+   ],
+   "r": "Slide p59"
+  },
+  {
+   "t": "OSAT",
+   "stem": "A 50-year-old lorry driver has polysomnography showing AHI 38 events/hour with nadir SpO2 78%. ESS is 15, BMI 33 kg/m², and he has hypertension. His tonsils are grade 1 and his nasal airway is clear.\nWhat is the most appropriate first-line treatment?",
+   "o": [
+    "Mandibular advancement device fitted by a dentist",
+    "Uvulopalatopharyngoplasty under general anaesthesia",
+    "Nightly CPAP, with weight-loss and driving advice",
+    "Positional therapy with the tennis-ball technique",
+    "Tracheostomy to bypass the obstructed upper airway"
+   ],
+   "a": 2,
+   "e": "AHI > 30 is **severe OSA**; **CPAP** is the gold-standard first-line treatment for moderate-severe disease, pneumatically splinting the whole pharynx, combined with weight loss, avoiding alcohol and sedatives, and advice not to drive while sleepy. Mandibular advancement suits mild-moderate or CPAP-intolerant OSA, UPPP succeeds poorly with small tonsils and obesity, and tracheostomy is the last resort (slide p61).",
+   "w": [
+    "Wrong - a mandibular advancement device is for mild-moderate OSA or CPAP intolerance, not first-line in severe disease.",
+    "Wrong - UPPP has a low success rate in severe OSA with obesity and small tonsils, and is not first-line.",
+    "Correct - CPAP is first-line for severe OSA, with lifestyle measures and driving safety advice.",
+    "Wrong - positional therapy alone is for mild, supine-predominant OSA, not severe disease.",
+    "Wrong - tracheostomy is curative but reserved as the last resort when other treatments fail."
+   ],
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "OSAT",
+   "stem": "A 44-year-old man with severe OSA cannot use CPAP for more than an hour a night because of nasal blockage and mouth leak. Anterior rhinoscopy shows a septal deviation to the left and bilateral inferior turbinate hypertrophy. He is booked for septoplasty and inferior turbinate reduction.\nWhat is the main expected benefit of this surgery?",
+   "o": [
+    "Cure of the OSA, so that CPAP can be stopped",
+    "Normalisation of the AHI in most patients",
+    "No further need for a follow-up sleep study",
+    "Better CPAP tolerance at a lower pressure",
+    "Prevention of tongue-base collapse in REM sleep"
+   ],
+   "a": 3,
+   "e": "Nasal surgery lowers nasal resistance (slide p63), which improves CPAP comfort and adherence and may lower the pressure needed, but it seldom cures OSA because collapse occurs at the palate and tongue base. He should continue CPAP and have treatment efficacy re-assessed. Expecting a normal AHI after septoplasty alone is the trap.",
+   "w": [
+    "Wrong - nasal surgery rarely cures OSA; collapse is mainly retropalatal and retroglossal.",
+    "Wrong - the AHI usually changes little after isolated nasal surgery.",
+    "Wrong - he still has severe OSA and needs ongoing CPAP with review of its effectiveness.",
+    "Correct - reducing nasal resistance improves CPAP tolerance and may lower the pressure required.",
+    "Wrong - nasal surgery does not affect tongue-base collapse, which worsens in REM sleep."
+   ],
+   "r": "Slides p61, p63"
+  },
+  {
+   "t": "OSAT",
+   "stem": "A 5-year-old boy of normal weight has loud nightly snoring, witnessed pauses, restless sleep, bedwetting and poor concentration at school. He mouth-breathes, his tonsils are grade 4 and meet in the midline, and a lateral neck X-ray shows a large adenoid. Polysomnography shows an obstructive AHI of 12 events/hour.\nWhat is the most appropriate management?",
+   "o": [
+    "Nightly CPAP through a nasal mask",
+    "Intranasal steroid alone for a year",
+    "Custom mandibular advancement device",
+    "Weight-reduction programme and review",
+    "Adenotonsillectomy"
+   ],
+   "a": 4,
+   "e": "In children an obstructive **AHI > 1** is abnormal and AHI 12 is severe; with adenotonsillar hypertrophy, **adenotonsillectomy is first-line** (obstructive hypertrophy is an absolute indication, slide p28). Intranasal steroids are an option only for mild disease or as a bridge, and CPAP is for children unfit for or failing surgery. Severe paediatric OSA needs overnight post-operative monitoring because of respiratory complications.",
+   "w": [
+    "Wrong - CPAP is for children unfit for surgery or with residual OSA after adenotonsillectomy.",
+    "Wrong - intranasal steroids help mild paediatric OSA only; AHI 12 with grade 4 tonsils needs surgery.",
+    "Wrong - oral appliances are not used in a growing 5-year-old with adenotonsillar obstruction.",
+    "Wrong - he is of normal weight; the cause is adenotonsillar hypertrophy.",
+    "Correct - adenotonsillectomy is first-line for paediatric OSA due to adenotonsillar hypertrophy."
+   ],
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "OSAT",
+   "stem": "A 41-year-old man is brought by his wife, who now sleeps in another room because of his snoring. Polysomnography shows AHI 11 events/hour with mainly supine events; ESS is 9. BMI is 25 kg/m². He has a retruded mandible, healthy teeth and small tonsils, and found CPAP intolerable after a 2-month trial.\nWhat is the most appropriate treatment?",
+   "o": [
+    "Custom mandibular advancement device",
+    "Uvulopalatopharyngoplasty",
+    "Maxillomandibular advancement surgery",
+    "Tracheostomy",
+    "Referral for bariatric surgery"
+   ],
+   "a": 0,
+   "e": "A **mandibular advancement appliance** holds the mandible and tongue forward, enlarging the retroglossal airway; it suits **mild-moderate OSA** or CPAP intolerance, especially with retrognathia and good teeth (slide p61). Positional therapy can be added for supine-predominant events. Maxillomandibular advancement is for severe OSA failing other options, bariatric surgery for obesity, and tracheostomy is the last resort. Treatment also relieves the bed partner ('spouse syndrome', slide p65).",
+   "w": [
+    "Correct - mild OSA, CPAP intolerance, retrognathia and healthy teeth make a mandibular advancement device ideal.",
+    "Wrong - UPPP has limited success, especially with small tonsils and retroglossal (retrognathic) narrowing.",
+    "Wrong - maxillomandibular advancement is major skeletal surgery for severe OSA failing other treatments.",
+    "Wrong - tracheostomy is the last resort for severe, refractory OSA, not mild disease.",
+    "Wrong - his BMI is 25, so bariatric surgery has no role."
+   ],
+   "r": "Slides p61, p65"
+  }
+ ]
+}

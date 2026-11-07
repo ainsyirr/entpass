@@ -1,5 +1,5 @@
-// ENTPass service worker - version 2026.11.07-0743
-const CACHE = 'entpass-2026.11.07-0743';
+// ENTPass service worker - version 2026.11.07-1241
+const CACHE = 'entpass-2026.11.07-1241';
 const CORE = ['./', 'index.html', 'manifest.webmanifest', 'icons/icon-192.png', 'icons/icon-512.png',
               'icons/maskable-512.png', 'icons/apple-touch-icon.png', 'icons/favicon-32.png'];
 self.addEventListener('install', e => {

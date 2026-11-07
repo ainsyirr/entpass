@@ -1,0 +1,1773 @@
+{
+ "id": "ear",
+ "title": "Common Ear Diseases & Audiology",
+ "short": "Ear & Audio",
+ "emoji": "👂",
+ "source": "Common Ear disease And Audiology new.pdf",
+ "topics": {
+  "PINNA": "Pinna: perichondritis, haematoma & preauricular sinus",
+  "EAC": "Ear canal: wax, furunculosis, otitis externa & otomycosis",
+  "MOE": "Malignant (necrotising) otitis externa",
+  "OME": "Otitis media with effusion (glue ear)",
+  "AOM": "Acute otitis media",
+  "COM": "Chronic otitis media: types, complications & management",
+  "CHOL": "Cholesteatoma & mastoidectomy",
+  "VERT": "Vertigo: vestibular system, BPPV, Ménière's & labyrinthitis",
+  "PTA": "Pure tone audiometry & hearing loss",
+  "TYMP": "Tympanometry"
+ },
+ "cards": [
+  {
+   "t": "PINNA",
+   "q": "What is the pinna made of, and why does that structure explain its typical diseases?",
+   "a": "• Framework of **elastic cartilage** covered by **perichondrium**, with skin tightly adherent on the anterior (lateral) surface\n• Cartilage has **no blood supply of its own** – it is nourished by diffusion from the perichondrium\n• The **lobule has no cartilage** (fibro-fatty tissue only)\n• So: blood or pus that lifts the perichondrium starves the cartilage → necrosis and deformity; perichondritis characteristically **spares the lobule**",
+   "m": "Perichondrium = the cartilage's lunchbox: strip it off and the cartilage starves.",
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "PINNA",
+   "q": "How are diseases of the pinna classified in this lecture?",
+   "a": "• **Infection** – perichondritis, pinna abscess\n• **Trauma** – seroma, haematoma\n• **Congenital** – e.g. preauricular sinus (also microtia, accessory tags, bat ears)",
+   "m": "Pinna problems = I-T-C: Infection, Trauma, Congenital.",
+   "r": "Slides p4-8"
+  },
+  {
+   "t": "PINNA",
+   "q": "Perichondritis of the pinna: how does it present, what is the usual organism, and how is it treated?",
+   "a": "• Hot, red, very tender, swollen pinna; **lobule spared** (no cartilage)\n• Often follows **high (cartilage) ear piercing**, trauma, surgery or infected haematoma\n• Commonest organism: **Pseudomonas aeruginosa** (also Staph aureus)\n• Treatment: **systemic antibiotic** – choose anti-pseudomonal cover, e.g. oral **ciprofloxacin**; admit for IV if severe\n• Drain any collection early – untreated it destroys cartilage",
+   "m": "Pierced cartilage + Pseudomonas → Perichondritis → give Cipro. Lobule spared = no cartilage to infect.",
+   "r": "Slide p5"
+  },
+  {
+   "t": "PINNA",
+   "q": "How do you manage a pinna abscess?",
+   "a": "• **Incision and drainage** of the pus\n• **Systemic antibiotic** (anti-staphylococcal and anti-pseudomonal cover)\n• Pressure dressing afterwards so the perichondrium re-adheres to the cartilage\n• Antibiotics alone are not enough once pus has lifted the perichondrium",
+   "m": "Where there is pus, let it out.",
+   "r": "Slide p5"
+  },
+  {
+   "t": "PINNA",
+   "q": "Why does an untreated pinna haematoma lead to a cauliflower ear?",
+   "a": "• Blunt trauma (rugby, boxing, wrestling) shears blood vessels → blood collects **between perichondrium and cartilage**\n• The cartilage loses its perichondrial blood supply → **avascular necrosis**\n• The clot organises and fibroses, and new irregular cartilage forms → crumpled **cauliflower ear**\n• The haematoma may also become infected → perichondritis\n• Hence it is an **urgent** problem – drain early",
+   "m": "Blood under the lid starves the cartilage: drain early or it turns into cauliflower.",
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "PINNA",
+   "q": "How is a pinna haematoma or seroma managed?",
+   "a": "• **Aspirate** the collection (wide-bore needle) and apply **compression**\n• **Recurrent** collection → **incision and drainage** with a **button (bolster) stitch** through the pinna to keep the perichondrium pressed to the cartilage\n• **Oral antibiotic** cover\n• Review in 24-48 h for reaccumulation",
+   "m": "Drain, then Squash: the bolster stops it refilling.",
+   "r": "Slide p6"
+  },
+  {
+   "t": "PINNA",
+   "q": "What is a preauricular sinus, where is its opening, and does it need treatment?",
+   "a": "• Congenital blind-ending tract from **incomplete fusion of the six hillocks of His** (1st and 2nd branchial arches)\n• Pit at the **anterior margin of the ascending limb of the helix**, just in front of the ear; may be bilateral or familial\n• Lined by squamous epithelium – may discharge keratin\n• **Asymptomatic sinus: no treatment needed**",
+   "m": "A pit in front of the helix = a fusion fault of the hillocks.",
+   "r": "Slides p7-8"
+  },
+  {
+   "t": "PINNA",
+   "q": "How do you manage an infected preauricular sinus, an acute abscess, and recurrent infection?",
+   "a": "• **Infection** → antibiotic\n• **Preauricular abscess** → **incision and drainage** + antibiotic (do not attempt excision in the acute phase)\n• **Recurrent infection** → **excision of the whole sinus tract** once quiet, following its branches down to the **temporalis fascia**\n• Incomplete excision is the main cause of recurrence",
+   "m": "Hot: drain it. Cold and recurrent: cut it all out, down to the fascia.",
+   "r": "Slide p8"
+  },
+  {
+   "t": "EAC",
+   "q": "Describe the external auditory canal and explain why furuncles occur only in its outer part.",
+   "a": "• About **2.5 cm** long, S-shaped\n• **Outer 1/3 cartilaginous**: thick skin with **hair follicles, sebaceous and ceruminous glands**\n• **Inner 2/3 bony**: thin skin, no hair or glands, directly on periosteum (very painful when touched)\n• Furuncle = infected **hair follicle** → can only arise in the **outer cartilaginous third**\n• Wax is made in the outer third – wax deep in the bony canal suggests cotton-bud pushing",
+   "m": "No hair, no furuncle: boils live only in the hairy outer third.",
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "EAC",
+   "q": "How is impacted ear wax managed?",
+   "a": "• Wax is normal and self-cleaning – remove only if symptomatic (blockage, deafness) or the TM must be seen\n• **Softening drops** first: olive oil or **sodium bicarbonate** drops for several days\n• Then **ear irrigation (syringing)** with water at body temperature (avoids caloric vertigo)\n• Or **microsuction** under the microscope, or instrumentation (Jobson Horne probe/wax hook)\n• Advise against cotton buds – they push wax deeper",
+   "m": "Soften, then Shift: drops first, then water or suction.",
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "EAC",
+   "q": "When is ear syringing (irrigation) contraindicated?",
+   "a": "• Known or suspected **TM perforation** or history of discharge (risk of middle ear infection)\n• **Previous ear surgery** (e.g. mastoid cavity) or **grommet** in place\n• **Only-hearing ear**\n• **Acute otitis externa** or a painful, inflamed canal\n• Hard foreign body (vegetable seeds swell), cleft palate history\n• Use **microsuction** instead in these patients",
+   "m": "Never syringe a Hole, an Operated ear, the Only ear, or an Inflamed canal.",
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "EAC",
+   "q": "What is furunculosis of the ear canal, and what organism causes it?",
+   "a": "• Inflammation/infection of a **hair follicle** in the **outer cartilaginous EAC** → **localised abscess**\n• Organism: **Staphylococcus aureus**\n• Main symptom: **severe pain**, worse on jaw movement and on pulling the pinna\n• Localised tender swelling; the rest of the canal and TM are normal",
+   "m": "A boil in the ear = a Staph boil like anywhere else on hairy skin.",
+   "r": "Slide p11"
+  },
+  {
+   "t": "EAC",
+   "q": "How is ear canal furunculosis treated?",
+   "a": "• **Analgesia**\n• **Oral and/or topical antibiotic** (anti-staphylococcal, e.g. cloxacillin)\n• Glycerine-ichthammol wick may be used to reduce swelling\n• **Fluctuant** furuncle → **incision and drainage**\n• Recurrent furuncles → check **blood glucose** (diabetes)",
+   "m": "Recurrent boils? Check the sugar.",
+   "r": "Slide p11"
+  },
+  {
+   "t": "EAC",
+   "q": "Define otitis externa.",
+   "a": "• A.k.a. **swimmer's ear**\n• A **generalised (diffuse)** inflammation of the skin of the external auditory canal, characterised by:\n• **Oedema**\n• **Erythema**\n• **Itchy discomfort**\n• **Ear discharge**\n• Contrast: furunculosis is **localised** to one hair follicle",
+   "m": "Furuncle = one spot; otitis externa = the whole canal.",
+   "r": "Slide p12"
+  },
+  {
+   "t": "EAC",
+   "q": "What are the typical history and examination findings in diffuse otitis externa?",
+   "a": "• History: **pain and discharge at the same time**, itch, ± fever, **swimming or ear digging**\n• Exam: **tenderness on tragal palpation** (or pulling the pinna)\n• **Generalised oedematous, erythematous canal** with pus and debris ± granulation tissue\n• **TM intact** (if visible) – helps separate it from discharging otitis media",
+   "m": "Tragus tender, TM intact = the problem is outside the drum.",
+   "r": "Slide p13"
+  },
+  {
+   "t": "EAC",
+   "q": "What are the risk factors for otitis externa?",
+   "a": "• **Dermatological**: eczema, **seborrhoeic dermatitis**\n• **Allergic**: atopy, non-atopic allergy, sensitivity to topical medicines (e.g. drops)\n• **Physiological**: humid environment, immunosuppression\n• **Traumatic**: skin maceration (water), ear probing (cotton buds), laceration, radiotherapy\n• **Anatomical**: narrow canal (hereditary, iatrogenic, **exostosis**)",
+   "m": "DAPTA: Dermatological, Allergic, Physiological, Traumatic, Anatomical.",
+   "r": "Slide p14"
+  },
+  {
+   "t": "EAC",
+   "q": "Which organisms cause bacterial otitis externa?",
+   "a": "• **Pseudomonas species – 50-65%** (commonest)\n• Other Gram-negative organisms – 25-35%\n• **Staphylococcus aureus** – 15-30%\n• Streptococci – 9-15%\n• Hence topical drops should cover **Pseudomonas** (e.g. ciprofloxacin or ofloxacin)",
+   "m": "Swimming pool water loves Pseudomonas.",
+   "r": "Slide p15"
+  },
+  {
+   "t": "EAC",
+   "q": "How is otitis externa treated, and when is an ear wick needed?",
+   "a": "• **Ear toilet (aural mopping/microsuction)** – drops cannot work on a canal full of debris\n• **Topical antibiotic ± steroid drops** (quinolone preferred; avoid aminoglycoside drops if the TM is not seen or is perforated)\n• **Ear wick** when the canal is too swollen for drops to enter – drops are placed on the wick, which swells and carries them in; change in 48-72 h\n• Analgesia; keep the ear **dry**\n• **Severe** (cellulitis, fever, diabetic): add **systemic antibiotic**\n• **Ear care** advice to prevent recurrence",
+   "m": "Clean it, Drop it, Wick it if it's shut, keep it Dry.",
+   "r": "Slide p16"
+  },
+  {
+   "t": "EAC",
+   "q": "Otomycosis: organisms, clinical features and treatment?",
+   "a": "• Fungal otitis externa, often after prolonged antibiotic drops or in humid climates\n• **Aspergillus niger** – black-grey spores on white hyphae (wet newspaper look); **Candida albicans** – white creamy debris\n• Features: **intense itch**, pain, **ear blockage**, discharge\n• Treatment: thorough **ear toilet** + **antifungal** drops/cream (e.g. clotrimazole)\n• **Stop antibiotic drops** – they encourage fungal overgrowth",
+   "m": "Black spores = Aspergillus niger; itch more than pain = think fungus.",
+   "r": "Slide p17"
+  },
+  {
+   "t": "EAC",
+   "q": "What ear care advice should you give patients with ear infection?",
+   "a": "• **Water precautions**: ear plug or cotton wool soaked in oil when bathing, avoid swimming, avoid washing inside the ear during ablution\n• **Do not dig** the ear with cotton buds or metal objects\n• Avoid **prolonged use of headphones/ear buds**, and keep them clean\n• Use ear drops correctly: lie with the ear up for a few minutes, press the tragus to pump drops in, complete the course",
+   "m": "Dry, Don't dig, Disinfect earphones, Drops done properly.",
+   "r": "Slide p64"
+  },
+  {
+   "t": "MOE",
+   "q": "What is malignant (necrotising) otitis externa, and who gets it?",
+   "a": "• Bacterial infection of the soft tissue of the external ear that **spreads to periosteum and bone of the skull base** (skull base osteomyelitis)\n• 'Malignant' because of its aggressive course – **not a cancer**\n• Typically **elderly diabetics** or the immunocompromised (HIV, chemotherapy)\n• Organism: almost always **Pseudomonas aeruginosa**\n• Spreads from the canal floor through the **fissures of Santorini** and the bony-cartilaginous junction (see also deck fnp)",
+   "m": "Old + Diabetic + Painful ear that will not settle = MOE until proven otherwise.",
+   "r": "Slide p18"
+  },
+  {
+   "t": "MOE",
+   "q": "What clinical features should make you suspect malignant otitis externa rather than simple otitis externa?",
+   "a": "• **Excruciating, deep, nocturnal** otalgia out of proportion to the signs\n• Persistent discharge despite more than a week of topical treatment\n• **Granulation tissue on the floor of the canal** at the **bony-cartilaginous junction**\n• **Cranial nerve palsy** – facial (VII) first (stylomastoid foramen), then IX, X, XI (jugular foramen) and XII\n• Often little fever; ESR/CRP raised",
+   "m": "Granulation on the floor + night pain + facial palsy in a diabetic = skull base osteomyelitis.",
+   "r": "Slide p19"
+  },
+  {
+   "t": "MOE",
+   "q": "What are the Cohen & Friedman (1987) criteria for malignant otitis externa?",
+   "a": "• **Major (all required)**: **pain**, **oedema**, **exudate**, **granulations**, **microabscess** (at operation), **positive Tc-99m bone scan** or **failure of local treatment ≥ 1 week**\n• **Minor**: **Pseudomonas** on culture, positive bone radiograph, **diabetes**, **cranial nerve involvement**, debilitating condition, **old age**\n• Note: slide lists 'ESR (high)' as a minor criterion – ESR is **not** part of the original criteria; ESR/CRP are used to **monitor** treatment",
+   "m": "Majors = what you see and scan (pain, swelling, pus, granulation, abscess, scan/failure); minors = who the patient is.",
+   "r": "Slide p19"
+  },
+  {
+   "t": "MOE",
+   "q": "What investigations are done in suspected malignant otitis externa?",
+   "a": "• Bloods: **FBC, ESR, CRP**, blood glucose/HbA1c\n• **Swab C&S** – Pseudomonas and its sensitivities\n• **Biopsy of the granulation tissue** – to exclude **squamous cell carcinoma** of the canal\n• **HRCT temporal bone** (bone erosion) ± MRI (soft-tissue and marrow spread, intracranial extent) especially if complications\n• Nuclear scan (Tc-99m for diagnosis – see next card)",
+   "m": "Bloods, Bug, Biopsy, Bone imaging.",
+   "r": "Slide p20"
+  },
+  {
+   "t": "MOE",
+   "q": "Technetium-99m vs gallium-67 scan in malignant otitis externa – what is each used for?",
+   "a": "• **Tc-99m bone scan** shows osteoblastic activity → very sensitive for **diagnosis**, but stays **positive for months** even after cure\n• **Gallium-67** (or indium-labelled WBC) scan shows active inflammation → used to **monitor response** and decide **when to stop antibiotics**\n• Note: slide says the bone scan is for diagnosis and to evaluate response – correct is **Tc-99m to diagnose, gallium to monitor**",
+   "m": "Technetium = Tells you it's there; Gallium = Gone yet?",
+   "r": "Slides p20-21"
+  },
+  {
+   "t": "MOE",
+   "q": "How is malignant otitis externa treated?",
+   "a": "• **Admit** – pain control, close monitoring\n• **Systemic anti-pseudomonal antibiotic**: **ciprofloxacin**, typically **IV ~2 weeks then oral** – total about **6-8 weeks** (guided by culture)\n• **Strict blood sugar control**\n• **Regular ear toilet** + topical antibiotic drops\n• **Monitor** symptoms, ESR/CRP and **gallium scan**\n• Surgery only for biopsy/debridement of sequestrum or abscess",
+   "m": "Admit, Antibiotic for weeks, Aural toilet, Assess sugar, Assess response.",
+   "r": "Slide p21"
+  },
+  {
+   "t": "OME",
+   "q": "Define otitis media with effusion (glue ear).",
+   "a": "• Accumulation of **non-purulent (serous or mucoid) fluid** in the middle ear cleft\n• **Without signs or symptoms of acute inflammation** (no fever, no acute pain, TM not inflamed)\n• Commonest cause of **hearing loss in children**",
+   "m": "Fluid without fire.",
+   "r": "Slide p23"
+  },
+  {
+   "t": "OME",
+   "q": "Why are otitis media with effusion and acute otitis media commoner in children?",
+   "a": "• Child's **Eustachian tube is shorter, wider and more horizontal** → nasopharyngeal secretions and organisms reach the middle ear easily, and drainage is poor\n• Tube opening muscle (tensor veli palatini) is less efficient\n• **Adenoids** are large and harbour bacteria/obstruct the tube\n• Frequent URTIs and immature immunity",
+   "m": "Short, Wide, Flat tube = an open door to the middle ear.",
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "OME",
+   "q": "What are the risk factors for otitis media with effusion?",
+   "a": "• **Eustachian tube dysfunction**\n• **Allergy** / allergic rhinitis\n• **Unresolved acute otitis media**\n• **Nasal or nasopharyngeal obstruction** – allergic rhinitis, **adenoid hypertrophy**, nasopharyngeal mass\n• **Craniofacial anomalies** – **cleft lip/palate**, **Down syndrome**\n• Others: passive smoking, day-care attendance, bottle feeding",
+   "m": "Anything that blocks or weakens the tube: Tube, Allergy, Adenoid, Cleft, Down.",
+   "r": "Slide p23"
+  },
+  {
+   "t": "OME",
+   "q": "An adult presents with unilateral otitis media with effusion. What must you exclude, and how?",
+   "a": "• **Nasopharyngeal carcinoma (NPC)** – tumour in the fossa of Rosenmüller blocks the Eustachian tube\n• Very high-yield in Malaysia (high incidence, especially in Chinese and Bidayuh populations)\n• Ask about epistaxis, nasal blockage, neck lump, cranial nerve symptoms\n• **Nasoendoscopy of the postnasal space** ± biopsy; EBV serology; examine the neck\n• Never just insert a grommet without looking at the nasopharynx",
+   "m": "Adult + one glue ear = look behind the nose (NPC).",
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "OME",
+   "q": "What are the clinical features of otitis media with effusion in children?",
+   "a": "• **Reduced hearing** – often noticed by parents or teachers ('not listening', TV volume up)\n• Ear blockage, mild otalgia\n• **Speech and language delay**\n• **Poor performance at school**, behavioural problems\n• Often bilateral and painless – may be picked up on screening",
+   "m": "Quiet child, quiet ears: a hearing problem until proven otherwise.",
+   "r": "Slide p24"
+  },
+  {
+   "t": "OME",
+   "q": "What does the tympanic membrane look like in otitis media with effusion?",
+   "a": "• **Dull, yellowish/amber, opaque** TM\n• **Diffuse (lost) cone of light**\n• **Air-fluid level** or **air bubbles** behind the drum\n• Usually **retracted** with reduced mobility on pneumatic otoscopy; occasionally bulging\n• Often associated with **adenoid hypertrophy**",
+   "m": "Amber drum with a fluid line = glue.",
+   "r": "Slide p25"
+  },
+  {
+   "t": "OME",
+   "q": "What do tuning fork tests, PTA and tympanometry show in otitis media with effusion?",
+   "a": "• Tuning forks: **Rinne negative**, **Weber to the affected ear** → conductive loss\n• PTA: **conductive hearing loss** (air-bone gap), typically 20-40 dB\n• Tympanometry: **type B (flat)** with **normal ear canal volume**\n• Normal ECV distinguishes effusion from perforation (high ECV) or wax (low ECV)",
+   "m": "Flat line, Normal volume = fluid behind an intact drum.",
+   "r": "Slide p26"
+  },
+  {
+   "t": "OME",
+   "q": "What is the initial (non-surgical) management of otitis media with effusion?",
+   "a": "• **Active observation for 3 months** – most effusions resolve spontaneously\n• Repeat hearing test at the end of the period; advise on classroom seating and speaking clearly\n• Patients with **allergic symptoms**: treat the allergy – **intranasal steroid**, antihistamine\n• Antibiotics, decongestants and antihistamines do **not** clear the effusion itself\n• Hearing aid is an alternative to surgery",
+   "m": "Watch and wait 3 months – glue usually dissolves.",
+   "r": "Slide p27"
+  },
+  {
+   "t": "OME",
+   "q": "When is grommet insertion indicated in otitis media with effusion, and where is it placed?",
+   "a": "• Indication: **persistent OME after 3 months** with **CHL > 25 dB** (bilateral, or with speech/educational impact)\n• **Myringotomy and grommet (ventilation tube)** in the **anteroinferior quadrant** – away from the ossicles and chorda tympani and least likely to injure the stapes or round window\n• Grommet **ventilates** the middle ear, bypassing the faulty Eustachian tube; extrudes in 6-12 months\n• **+ Adenoidectomy** if adenoid hypertrophy (also lowers recurrence)",
+   "m": "3 months, 25 dB, Anteroinferior: the grommet rule.",
+   "r": "Slide p27"
+  },
+  {
+   "t": "AOM",
+   "q": "What is otitis media, and how are acute and chronic otitis media separated by time?",
+   "a": "• **Otitis media** = generic term for **all types of inflammation of the middle ear**\n• **Acute**: ear symptoms present **< 3 weeks**\n• **Chronic**: ear symptoms present **> 3 months**\n• (Between these, some texts use 'subacute')",
+   "m": "Acute = under 3 weeks; Chronic = over 3 months.",
+   "r": "Slides p28-29"
+  },
+  {
+   "t": "AOM",
+   "q": "Who typically gets acute otitis media, and which organisms cause it?",
+   "a": "• Peak in **children 6 months-2 years**, usually after a **viral URTI**\n• Commonest bacteria: **Streptococcus pneumoniae**, **non-typeable Haemophilus influenzae**, **Moraxella catarrhalis** (also Group A Strep)\n• Route: up the **Eustachian tube** from the nasopharynx\n• Risk factors: day care, passive smoking, bottle feeding lying flat, adenoids, cleft palate",
+   "m": "The 'big three': Pneumococcus, Haemophilus, Moraxella – same bugs as sinusitis.",
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "AOM",
+   "q": "What are the four stages of acute otitis media?",
+   "a": "• 1. Stage of **tubal occlusion**\n• 2. Stage of **pre-suppuration**\n• 3. Stage of **suppuration**\n• 4. Stage of **resolution**\n• (If untreated or virulent, it may progress to complications instead of resolution)",
+   "m": "Tube blocks → Pink drum → Pus (bulge) → Pops (perforation).",
+   "r": "Slide p30"
+  },
+  {
+   "t": "AOM",
+   "q": "Compare the stage of tubal occlusion with the stage of pre-suppuration in AOM.",
+   "a": "• **Tubal occlusion**: Eustachian tube blocked by **oedema of the nasopharynx** → air absorbed → **TM retracted**; reduced hearing and otalgia\n• **Pre-suppuration**: prolonged occlusion → **invasion by pyogenic organisms** → inflammatory exudate in the middle ear → **congested, hyperaemic TM** (cartwheel vessels); otalgia, reduced hearing, tinnitus",
+   "m": "Stage 1 the drum is sucked In; stage 2 it turns Red.",
+   "r": "Slides p31-32"
+  },
+  {
+   "t": "AOM",
+   "q": "What happens in the stage of suppuration of AOM, and what are its features?",
+   "a": "• **Pus forms in the middle ear** under pressure\n• **Bulging TM** (red/yellow, loss of landmarks)\n• **Otalgia at its worst** (increasing intensity), reduced hearing\n• **Fever**, irritability, unwell child\n• This is the stage at which **myringotomy** may be needed to relieve pain",
+   "m": "Bulge = worst pain, highest fever.",
+   "r": "Slide p33"
+  },
+  {
+   "t": "AOM",
+   "q": "What happens in the stage of resolution of AOM?",
+   "a": "• **TM ruptures** → pus released → inflammatory process starts to resolve\n• **Pain reduces** suddenly, followed by **ear discharge** (often blood-stained then mucopurulent)\n• Exam: **TM perforation** (small, usually central) with an inflamed TM\n• Most perforations heal spontaneously within weeks",
+   "m": "Pop = relief: the pain stops when the drum bursts.",
+   "r": "Slide p34"
+  },
+  {
+   "t": "AOM",
+   "q": "What are the symptoms and signs of acute otitis media, especially in children?",
+   "a": "• Otalgia (young children **rub or pull the ear**), ear fullness, reduced hearing\n• **Fever**, **irritability**, poor feeding, unwell child\n• ± Ear discharge\n• TM: **inflamed, bulging with pus behind an intact drum**, or **perforated with pus discharge**",
+   "m": "Fever + ear-tugging + bulging red drum = AOM.",
+   "r": "Slide p35"
+  },
+  {
+   "t": "AOM",
+   "q": "What is the medical treatment of acute otitis media?",
+   "a": "• **Analgesia** (paracetamol/ibuprofen) – the mainstay\n• **Oral amoxicillin** first line (5-7 days; longer if < 2 years or severe); amoxicillin-clavulanate if failure; or **watchful waiting** 48-72 h in selected older, well children\n• **Topical antibiotic drops** (non-ototoxic **quinolone**) only if the TM is **perforated/discharging**\n• Treat associated URTI symptomatically\n• Note: slide lists antihistamine for URTI – **antihistamines and decongestants have no proven benefit in AOM**",
+   "m": "Pain relief + Amoxicillin; drops only if the drum has a hole.",
+   "r": "Slide p36"
+  },
+  {
+   "t": "AOM",
+   "q": "When is myringotomy indicated in AOM, and which features mean complicated disease needing urgent referral?",
+   "a": "• **Myringotomy**: **severe pain with a bulging TM** (releases pus, relieves pain, gives a culture specimen); failed medical treatment\n• Refer urgently if: **postauricular swelling/tenderness** (mastoiditis), **facial palsy**, vertigo, severe headache, neck stiffness, drowsiness (intracranial spread)\n• Persistent discharge > 3 weeks or effusion > 3 months → review for COM/OME",
+   "m": "Bulging + agony = let it out; swelling behind the ear or a weak face = refer today.",
+   "r": "Slide p36"
+  },
+  {
+   "t": "COM",
+   "q": "Define chronic otitis media.",
+   "a": "• **Chronic inflammation of the middle ear and mastoid mucosa**\n• In which the **tympanic membrane is not intact (perforation)**\n• With **discharge (otorrhoea) for > 3 months** when active\n• May be **active** (discharging) or **inactive** (dry perforation)",
+   "m": "COM = Chronic hole + On-and-off discharge for More than 3 months.",
+   "r": "Slide p37"
+  },
+  {
+   "t": "COM",
+   "q": "What are the features of tubotympanic (safe) chronic otitis media?",
+   "a": "• Discharge: **profuse, mucoid, odourless**\n• Perforation: **central** (rim of TM all round)\n• Granulation tissue: **uncommon**\n• Cholesteatoma: **absent**\n• Complications: **rare**\n• Disease of the mucosa of the anteroinferior middle ear cleft (tubotympanum)",
+   "m": "Safe = Central, Copious, no smell.",
+   "r": "Slide p38"
+  },
+  {
+   "t": "COM",
+   "q": "What are the features of atticoantral (unsafe) chronic otitis media?",
+   "a": "• Discharge: **scanty, purulent, foul-smelling** (anaerobes + keratin)\n• Perforation: **marginal** or **attic (pars flaccida)**\n• Granulation tissue and aural polyps: **common**\n• Cholesteatoma: **frequent**\n• Complications: **common** – because bone is eroded\n• 'Unsafe' = squamous disease of the attic, antrum and mastoid",
+   "m": "Unsafe = Scanty, Smelly, at the Side (marginal) or attic.",
+   "r": "Slide p38"
+  },
+  {
+   "t": "COM",
+   "q": "How are the complications of chronic otitis media classified?",
+   "a": "• **Extracranial – intratemporal**: acute mastoiditis/mastoid abscess, labyrinthitis, petrositis, facial nerve palsy\n• **Extracranial – extratemporal**: postauricular, **Bezold**, **Citelli**, **Luc**, zygomatic and retromastoid abscesses\n• **Intracranial**: meningitis, extradural abscess, subdural abscess, otogenic brain abscess, **lateral sinus thrombophlebitis**, otitic hydrocephalus",
+   "m": "Think concentric rings: inside the temporal bone → outside it in the neck/face → inside the skull.",
+   "r": "Slide p39"
+  },
+  {
+   "t": "COM",
+   "q": "What are the signs of acute mastoiditis with mastoid abscess?",
+   "a": "• **Pinna pushed forwards and downwards** (outwards)\n• **Swelling over the mastoid** – tender, fluctuant, erythematous; postauricular sulcus obliterated\n• **Sagging of the posterosuperior meatal wall** on otoscopy (periosteum of the antrum pushed down)\n• Plus fever, worsening otalgia and discharge",
+   "m": "Sag of the posterosuperior wall = pus in the antrum next door.",
+   "r": "Slide p40"
+  },
+  {
+   "t": "COM",
+   "q": "What is Gradenigo's syndrome?",
+   "a": "• Complication of **petrositis** (infection of the petrous apex air cells)\n• Triad: **persistent otorrhoea**, **pain in the CN V distribution** (retro-orbital/deep facial pain – Gasserian ganglion), **lateral rectus palsy (CN VI)** → diplopia\n• CN VI is hit as it runs through **Dorello's canal** over the petrous apex",
+   "m": "Gradenigo: Gunk (otorrhoea), Grimace (V pain), Gaze palsy (VI).",
+   "r": "Slide p41"
+  },
+  {
+   "t": "COM",
+   "q": "Facial nerve palsy in chronic otitis media: why does it happen and how is it managed?",
+   "a": "• Cholesteatoma or granulation erodes the bony **Fallopian canal** (tympanic segment) and inflames the nerve\n• Facial palsy in COM is an **indication for urgent surgery** (mastoid exploration and decompression) – not 'Bell's palsy'\n• Medical: **systemic steroid**, IV antibiotic, **facial physiotherapy**, **eye care – eye padding and artificial tears**\n• See deck fnp for nerve tests and grading",
+   "m": "A weak face with a smelly ear = cholesteatoma until proven otherwise.",
+   "r": "Slides p42, p46"
+  },
+  {
+   "t": "COM",
+   "q": "Where do Bezold, Citelli, Luc and zygomatic abscesses point?",
+   "a": "• **Bezold**: pus breaks through the **mastoid tip** medially → **deep to sternocleidomastoid** (neck swelling)\n• **Citelli**: through the medial mastoid → **digastric triangle**\n• **Luc**: from the antrum via the **roof of the EAC** → **deep to temporalis**, no postauricular swelling\n• **Zygomatic**: via zygomatic air cells → swelling **in front of/above the ear**\n• **Postauricular** abscess is the commonest",
+   "m": "Bezold = Below (neck, under SCM); Luc = Lateral roof of canal under temporalis.",
+   "r": "Slides p39, p43"
+  },
+  {
+   "t": "COM",
+   "q": "Which features in a patient with chronic otitis media suggest intracranial spread?",
+   "a": "• **Persistent headache**, high or swinging fever, vomiting\n• **Neck stiffness**, photophobia (meningitis)\n• **Drowsiness**, confusion, seizures, focal signs (brain abscess – temporal lobe or cerebellum)\n• Papilloedema, sixth nerve palsy (raised ICP, otitic hydrocephalus)\n• Action: admit, IV antibiotics, **urgent CT/MRI brain** with HRCT temporal bone, neurosurgical input",
+   "m": "Smelly ear + headache = CT the head, not paracetamol.",
+   "r": "Slide p39"
+  },
+  {
+   "t": "COM",
+   "q": "What are the features of lateral (sigmoid) sinus thrombophlebitis as a complication of otitis media?",
+   "a": "• Infected thrombus in the sigmoid/lateral sinus adjacent to the mastoid\n• **'Picket-fence' fever** with rigors (septic emboli)\n• **Griesinger sign**: oedema and tenderness over the mastoid emissary vein (posterior mastoid)\n• Tobey-Ayer test (CSF pressure), papilloedema, possible otitic hydrocephalus\n• Diagnosis: **CT/MR venography** ('empty delta' sign); Rx: IV antibiotics + mastoidectomy ± anticoagulation",
+   "m": "Picket-fence fever = a fence of spikes from an infected venous sinus.",
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "COM",
+   "q": "How is chronic otitis media categorised for management, and how is inactive (dry) COM managed?",
+   "a": "• Categories: **inactive**, **active without complication**, **active with complication**\n• **Inactive (dry perforation)**:\n• **Audiometry** (baseline hearing)\n• **Keep the ear dry** (water precautions)\n• After about **6 months dry**, offer **myringoplasty** (graft – usually temporalis fascia – to close the perforation)",
+   "m": "Dry for 6 months → patch the hole.",
+   "r": "Slide p44"
+  },
+  {
+   "t": "COM",
+   "q": "How is active chronic otitis media without complication managed?",
+   "a": "• **Ear toilet/mopping** (microsuction) – the key step\n• **Topical** antibiotic drops – **better than oral** (very high local concentration): **ofloxacin ear drops**\n• **Keep the ear dry**\n• **Pus swab C&S only for unresolved cases**\n• Observe for complications and follow up",
+   "m": "Clean, Drop, Dry – then Follow.",
+   "r": "Slide p45"
+  },
+  {
+   "t": "COM",
+   "q": "In active chronic otitis media, when are systemic antibiotics added, and why prefer quinolone drops?",
+   "a": "• Systemic antibiotics: **paediatric** patients, **granulation tissue**, or **not resolving with topical antibiotic alone**\n• **Quinolone drops (ofloxacin, ciprofloxacin)** are **not ototoxic** and cover Pseudomonas\n• **Aminoglycoside drops** (gentamicin, neomycin) risk **cochlear/vestibular toxicity** through a perforation – avoid when the TM is not intact if possible",
+   "m": "Hole in the drum? Pick a Quinolone, not an aminoglycoside.",
+   "r": "Slide p45"
+  },
+  {
+   "t": "COM",
+   "q": "How is active chronic otitis media with complication managed?",
+   "a": "• Investigations: **pus swab**, **HRCT temporal bone ± brain** imaging, **audiometry**\n• Medical: **admit**, **systemic (IV) antibiotic**, topical drops, ear toilet\n• Facial palsy: systemic steroid, facial physiotherapy, eye padding, artificial tears\n• Surgical: **cortical mastoidectomy** (drain mastoid); canal wall down/modified radical if cholesteatoma\n• Drain abscesses; neurosurgery for intracranial collections",
+   "m": "Complication = Admit, IV, Image, Operate.",
+   "r": "Slide p46"
+  },
+  {
+   "t": "CHOL",
+   "q": "What is a cholesteatoma, and why is it destructive?",
+   "a": "• **'Skin in the wrong place'**\n• Epidermal cyst of the middle ear and/or temporal bone with a **keratinising squamous epithelial lining**, containing **keratin and desquamated epithelium**\n• Natural history: **progressive growth with bone erosion** by **pressure** and **osteoclast activation** (enzymes from the inflamed matrix)\n• Erodes ossicles, scutum, lateral SCC, facial canal, tegmen, sigmoid plate → complications",
+   "m": "A skin bag that keeps filling with dead skin and eats bone.",
+   "r": "Slide p47"
+  },
+  {
+   "t": "CHOL",
+   "q": "How are cholesteatomas classified?",
+   "a": "• **Congenital** – arises behind an **intact TM** from embryonic epithelial rests\n• **Acquired**:\n• a) **Primary acquired** – from a **retraction pocket**, no preceding infection or perforation\n• b) **Secondary acquired** – from a **perforation** after previous infection",
+   "m": "Congenital = behind intact drum; Primary = Pocket; Secondary = perforation.",
+   "r": "Slide p48"
+  },
+  {
+   "t": "CHOL",
+   "q": "What are the Levenson criteria for congenital cholesteatoma?",
+   "a": "• **White mass medial to a normal TM**\n• **Normal pars tensa and pars flaccida**\n• **No history of otorrhoea or perforation**\n• **No prior otological procedure**\n• Classically a pearly white mass in the **anterosuperior quadrant** in a child",
+   "m": "White pearl behind a perfect drum, in an ear that has never been sick or operated on.",
+   "r": "Slide p49"
+  },
+  {
+   "t": "CHOL",
+   "q": "What is primary acquired cholesteatoma, and which theories explain it?",
+   "a": "• Arises from a **retraction pocket** (usually **pars flaccida/attic**) due to Eustachian tube dysfunction and negative pressure\n• **Infection has not given rise** to it (no previous perforation)\n• Theories: **invagination/retraction pocket (Wittmaack)** and **basal cell hyperplasia (Ruedi)** – keratinocytes of the pars flaccida proliferate into the attic\n• Note: slide groups Ruedi under secondary acquired; most texts (Dhingra) place **basal cell hyperplasia under PRIMARY acquired**",
+   "m": "Primary = Pocket: Wittmaack sucks it in, Ruedi grows it in.",
+   "r": "Slides p50-51"
+  },
+  {
+   "t": "CHOL",
+   "q": "What is secondary acquired cholesteatoma, and which theories explain it?",
+   "a": "• Arises through a **perforation** of the TM (usually **marginal** posterosuperior)\n• **Previous ear infection** is present\n• Theories: **epithelial invasion/migration (Habermann)** – canal/TM skin grows in through the perforation edge\n• **Squamous metaplasia** of middle ear mucosa after chronic infection (**Sadé**)\n• (Basal cell hyperplasia – Ruedi – is usually grouped with primary acquired)",
+   "m": "Secondary = skin migrates through a hole (Habermann) or mucosa Switches to skin (Sadé).",
+   "r": "Slide p51"
+  },
+  {
+   "t": "CHOL",
+   "q": "What is the Sadé classification of pars tensa retraction?",
+   "a": "• **Grade 1** – slight retraction of the TM\n• **Grade 2** – severe retraction, TM **touching the incus or stapes**\n• **Grade 3** – **atelectasis**: TM touching the **promontory** (but not stuck)\n• **Grade 4** – **adhesive otitis**: TM **adherent to the promontory**\n• Deep, non-self-cleaning pockets can collect keratin → cholesteatoma",
+   "m": "Sadé for Tensa: slight → ossicles → promontory touch → promontory stuck.",
+   "r": "Slide p52"
+  },
+  {
+   "t": "CHOL",
+   "q": "What is the Tos classification of pars flaccida (attic) retraction?",
+   "a": "• **Grade 1** – retracted pars flaccida **not in contact** with the neck of malleus\n• **Grade 2** – **in contact with the neck of malleus**\n• **Grade 3** – as grade 2 plus **limited erosion of the outer attic wall (scutum)**\n• **Grade 4** – as grade 3 plus **severe erosion** of the outer attic wall/scutum\n• Erosion of the scutum marks the shift towards cholesteatoma",
+   "m": "Tos for the Top (attic): 1 free, 2 touching malleus, 3 nibbling the scutum, 4 eating it.",
+   "r": "Slide p53"
+  },
+  {
+   "t": "CHOL",
+   "q": "What are the symptoms and otoscopic signs of cholesteatoma?",
+   "a": "• Symptoms: **scanty, foul-smelling otorrhoea**, bleeding, **hearing loss**, otalgia, tinnitus, **vertigo** (fistula)\n• Signs: **attic retraction/perforation** or **marginal perforation**\n• **Pearly white cholesteatoma flakes** with a fishy odour\n• **Granulation tissue**, **attic polyp**\n• Scanty, purulent, foul discharge",
+   "m": "Smelly, scanty, and white flakes in the attic.",
+   "r": "Slide p54"
+  },
+  {
+   "t": "CHOL",
+   "q": "Why must the attic always be examined even when a central perforation is seen?",
+   "a": "• An **attic cholesteatoma sac** can coexist with a pars tensa (central) perforation\n• Seeing a 'safe' central perforation can falsely reassure – the attic disease is easily missed behind a crust or polyp\n• Clear crusts at the **pars flaccida** with microsuction under the microscope\n• Large attic cholesteatomas may expose the **head of malleus** or extend into the mesotympanum",
+   "m": "Never stop at the first hole – always look upstairs (attic).",
+   "r": "Slides p55-56"
+  },
+  {
+   "t": "CHOL",
+   "q": "Which investigations are done for cholesteatoma, and what are the other indications for HRCT temporal bone?",
+   "a": "• **HRCT temporal bone** – extent of disease and nearby anatomy (surgical roadmap)\n• **Swab C&S**; **HPE of granulation tissue** to exclude malignancy; audiometry\n• Other HRCT indications: **suspected complications**, **revision surgery**, **TM not visualised**/indeterminate exam, **children** (exclude petrous apex lesion), **only or better-hearing ear**",
+   "m": "Scan when it's Complicated, Revised, Can't be seen, a Child, or the Crucial (only) ear.",
+   "r": "Slide p57"
+  },
+  {
+   "t": "CHOL",
+   "q": "What are the HRCT hallmarks of cholesteatoma, and what is the earliest sign?",
+   "a": "• **Soft-tissue mass** with homogeneous opacity and **sharp, defined borders**, especially in the **attic and non-dependent** areas (fluid lies dependent)\n• **Bone erosion** of the **scutum**, incus and malleus, or mastoid air cells\n• **Blunting of the scutum** is often the **earliest sign**\n• Also look at lateral SCC (fistula), tegmen, facial canal, sigmoid plate",
+   "m": "Blunt scutum = the first bite of cholesteatoma.",
+   "r": "Slide p58"
+  },
+  {
+   "t": "CHOL",
+   "q": "What is the role of medical versus surgical treatment in cholesteatoma?",
+   "a": "• Medical (holding measures only): **regular microsuction clearance** and follow-up, **topical ear drops**, **strict dry-ear precautions** – for the unfit, or to quieten the ear before surgery\n• **Surgery is the mainstay: mastoidectomy**\n• Presence of cholesteatoma **mandates surgery** – there is **no medical alternative** that removes the disease\n• Aims: safe dry ear first, hearing second",
+   "m": "Drops dry it, only a drill removes it.",
+   "r": "Slides p59-60"
+  },
+  {
+   "t": "CHOL",
+   "q": "Canal wall-up versus canal wall-down mastoidectomy – what is the difference and which operations are in each group?",
+   "a": "• **Canal wall-up**: **preserves the posterior wall of the EAC** – atticotomy, attico-antrostomy, **cortical (Schwartze) mastoidectomy**, **combined approach tympanoplasty**\n• Normal-looking canal, no cavity care, but higher **residual/recurrent** disease → second-look surgery\n• **Canal wall-down**: posterior canal wall removed – **radical** and **modified radical mastoidectomy**\n• Best exposure and lower recurrence, but leaves an open **mastoid cavity** needing lifelong care",
+   "m": "Wall Up = looks normal, may hide disease; Wall Down = open cavity, nowhere to hide.",
+   "r": "Slide p61"
+  },
+  {
+   "t": "CHOL",
+   "q": "Radical versus modified radical mastoidectomy – what is the key difference?",
+   "a": "• **Radical**: eradicates disease from middle ear and mastoid **without reconstructing hearing** – posterior meatal wall removed; middle ear, attic, antrum and mastoid made **one cavity**; TM remnants, ossicles (**except stapes footplate**) and mucosa removed; **Eustachian tube obliterated** with muscle/cartilage\n• **Modified radical**: same cavity but **hearing mechanism preserved** as much as possible – TM remnants and ossicles (especially **handle of malleus and stapes**)\n• Further modification: TM grafting and ossicular reconstruction = **mastoidectomy with tympanoplasty**",
+   "m": "Radical = clear everything, sacrifice hearing; Modified = clear disease, keep what hears.",
+   "r": "Slides p62-63"
+  },
+  {
+   "t": "VERT",
+   "q": "What is vertigo, and what must you distinguish it from in a 'dizzy' patient?",
+   "a": "• Vertigo is a **symptom, not a disease**\n• **True vertigo** = an **illusion of movement**, usually spinning (self or surroundings)\n• Distinguish from **light-headedness**, **presyncope** (about to faint – cardiovascular, postural hypotension) and **imbalance/unsteadiness while walking**\n• Then decide: **peripheral** (labyrinth/vestibular nerve) or **central** (brainstem/cerebellum) cause",
+   "m": "Spinning = vestibular; swooning = circulation; staggering = gait/neurology.",
+   "r": "Slide p66"
+  },
+  {
+   "t": "VERT",
+   "q": "What do the semicircular canals, utricle and saccule each detect?",
+   "a": "• **Semicircular canals** (3, at right angles; crista ampullaris) → **angular (rotational) acceleration**\n• **Otolith organs** (maculae with otoconia) → **linear acceleration** and gravity:\n• **Utricle** → **horizontal** linear movement (**forward-backward**)\n• **Saccule** → **vertical** linear movement (**up-down**, e.g. a lift)",
+   "m": "Canals = Turning; Utricle = forward in a car; Saccule = up in a lift.",
+   "r": "Slides p67-68"
+  },
+  {
+   "t": "VERT",
+   "q": "What are the vestibulo-ocular and vestibulospinal reflexes?",
+   "a": "• **VOR (vestibulo-ocular reflex)**: keeps the **eyes stable on a target during head movement** – eyes move equal and opposite to the head\n• **VSR (vestibulospinal reflex)**: maintains **balance and posture** via antigravity muscles\n• An acute unilateral vestibular loss upsets the VOR → **nystagmus** and oscillopsia; upsets the VSR → falling to the side of the lesion",
+   "m": "VOR steadies the camera (eyes); VSR steadies the tripod (body).",
+   "r": "Slide p69"
+  },
+  {
+   "t": "VERT",
+   "q": "List the main peripheral and central causes of vertigo.",
+   "a": "• **Peripheral** (vestibular end-organ and nerve): **BPPV**, **Ménière's disease**, **labyrinthitis**, vestibular neuritis/vestibulopathy\n• **Central** (brain/brainstem/cerebellum): **stroke** (posterior circulation), **tumour (acoustic neuroma** – vestibular schwannoma at the CP angle), **multiple sclerosis**, **vestibular migraine**",
+   "m": "Peripheral = BMLV; Central = Stroke, Schwannoma, Sclerosis, migraine.",
+   "r": "Slide p70"
+  },
+  {
+   "t": "VERT",
+   "q": "How does nystagmus help distinguish peripheral from central vertigo?",
+   "a": "• **Peripheral**: **unidirectional** in all gaze positions, **horizontal-torsional (rotatory)**, **suppressed by visual fixation**, **fatigable**, appears after a **latency (lag)** on positional testing\n• **Central**: **changes direction** with gaze position, may be **pure vertical** (down/upbeat) or pure torsional, **not suppressed by fixation**, non-fatigable, no latency",
+   "m": "Peripheral nystagmus is polite: one direction, tires out, hides when you stare. Central nystagmus is rude.",
+   "r": "Slide p71"
+  },
+  {
+   "t": "VERT",
+   "q": "Apart from nystagmus, which features separate peripheral from central vertigo?",
+   "a": "• **Imbalance**: peripheral mild-moderate and **episodic**; central **severe, mostly constant** (may be unable to stand)\n• **Neurological symptoms**: peripheral **rare**; central **frequent** (diplopia, dysarthria, ataxia, weakness)\n• **Hearing loss**: peripheral **frequent**; central **rare**\n• **Nausea/vomiting**: peripheral **severe**; central variable\n• **Recovery by central compensation**: peripheral **rapid**; central **slow**",
+   "m": "Peripheral = sick and deaf but walks; Central = can't walk, has neuro signs.",
+   "r": "Slide p71"
+  },
+  {
+   "t": "VERT",
+   "q": "What is BPPV and what causes it?",
+   "a": "• **Benign paroxysmal positional vertigo** – the **most common** cause of peripheral vertigo\n• **Otoconia dislodged from the utricle** float into a semicircular canal (canalolithiasis) and make the cupula respond to gravity\n• **Posterior semicircular canal in ~80%** (most dependent canal)\n• Brief vertigo lasting **seconds (usually < 1 min)**, triggered by **head position** – rolling in bed, looking up, bending\n• No hearing loss, no tinnitus",
+   "m": "Loose stones from the utricle roll down the posterior canal when you roll over in bed.",
+   "r": "Slide p72"
+  },
+  {
+   "t": "VERT",
+   "q": "How is the Dix-Hallpike test performed and what is a positive result for posterior canal BPPV?",
+   "a": "• Patient sits; head turned **45°** to the test side; lie back quickly with the head **hanging ~20-30° below horizontal**\n• Positive: after a **latency of a few seconds** → vertigo with **torsional, upbeating, geotropic nystagmus** (towards the lower ear)\n• Lasts **< 1 minute**; **reverses** on sitting up; **fatigues on repetition**\n• The **dependent (lower) ear** is the affected one",
+   "m": "Latent, Limited, Lessens (fatigues), Lower ear affected.",
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "VERT",
+   "q": "What is the Epley manoeuvre and what advice follows it?",
+   "a": "• **Canalith repositioning manoeuvre** for posterior canal BPPV\n• Starts from the positive Dix-Hallpike position, then a series of head turns (90° to the other side, roll onto the side with the nose down, then sit up), holding each ~30-60 s\n• Moves otoconia out of the posterior canal back into the **utricle**\n• Success ~80% after 1-2 manoeuvres; may repeat; Brandt-Daroff exercises at home\n• Vestibular sedatives are not needed and delay compensation",
+   "m": "Hallpike finds the stones; Epley puts them back.",
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "VERT",
+   "q": "What is Ménière's disease and how does it present?",
+   "a": "• **Idiopathic endolymphatic hydrops** (excess endolymph distending the membranous labyrinth)\n• Triad: **episodic vertigo**, **fluctuating hearing loss with aural fullness**, **tinnitus**\n• Hearing loss is **sensorineural**, typically **low-frequency** early, worsening progressively\n• Associated **nausea and vomiting**\n• Attacks last **20 minutes to 12 hours** (slide: minutes to hours) – much longer than BPPV seconds",
+   "m": "Ménière's = a waterlogged inner ear: Vertigo + Fullness + Tinnitus + Low-tone loss.",
+   "r": "Slide p75"
+  },
+  {
+   "t": "VERT",
+   "q": "What is the medical management of Ménière's disease?",
+   "a": "• **Acute attack**: vestibular sedatives/antiemetics – **prochlorperazine**, **promethazine** – short term only (they delay compensation)\n• **Prophylaxis**: **betahistine** (Betaserc)\n• **Lifestyle**: **low-salt diet**, stop smoking and alcohol, limit caffeine\n• **Vestibular rehabilitation**\n• **Intratympanic steroid** (hearing-sparing) or **intratympanic gentamicin** (chemical labyrinthectomy – risks hearing) if attacks persist",
+   "m": "Acute: sedate; Long-term: Betahistine + low Salt; Resistant: drip into the drum.",
+   "r": "Slide p76"
+  },
+  {
+   "t": "VERT",
+   "q": "What surgical options exist for Ménière's disease, and when are they used?",
+   "a": "• Only **if medical treatment fails** to control vertigo\n• **Endolymphatic sac decompression** – conservative, hearing preserved\n• **Vestibular neurectomy** – cuts the vestibular nerve, preserves hearing, controls vertigo\n• **Labyrinthectomy** – destructive, only when hearing in that ear is already **non-serviceable**\n• Choice depends on **hearing level** and the other ear",
+   "m": "Save hearing → sac or nerve cut; hearing already gone → destroy the labyrinth.",
+   "r": "Slide p76"
+  },
+  {
+   "t": "VERT",
+   "q": "How is labyrinthitis classified, and how do serous and suppurative labyrinthitis differ?",
+   "a": "• **Infective**: suppurative (bacterial), serous (viral), circumscribed (focal), syphilitic, fungal\n• **Non-infective (sterile)**: autoimmune, labyrinthitis ossificans, toxic/drug-induced\n• **Serous (viral)**: inflammation without pus → vertigo with partial, often **recoverable** hearing loss\n• **Suppurative (bacterial)**: pus in the labyrinth (from otitis media or meningitis) → severe vertigo and **total, permanent hearing loss** (dead ear)",
+   "m": "Serous = may Spare hearing; Suppurative = Sacrifices it.",
+   "r": "Slide p77"
+  },
+  {
+   "t": "VERT",
+   "q": "What is circumscribed labyrinthitis and how is it detected?",
+   "a": "• **Focal inflammation of the bony labyrinth** – usually from **cholesteatoma eroding the lateral semicircular canal** (labyrinthine fistula)\n• Brief vertigo on pressure changes: pressing the tragus, nose blowing, cleaning the ear\n• **Positive fistula test**: pressure on the tragus/pneumatic speculum → vertigo and nystagmus\n• Hearing usually preserved at first; HRCT confirms; needs **surgery** (remove matrix over the fistula carefully)",
+   "m": "Press the tragus, the eyes jump = a hole in the lateral canal.",
+   "r": "Slide p77"
+  },
+  {
+   "t": "PTA",
+   "q": "What is pure tone audiometry and what is it used for?",
+   "a": "• **Subjective** test of a person's ability to hear pure tones of various frequencies, using an **audiometer** in a soundproof booth\n• Determines:\n• **Hearing threshold level** (quietest tone heard 50% of the time)\n• **Type** of hearing loss\n• **Severity** of hearing loss\n• Needs a cooperative patient (usually from ~4-5 years)",
+   "m": "PTA answers 3 questions: How quiet? What type? How bad?",
+   "r": "Slide p79"
+  },
+  {
+   "t": "PTA",
+   "q": "Air conduction versus bone conduction on PTA – what does each tell you?",
+   "a": "• **Air conduction (headphones)**: tests the whole pathway (outer + middle + inner ear) → **threshold level** and **severity** of hearing loss\n• **Bone conduction (vibrator on mastoid)**: bypasses outer and middle ear → reflects **cochlear function** → determines the **type** of loss\n• Types: **conductive**, **sensorineural**, **mixed**",
+   "m": "Air = How bad; Bone = What type (the cochlea's own reserve).",
+   "r": "Slide p81"
+  },
+  {
+   "t": "PTA",
+   "q": "What is plotted on a pure tone audiogram, and what are the standard symbols?",
+   "a": "• A graph of **pure-tone thresholds**: **frequency (pitch)** on the x-axis, **125-8000 Hz**; **intensity (loudness)** on the y-axis, **-10 to 120 dB HL** (worse hearing plotted lower)\n• Symbols: right AC **O** (red), left AC **X** (blue); right BC **<**, left BC **>**\n• Masking used to stop the better ear hearing the test tone (bracket symbols for masked BC)\n• Normal hearing: thresholds within **0-20 dB HL**",
+   "m": "Red Round Right; blue X for the Left.",
+   "r": "Slides p82, p84"
+  },
+  {
+   "t": "PTA",
+   "q": "How is the severity of hearing loss graded (British Society of Audiology)?",
+   "a": "• **Mild**: **20-40 dB HL**\n• **Moderate**: **41-70 dB HL**\n• **Severe**: **71-95 dB HL**\n• **Profound**: **> 95 dB HL**\n• (Grade on the average of thresholds at 0.25, 0.5, 1, 2 and 4 kHz)",
+   "m": "20-40-70-95: each step is roughly a doubling of difficulty.",
+   "r": "Slide p83"
+  },
+  {
+   "t": "PTA",
+   "q": "What does conductive hearing loss look like on PTA, and what are its common causes?",
+   "a": "• **BC within normal range**; **AC abnormal** → an **air-bone gap** (more than about **10 dB**)\n• Cochlea is normal – sound is blocked in the outer or middle ear\n• Causes: **wax**, **foreign body**, **middle ear effusion**, **haemotympanum**, **chronic otitis media**, otosclerosis\n• Note: slides give the gap as '≥ 10 dB' (p85) and '> 10 dB' (p91) – read it as a gap of more than about 10 dB with normal BC",
+   "m": "Bone normal, Air down = a blockage before the cochlea.",
+   "r": "Slides p85-86"
+  },
+  {
+   "t": "PTA",
+   "q": "What does sensorineural hearing loss look like on PTA, and what are its causes and classic patterns?",
+   "a": "• **BC and AC both abnormal**, **no air-bone gap** (BC = AC)\n• Lesion in the **cochlea or VIII nerve**; outer/middle ear clear\n• Causes: congenital, **presbycusis**, **sudden SNHL**, **noise-induced**, **drug-induced** (aminoglycosides, cisplatin), autoimmune\n• Patterns: **noise-induced = notch at 4 kHz**; **presbycusis = bilateral high-frequency sloping loss**; Ménière's = low-frequency loss\n• **Unilateral/asymmetric SNHL** → MRI internal acoustic meatus (acoustic neuroma)",
+   "m": "Noise Notches at 4 k; age Slopes down at the high end.",
+   "r": "Slides p87-88"
+  },
+  {
+   "t": "PTA",
+   "q": "What is mixed hearing loss, and which condition typically causes it?",
+   "a": "• **Both conductive and sensorineural** components\n• **AC and BC both abnormal**, **with an air-bone gap** (AC worse than BC)\n• Typical cause: **chronic otitis media ± cholesteatoma** (conductive from perforation/ossicular erosion + sensorineural from toxins entering through the round window or labyrinthine fistula)\n• Also advanced otosclerosis",
+   "m": "Mixed = everything is down, but Air is down further.",
+   "r": "Slides p89-91"
+  },
+  {
+   "t": "PTA",
+   "q": "How do the 512 Hz tuning fork tests separate conductive from sensorineural hearing loss, and which hearing loss is an emergency?",
+   "a": "• **Rinne negative** (BC > AC) + **Weber lateralises to the affected ear** → **conductive** loss in that ear\n• **Rinne positive** (AC > BC) + **Weber lateralises to the better ear** → **sensorineural** loss in the other ear\n• Normal: Rinne positive, Weber central\n• **Sudden SNHL** (≥ 30 dB over 3 frequencies within 72 h) → **urgent ENT referral** for PTA and **steroids** (oral or intratympanic) as early as possible",
+   "m": "Weber goes to the Worse ear in conductive loss, and Away from it in sensorineural loss.",
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "TYMP",
+   "q": "What does tympanometry measure, and how is a tympanogram read?",
+   "a": "• Measures how the **acoustic immittance (compliance)** of the middle ear changes as **air pressure in the ear canal is varied**\n• Objective – no response needed from the patient\n• Tympanogram: **compliance (ml)** on the y-axis vs **canal pressure (daPa)** on the x-axis (about -300 to +200)\n• Read both the **shape** (type) and the numbers: **peak pressure**, **static compliance (SC)**, **ear canal volume (ECV)**",
+   "m": "The drum moves best when pressure on both sides is equal – the peak tells you the middle ear pressure.",
+   "r": "Slides p92-94"
+  },
+  {
+   "t": "TYMP",
+   "q": "What is a type A tympanogram and what are the normal values?",
+   "a": "• **Normal** middle ear pressure and TM compliance – normal middle ear function\n• **Peak pressure: +50 to -100 daPa**\n• **Static compliance: 0.3-1.7 ml**\n• **Ear canal volume: 0.3-2.0 cm³** (smaller in children)\n• Note: a type A does **not** exclude sensorineural loss",
+   "m": "A = All right.",
+   "r": "Slide p95"
+  },
+  {
+   "t": "TYMP",
+   "q": "Type As versus type Ad tympanogram – what is the difference and the typical causes?",
+   "a": "• Both have a **normal peak pressure (~0 daPa)** and normal ECV\n• **As (shallow/stiff)**: **unusually low compliance** → stiff middle ear system – **otosclerosis** (stapes fixation), **tympanosclerosis**\n• **Ad (deep)**: **markedly increased compliance** → flaccid/hypermobile system – **ossicular discontinuity**, thin scarred (atrophic) TM",
+   "m": "As = Stiff/Shallow (Stapes fixed); Ad = Deep/Disrupted ossicles.",
+   "r": "Slides p96-97"
+  },
+  {
+   "t": "TYMP",
+   "q": "A flat (type B) tympanogram – how do you use the ear canal volume to interpret it?",
+   "a": "• Type B = **no peak**: the TM does not move at any pressure\n• **Normal ECV** → **middle ear effusion** (OME)\n• **Low ECV** → **impacted wax** or probe against the canal wall\n• **High ECV** → **TM perforation** or a **patent grommet** (probe measures canal + middle ear + mastoid)\n• Note: slide headlines type B as 'normal ECV' – the ECV varies with the cause and is the key to interpretation",
+   "m": "Flat line? Check the Volume: Normal = fluid, Low = wax, High = hole.",
+   "r": "Slide p98"
+  },
+  {
+   "t": "TYMP",
+   "q": "What is a type C tympanogram and what does it indicate?",
+   "a": "• **Peak at abnormally negative pressure** (below about -100 daPa) with **normal SC and ECV**\n• The drum moves best when canal pressure is negative → middle ear pressure is **below atmospheric**\n• Indicates **Eustachian tube dysfunction**, with or without early middle ear fluid\n• Seen with URTI, allergic rhinitis, adenoids, early or resolving OME; may progress to type B",
+   "m": "C = Collapsing (negative) pressure from a blocked tube.",
+   "r": "Slide p99"
+  },
+  {
+   "t": "TYMP",
+   "q": "Combine PTA and tympanometry: what diagnosis fits each pattern of conductive hearing loss?",
+   "a": "• CHL + **type B, normal ECV** → **otitis media with effusion**\n• CHL + **type B, high ECV** → **TM perforation** (e.g. COM)\n• CHL + **type As**, intact normal TM → **otosclerosis**\n• CHL + **type Ad**, intact TM (e.g. after head injury) → **ossicular discontinuity**\n• Mild CHL + **type C** → **Eustachian tube dysfunction**",
+   "m": "PTA says how much and what type; the tympanogram says where in the middle ear.",
+   "r": "Slides p95-99"
+  }
+ ],
+ "mcq": [
+  {
+   "t": "PINNA",
+   "stem": "A 19-year-old university rugby player attends the ENT clinic the morning after a match. The left pinna is painful, with a smooth, tense, fluctuant purple swelling filling the scaphoid fossa and concha and obscuring the normal contours. There is no fever and the skin is intact.\nWhat is the most appropriate management?",
+   "o": [
+    "Oral flucloxacillin, cold compress and review in one week",
+    "Observation, as the swelling will resorb within a fortnight",
+    "Needle aspiration, then a firm compression bolster dressing",
+    "Warm compress, an oral NSAID and strapping of the ear",
+    "Elective excision of the deformed cartilage once settled"
+   ],
+   "a": 2,
+   "e": "This is an **auricular haematoma**: blood collects between perichondrium and cartilage and strips the cartilage of its blood supply. It must be evacuated early (aspirate; incise and drain with a button stitch if it recurs) and the space closed with **compression**, with oral antibiotic cover (slide p6). Left alone, the cartilage necroses and fibroses into a **cauliflower ear**.",
+   "w": [
+    "Wrong - antibiotics and cold compress do not evacuate the blood; the cartilage will still lose its supply.",
+    "Wrong - a tense subperichondrial haematoma does not resorb safely; it organises into a cauliflower ear.",
+    "Correct - evacuate early and compress the space so the perichondrium re-adheres to the cartilage.",
+    "Wrong - heat and strapping without drainage leave the collection in place.",
+    "Wrong - this treats the end result (cauliflower ear) instead of preventing it."
+   ],
+   "r": "Slide p6"
+  },
+  {
+   "t": "PINNA",
+   "stem": "A 22-year-old woman presents to the ED 5 days after a high helical (upper cartilage) piercing at a shopping-mall kiosk. The upper pinna is red, hot, swollen and exquisitely tender, but the lobule looks normal. There is no fluctuation. Temperature 37.9 °C.\nWhich organism should the empirical antibiotic primarily cover?",
+   "o": [
+    "Pseudomonas aeruginosa",
+    "Streptococcus pneumoniae",
+    "Haemophilus influenzae",
+    "Aspergillus niger",
+    "Moraxella catarrhalis"
+   ],
+   "a": 0,
+   "e": "Sparing of the **lobule** (which contains no cartilage) localises the infection to the perichondrium: **perichondritis**. After cartilage piercing the classic pathogen is **Pseudomonas aeruginosa**, so give a systemic anti-pseudomonal antibiotic such as oral **ciprofloxacin** (slide p5: systemic antibiotic) and drain any abscess. Undertreated, it destroys cartilage and deforms the ear.",
+   "w": [
+    "Correct - Pseudomonas is the typical organism in perichondritis after high cartilage piercing; cover it with ciprofloxacin.",
+    "Wrong - a middle ear and chest pathogen, not the typical cause of pinna perichondritis.",
+    "Wrong - a cause of AOM and sinusitis, not perichondritis after piercing.",
+    "Wrong - a fungus of the canal (otomycosis), not of cartilage.",
+    "Wrong - an AOM organism; it does not cause perichondritis."
+   ],
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "PINNA",
+   "stem": "An 8-year-old boy is brought to the Klinik Kesihatan with a 3-day painful swelling just in front of the right ear, at the anterior margin of the ascending helix. It is red and fluctuant. His mother says a tiny pit has been there since birth and has discharged cheesy material twice before.\nWhat is the best next step?",
+   "o": [
+    "Reassure, as the pit is congenital and needs no treatment",
+    "Complete excision of the sinus tract during this admission",
+    "Topical antibiotic ointment into the pit and early review",
+    "Incision and drainage with a course of systemic antibiotics",
+    "Injection of a sclerosant into the tract under anaesthesia"
+   ],
+   "a": 3,
+   "e": "An asymptomatic **preauricular sinus** needs no treatment, but an acute **preauricular abscess** is treated with **I&D and antibiotics** first (slide p8). Excision of the whole tract (followed down to the temporalis fascia) is for **recurrent** infection and is done once inflammation has settled, because dissecting through inflamed tissue leaves remnants that cause recurrence. This boy will need elective excision later.",
+   "w": [
+    "Wrong - reassurance fits an uninfected pit, not a fluctuant abscess.",
+    "Wrong - excising through acute inflammation risks incomplete removal and recurrence; excise once quiet.",
+    "Wrong - topical treatment does not drain pus from a fluctuant abscess.",
+    "Correct - drain the abscess and give antibiotics now; plan tract excision when settled.",
+    "Wrong - sclerotherapy is not a treatment for a preauricular sinus."
+   ],
+   "r": "Slide p8"
+  },
+  {
+   "t": "EAC",
+   "stem": "A 60-year-old retired teacher at the ENT clinic has had a blocked left ear for 2 weeks. He had a left mastoid operation 10 years ago. Otoscopy shows hard impacted wax filling the canal; the drum cannot be seen. He has already used olive oil drops for a week.\nWhich is the most appropriate method of wax removal?",
+   "o": [
+    "Ear syringing with water warmed to body temperature",
+    "Microsuction under the operating microscope",
+    "Hydrogen peroxide drops followed by irrigation",
+    "Self-cleaning with cotton buds after a hot shower",
+    "Electronic pulsed irrigator set at low pressure"
+   ],
+   "a": 1,
+   "e": "Irrigation (syringing) is **contraindicated** after previous ear surgery, with a known or suspected **perforation**, a **grommet**, an **only-hearing ear** or acute otitis externa, because water can enter the middle ear or mastoid cavity and cause infection, vertigo or trauma. After softening drops (olive oil, sodium bicarbonate), **microsuction** under direct vision is the safe option. Cotton buds push wax deeper and are never advised (slide p64).",
+   "w": [
+    "Wrong - syringing is contraindicated after mastoid surgery or when the drum cannot be confirmed intact.",
+    "Correct - microsuction under vision avoids forcing water into a possible cavity or perforation.",
+    "Wrong - this still ends in irrigation, which is contraindicated here.",
+    "Wrong - cotton buds impact wax and injure the canal skin.",
+    "Wrong - an irrigator at any pressure is still irrigation, contraindicated after ear surgery."
+   ],
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "EAC",
+   "stem": "A 35-year-old man in Kota Bharu has 3 days of severe right earache, worse when he chews. Pulling the pinna is very painful. Otoscopy with a small speculum shows a single red, dome-shaped swelling on the posterior wall of the outer part of the canal; the deeper canal and drum are normal. Hearing is normal.\nWhich organism is most likely responsible?",
+   "o": [
+    "Pseudomonas aeruginosa",
+    "Aspergillus niger",
+    "Candida albicans",
+    "Proteus mirabilis",
+    "Staphylococcus aureus"
+   ],
+   "a": 4,
+   "e": "A localised tender swelling in the outer canal is a **furuncle**, an infected hair follicle. It can arise only in the **outer cartilaginous third**, where hair and ceruminous glands are found, and the organism is **Staphylococcus aureus** (slide p11). Treat with analgesia and oral/topical anti-staphylococcal antibiotic, with I&D if fluctuant. Pseudomonas is the main cause of **diffuse** otitis externa involving the whole canal.",
+   "w": [
+    "Wrong - Pseudomonas causes diffuse otitis externa, not a single localised follicular abscess.",
+    "Wrong - Aspergillus causes otomycosis (itch, blockage, black spores), not a furuncle.",
+    "Wrong - Candida causes white fungal debris, not a tender follicular abscess.",
+    "Wrong - a Gram-negative organism of diffuse otitis externa, not of furuncles.",
+    "Correct - a furuncle is a Staph aureus infection of a hair follicle in the outer canal."
+   ],
+   "r": "Slide p11"
+  },
+  {
+   "t": "EAC",
+   "stem": "A 26-year-old swimming instructor has 4 days of left ear pain, itch and discharge. Pressing the tragus is very painful. The whole canal is red and so swollen with debris that only a slit remains; the drum cannot be seen. She is afebrile, not diabetic, with no neck nodes or cellulitis.\nAfter aural toilet, what is the best next step?",
+   "o": [
+    "Start oral amoxicillin and review in two weeks",
+    "Syringe the canal to clear debris and see the drum",
+    "Insert an ear wick and soak it with quinolone drops",
+    "Prescribe gentamicin drops to instil into the canal",
+    "Book urgent CT of the temporal bone for bone disease"
+   ],
+   "a": 2,
+   "e": "Diffuse **otitis externa** (Pseudomonas in 50-65%) is treated **topically**: ear toilet, antibiotic drops and keeping the ear dry; systemic antibiotics are added only in severe cases (slide p16). When the canal is too oedematous for drops to penetrate, an **ear wick** carries them along the whole canal. Because the drum cannot be seen, use a **quinolone** and avoid potentially ototoxic aminoglycoside drops.",
+   "w": [
+    "Wrong - oral antibiotics are for severe or spreading disease; amoxicillin also misses Pseudomonas.",
+    "Wrong - syringing an acutely inflamed canal is painful and contraindicated in acute otitis externa.",
+    "Correct - after toilet, a wick lets topical quinolone reach a canal too swollen for drops alone.",
+    "Wrong - aminoglycosides are avoided when the drum is not seen, as a perforation risks ototoxicity.",
+    "Wrong - a young, non-diabetic patient without red flags does not need imaging."
+   ],
+   "r": "Slide p16"
+  },
+  {
+   "t": "EAC",
+   "stem": "A 40-year-old woman has had an itchy, blocked right ear for a month. She has used ciprofloxacin ear drops from a pharmacy for 3 weeks without improvement. Otoscopy shows moist grey-white debris studded with black dots, like wet newspaper, filling the canal. Once cleaned, the drum is intact.\nWhat is the most appropriate treatment?",
+   "o": [
+    "Ear toilet, then topical clotrimazole 1% for two weeks",
+    "A further three-week course of ciprofloxacin ear drops",
+    "Oral flucloxacillin plus hydrocortisone-neomycin drops",
+    "Syringing three times a week with no topical medicine",
+    "Oral co-amoxiclav and a steroid-only drop for the itch"
+   ],
+   "a": 0,
+   "e": "Itch and blockage with black spores (**Aspergillus niger**) or white debris (**Candida**) is **otomycosis**, often triggered by prolonged antibiotic drops that suppress the normal canal flora. Treat with meticulous **ear toilet** plus a topical **antifungal** such as clotrimazole and keep the ear dry (slide p17). More antibiotic or steroid drops feed the fungus; oral antifungals are reserved for immunocompromised or invasive cases.",
+   "w": [
+    "Correct - remove the fungal mass, then apply a topical antifungal.",
+    "Wrong - prolonged antibiotic drops are the likely cause of the fungal overgrowth.",
+    "Wrong - antibacterial and steroid drops do not treat fungus and encourage it.",
+    "Wrong - repeated syringing keeps the canal moist and leaves the fungus untreated.",
+    "Wrong - systemic antibiotics and steroid drops promote fungal growth."
+   ],
+   "r": "Slide p17"
+  },
+  {
+   "t": "EAC",
+   "stem": "A 30-year-old office worker has had three episodes of diffuse otitis externa this year; the latest has just resolved with drops. He showers twice a day, swims weekly, cleans his ears after every shower and wears in-ear earbuds for several hours a day at work.\nWhich advice will best reduce recurrence?",
+   "o": [
+    "Dry the canals with a cotton bud after every shower and swim",
+    "Wear the in-ear earbuds while showering to keep water out",
+    "Irrigate the canals weekly with warm tap water at home",
+    "Plug the ears with oil-soaked cotton when bathing; avoid swimming",
+    "Use his antibiotic ear drops twice weekly as prevention"
+   ],
+   "a": 3,
+   "e": "Recurrent otitis externa is driven by **moisture** and **trauma** to the thin canal skin, which strips the protective wax layer. **Ear care advice** (slide p64): water precautions with an ear plug or **oil-soaked cotton wool** when bathing, avoid swimming, avoid washing inside the canal during ablution, no cotton buds or metal objects, limit prolonged earbud use and keep earbuds clean. Prophylactic antibiotic drops promote resistance and otomycosis.",
+   "w": [
+    "Wrong - cotton buds traumatise the canal skin and remove protective wax.",
+    "Wrong - earbuds are not waterproof and their prolonged use is itself a risk factor.",
+    "Wrong - regular irrigation adds moisture and removes protective wax.",
+    "Correct - keeping water out (oil-soaked cotton or plug) and avoiding swimming protects the canal skin.",
+    "Wrong - prophylactic antibiotic drops encourage resistance and fungal infection."
+   ],
+   "r": "Slide p64"
+  },
+  {
+   "t": "MOE",
+   "stem": "A 74-year-old man with poorly controlled type 2 diabetes (HbA1c 11%) has 6 weeks of right otalgia that keeps him awake at night and a scanty discharge despite two courses of antibiotic ear drops. Otoscopy shows granulation tissue on the floor of the canal at the bony-cartilaginous junction; the drum is intact. Cranial nerves are normal. ESR is 85 mm/h.\nWhat is the most appropriate management?",
+   "o": [
+    "Oral co-amoxiclav and steroid ear drops, review in 2 weeks",
+    "Admit for IV ciprofloxacin, glucose control and biopsy",
+    "Cauterise the granulation in clinic and continue the drops",
+    "Urgent radical mastoidectomy to clear the infected bone",
+    "Oral fluconazole for 4 weeks with clotrimazole ear drops"
+   ],
+   "a": 1,
+   "e": "An elderly diabetic with **nocturnal pain**, failure of topical treatment and **granulation on the canal floor** has **malignant (necrotising) otitis externa** until proven otherwise: a Pseudomonas osteomyelitis spreading to the skull base. Admit for pain and sugar control, give systemic anti-pseudomonal **ciprofloxacin** (IV for about 2 weeks, then oral, roughly 6-8 weeks in total), regular ear toilet, and **biopsy the granulation** to exclude carcinoma (slides p20-21). Antibiotics, not surgery, are the mainstay.",
+   "w": [
+    "Wrong - outpatient co-amoxiclav does not cover Pseudomonas and steroid drops worsen infection.",
+    "Correct - admit, IV anti-pseudomonal therapy, tight sugar control, ear toilet and biopsy to exclude carcinoma.",
+    "Wrong - cautery leaves the underlying osteomyelitis untreated and misses a possible carcinoma.",
+    "Wrong - surgery is limited to biopsy or debridement; radical mastoidectomy is not the treatment.",
+    "Wrong - fungal skull-base infection is rare; Pseudomonas is the usual organism."
+   ],
+   "r": "Slides p20-21"
+  },
+  {
+   "t": "MOE",
+   "stem": "A 70-year-old woman with diabetes is in week 5 of ciprofloxacin for a skull-base osteomyelitis that began in the left ear canal. Her night pain has gone, the canal is healing and her CRP has normalised. A technetium-99m bone scan at diagnosis was strongly positive. The team must decide whether antibiotics can be stopped.\nWhich investigation best guides that decision?",
+   "o": [
+    "Repeat technetium-99m bone scan",
+    "Plain radiograph of both mastoids",
+    "Repeat ear swab for culture",
+    "High-resolution CT of temporal bone",
+    "Gallium-67 citrate scintigraphy"
+   ],
+   "a": 4,
+   "e": "**Technetium-99m** reflects osteoblastic activity: it is sensitive for **diagnosis** but stays positive for months after infection is controlled, so it cannot show cure. **Gallium-67** (or an indium-labelled white cell scan) reflects active inflammation and normalises as infection settles, so with ESR/CRP and symptoms it is used to **monitor** response and decide when to stop. Note: slide p20 says the bone scan is for diagnosis and to evaluate response; correct is Tc-99m for diagnosis and gallium for monitoring (as slide p21 says).",
+   "w": [
+    "Wrong - Tc-99m stays positive long after cure because bone remodelling continues.",
+    "Wrong - plain films are insensitive and do not reflect current infection activity.",
+    "Wrong - a healed canal may grow nothing, which says nothing about bone infection.",
+    "Wrong - CT shows bone erosion but changes lag and do not normalise with cure.",
+    "Correct - gallium uptake falls as inflammation resolves, so it guides when to stop antibiotics."
+   ],
+   "r": "Slides p20-21"
+  },
+  {
+   "t": "MOE",
+   "stem": "A 68-year-old man with diabetes has severe right ear pain, canal oedema, purulent exudate and granulation tissue on the canal floor. He has used ciprofloxacin drops for only 4 days. Applying the Cohen and Friedman (1987) criteria, the team notes that one major criterion is still missing.\nWhich finding would complete the major criteria?",
+   "o": [
+    "Pseudomonas aeruginosa grown on ear swab",
+    "Raised ESR of 90 mm/h on admission bloods",
+    "Ipsilateral lower motor neurone facial palsy",
+    "Positive technetium-99m bone scan",
+    "Advanced age with poorly controlled diabetes"
+   ],
+   "a": 3,
+   "e": "The Cohen and Friedman **major** criteria (all required) are pain, oedema, exudate, granulation tissue, microabscess at operation, and a **positive Tc-99m bone scan or failure of local treatment for at least 1 week**. Pseudomonas, cranial nerve involvement, diabetes, old age or debility and a positive bone radiograph are **minor** criteria that support but do not make the diagnosis. Note: slide p19 lists a high ESR as a criterion; it is not in the original criteria - ESR/CRP are used to monitor treatment.",
+   "w": [
+    "Wrong - Pseudomonas on culture is a minor criterion.",
+    "Wrong - ESR is not part of the original Cohen criteria; it is used for monitoring.",
+    "Wrong - cranial nerve involvement is a minor criterion.",
+    "Correct - with only 4 days of drops, a positive Tc-99m scan supplies the remaining major criterion.",
+    "Wrong - diabetes and old age are minor criteria."
+   ],
+   "r": "Slide p19"
+  },
+  {
+   "t": "OME",
+   "stem": "A 48-year-old Chinese man from Sibu has had 2 months of left ear blockage and muffled hearing. He has no otalgia, discharge or recent cold. Otoscopy shows a dull, retracted left drum with an air-fluid level; the right ear is normal. Tuning forks: Rinne negative on the left, Weber lateralises to the left.\nWhat is the most important next step?",
+   "o": [
+    "Endoscopic examination of the postnasal space",
+    "Left myringotomy with grommet insertion today",
+    "Two-week course of oral co-amoxiclav",
+    "Intranasal steroid spray and review in 3 months",
+    "MRI of the internal acoustic meatus"
+   ],
+   "a": 0,
+   "e": "A **unilateral middle ear effusion in an adult**, especially of southern Chinese ethnicity in Malaysia, is **nasopharyngeal carcinoma** until proven otherwise: a tumour in the fossa of Rosenmüller blocks the Eustachian tube orifice (slide p23 lists nasopharyngeal mass). The next step is **nasoendoscopy** of the postnasal space with biopsy of any lesion, plus neck examination and EBV serology, before any grommet. Sprays or antibiotics only delay diagnosis of a curable cancer.",
+   "w": [
+    "Correct - look at the nasopharynx first to exclude nasopharyngeal carcinoma.",
+    "Wrong - a grommet relieves the symptom but misses the cause; scope the nasopharynx first.",
+    "Wrong - antibiotics do not clear effusion and delay the essential examination.",
+    "Wrong - watchful waiting is for children; an adult with unilateral effusion needs the postnasal space examined.",
+    "Wrong - MRI IAM investigates asymmetric sensorineural loss; this is conductive."
+   ],
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "OME",
+   "stem": "A 5-year-old girl is referred because her kindergarten teacher thinks she ignores instructions and her speech lags behind her peers. She has had no ear pain or fever. Both drums are dull and yellowish with a diffuse light reflex and visible air bubbles; they are neither red nor perforated.\nWhich tympanometry result is most likely?",
+   "o": [
+    "Type A, peak 0 daPa, ECV 0.9 ml",
+    "Type B, flat trace, ECV 4.5 ml",
+    "Type B, flat trace, ECV 0.8 ml",
+    "Type B, flat trace, ECV 0.1 ml",
+    "Type Ad, peak 0 daPa, ECV 0.9 ml"
+   ],
+   "a": 2,
+   "e": "Fluid in the middle ear stops the drum moving at any pressure, giving a flat **Type B** trace; the **ear canal volume is normal** because the probe is measuring a normal canal against an intact drum (slide p26). A flat trace with a **high ECV** means a perforation or patent grommet, and a **low ECV** means wax or the probe against the canal wall. PTA will show a conductive loss.",
+   "w": [
+    "Wrong - Type A means normal middle ear pressure and compliance, not a fluid-filled ear.",
+    "Wrong - a high ECV with a flat trace indicates a perforation or patent grommet; these drums are intact.",
+    "Correct - effusion behind an intact drum gives a flat trace with a normal canal volume.",
+    "Wrong - a very low ECV suggests occluding wax or the probe against the canal wall.",
+    "Wrong - Type Ad (hypermobile) suggests ossicular discontinuity or a flaccid drum."
+   ],
+   "r": "Slide p26"
+  },
+  {
+   "t": "OME",
+   "stem": "A 4-year-old boy is reviewed in the ENT clinic 3 weeks after an episode of acute otitis media. He is well, with no pain. Both drums are dull with fluid levels. Tympanograms are Type B with normal ECV bilaterally and play audiometry shows a mild conductive loss of about 20 dB. His speech and behaviour are normal and he has no cleft palate or Down syndrome.\nWhat is the most appropriate management?",
+   "o": [
+    "Bilateral myringotomy and grommet insertion now",
+    "Active observation with repeat tests at 3 months",
+    "Three weeks of oral amoxicillin to clear the fluid",
+    "Adenoidectomy alone on the next available list",
+    "Oral antihistamine and decongestant for a month"
+   ],
+   "a": 1,
+   "e": "Most effusions, especially after AOM, clear spontaneously within 3 months, so the first step is **active observation** with repeat otoscopy, tympanometry and hearing tests (slide p27). Surgery is for **persistent OME beyond 3 months with a conductive loss over 25 dB**, or earlier when speech, development or structural risks (cleft palate, Down syndrome) demand it. Antibiotics, antihistamines and decongestants do not speed resolution; medical treatment (antihistamine, intranasal steroid) is only for children with allergic symptoms.",
+   "w": [
+    "Wrong - grommets are for effusion persisting beyond 3 months with a loss over 25 dB.",
+    "Correct - most post-AOM effusions resolve within 3 months; observe actively and retest.",
+    "Wrong - antibiotics do not resolve OME and add side effects and resistance.",
+    "Wrong - there is no persistent effusion or adenoid symptom to justify surgery yet.",
+    "Wrong - no allergic symptoms; decongestants and antihistamines do not clear OME."
+   ],
+   "r": "Slide p27"
+  },
+  {
+   "t": "OME",
+   "stem": "A 6-year-old boy has had bilateral middle ear effusions for 5 months despite watchful waiting. He snores loudly, breathes through his mouth and has a hyponasal voice. PTA shows a bilateral 35 dB conductive loss and both tympanograms are Type B with normal ECV. A lateral soft-tissue neck X-ray shows a large adenoid shadow.\nWhich procedure is most appropriate?",
+   "o": [
+    "Bilateral myringotomy and grommets alone",
+    "Adenotonsillectomy without any ear surgery",
+    "Bilateral myringotomy with aspiration alone",
+    "Bilateral myringoplasty and adenoidectomy",
+    "Bilateral grommets with an adenoidectomy"
+   ],
+   "a": 4,
+   "e": "Persistent OME **beyond 3 months with a conductive loss over 25 dB** is an indication for myringotomy and **grommet** (ventilation tube) insertion; because **adenoid hypertrophy** is obstructing the Eustachian tube orifices, **adenoidectomy** is added (slide p27). The grommet takes over ventilation of the middle ear; a myringotomy alone heals within days and the fluid returns. Myringoplasty repairs a perforation and has no role here.",
+   "w": [
+    "Wrong - grommets alone leave the obstructing adenoid, so recurrence after extrusion is more likely.",
+    "Wrong - removing the adenoid without ventilating the ears leaves the current hearing loss untreated.",
+    "Wrong - a myringotomy closes within days, so the effusion re-accumulates.",
+    "Wrong - myringoplasty closes a perforation; these drums are intact.",
+    "Correct - ventilate the ears with grommets and remove the adenoid that blocks the Eustachian tubes."
+   ],
+   "r": "Slide p27"
+  },
+  {
+   "t": "OME",
+   "stem": "In theatre, a registrar is about to insert a grommet in a 5-year-old with a middle ear effusion persisting for 4 months and a 30 dB conductive loss. Under the microscope the whole drum is visible after a little wax is removed. The consultant asks where the radial myringotomy should be made.\nWhich site is preferred?",
+   "o": [
+    "Anteroinferior quadrant of the pars tensa",
+    "Posterosuperior quadrant of the pars tensa",
+    "Pars flaccida, just above the lateral process",
+    "Anterosuperior quadrant of the pars tensa",
+    "Directly over the umbo and handle of malleus"
+   ],
+   "a": 0,
+   "e": "The **anteroinferior quadrant** is used (slide p27) because it lies away from the incus, stapes, chorda tympani and round window niche, which sit posteriorly, and it is easy to see. Grommets placed here also tend to stay in longer. The **pars flaccida** is the attic region, where retraction pockets and cholesteatoma arise, and the malleus handle is attached to the drum and must not be incised.",
+   "w": [
+    "Correct - the safest and most visible site, clear of the ossicles and chorda tympani.",
+    "Wrong - the incus, stapes and chorda tympani lie behind this quadrant.",
+    "Wrong - the attic is not used for ventilation tubes and lies over the malleus neck and ossicular heads.",
+    "Wrong - the malleus handle and anterior malleal fold lie close by; this is not the standard site.",
+    "Wrong - the malleus is attached here; incising over it risks ossicular injury."
+   ],
+   "r": "Slide p27"
+  },
+  {
+   "t": "AOM",
+   "stem": "A 2-year-old boy is brought to the ED at night after 2 days of a runny nose. He is crying inconsolably, pulling his right ear and has a temperature of 39.2 °C. The right drum is red, thickened and bulging with loss of landmarks; there is no discharge or perforation.\nWhich stage of the disease is this?",
+   "o": [
+    "Stage of tubal occlusion",
+    "Stage of pre-suppuration",
+    "Stage of suppuration",
+    "Stage of resolution",
+    "Stage of complication"
+   ],
+   "a": 2,
+   "e": "Pus forming under pressure in the middle ear pushes the drum outwards (**bulging**), so pain and fever are at their worst: the **stage of suppuration** (slide p33). **Tubal occlusion** gives a retracted drum; **pre-suppuration** gives a congested, hyperaemic drum without bulging; **resolution** follows rupture of the drum, when discharge appears and pain eases. This is the stage at which myringotomy relieves pain.",
+   "w": [
+    "Wrong - tubal occlusion causes a retracted drum with mild symptoms.",
+    "Wrong - pre-suppuration shows a congested, hyperaemic drum but no bulging pus.",
+    "Correct - pus under pressure bulges the drum and pain and fever peak.",
+    "Wrong - resolution follows perforation, with discharge and easing pain.",
+    "Wrong - nothing here suggests mastoiditis or intracranial spread."
+   ],
+   "r": "Slides p30-33"
+  },
+  {
+   "t": "AOM",
+   "stem": "A 4-year-old girl had severe left earache and fever overnight. This morning the pain suddenly eased and her pillow was stained with blood-tinged pus. The canal contains mucopurulent discharge; after mopping, a small perforation is seen in the pars tensa. She has started oral amoxicillin.\nWhich ear drop is most appropriate to add?",
+   "o": [
+    "Gentamicin-hydrocortisone ear drops",
+    "Ofloxacin 0.3% ear drops twice daily",
+    "Neomycin-polymyxin B-dexamethasone drops",
+    "Clotrimazole 1% ear solution",
+    "Chlorhexidine in alcohol ear drops"
+   ],
+   "a": 1,
+   "e": "Sudden relief of pain with discharge marks the **stage of resolution**: the drum has ruptured and released the pus. Continue analgesia and oral amoxicillin; with a perforation, topical drops should be a **non-ototoxic quinolone** such as **ofloxacin** (slide p36). Aminoglycoside drops (gentamicin, neomycin) risk cochlear damage through a perforation, and alcohol solutions sting and are ototoxic.",
+   "w": [
+    "Wrong - gentamicin is an aminoglycoside, ototoxic through a perforation.",
+    "Correct - a quinolone covers the pathogens without ototoxicity through the perforation.",
+    "Wrong - neomycin is an aminoglycoside and potentially ototoxic.",
+    "Wrong - an antifungal is for otomycosis, not bacterial AOM.",
+    "Wrong - alcohol and chlorhexidine are ototoxic and painful on middle ear mucosa."
+   ],
+   "r": "Slides p34-36"
+  },
+  {
+   "t": "AOM",
+   "stem": "A 3-year-old girl presents to a Klinik Kesihatan with 2 days of right earache, fever of 38.8 °C and a cold. The right drum is red and bulging with no discharge. She has no drug allergies and is otherwise well. The medical officer writes a prescription.\nWhich regimen is most appropriate?",
+   "o": [
+    "Oral chlorphenamine and pseudoephedrine with paracetamol",
+    "Ciprofloxacin ear drops plus an oral decongestant",
+    "Oral azithromycin with an oral antihistamine syrup",
+    "Oral amoxicillin for 5-7 days with regular paracetamol",
+    "Oral prednisolone with ibuprofen for pain and fever"
+   ],
+   "a": 3,
+   "e": "**Amoxicillin** is the first-line antibiotic for AOM (Streptococcus pneumoniae, Haemophilus influenzae, Moraxella), with regular **analgesia**; watchful waiting is an option in selected older children with mild illness. Antihistamines and decongestants do not shorten AOM or prevent complications and cause side effects in young children. Note: slide p36 lists an antihistamine for AOM with URTI; this has no proven benefit. Ear drops are for a perforated, discharging ear, and macrolides are for penicillin allergy.",
+   "w": [
+    "Wrong - antihistamines and decongestants have no proven benefit in AOM and no antibiotic is given.",
+    "Wrong - drops cannot pass an intact drum; they are for a perforated ear.",
+    "Wrong - macrolides are second line, for penicillin allergy; the antihistamine adds nothing.",
+    "Correct - amoxicillin plus analgesia is first-line treatment for AOM.",
+    "Wrong - systemic steroids have no role in uncomplicated AOM."
+   ],
+   "r": "Slide p36"
+  },
+  {
+   "t": "AOM",
+   "stem": "A 6-year-old boy has had severe right earache for 3 days despite 48 hours of oral amoxicillin and regular paracetamol. He is distressed and febrile. The right drum is red and markedly bulging with no perforation. There is no postauricular swelling, facial weakness or neck stiffness.\nWhich procedure gives the quickest relief of his pain?",
+   "o": [
+    "Myringotomy of the bulging drum",
+    "Cortical (Schwartze) mastoidectomy",
+    "Adenoidectomy under anaesthesia",
+    "Myringoplasty with temporalis graft",
+    "Aural toilet and ear wick insertion"
+   ],
+   "a": 0,
+   "e": "**Myringotomy** releases pus under pressure through an incision in the drum, giving immediate relief of pain and a sample for culture; it is indicated for **severe pain with a bulging drum** or failure of antibiotics (slide p36). Without signs of mastoiditis or intracranial spread, mastoidectomy is not needed, though the antibiotic may be changed to co-amoxiclav. Myringoplasty repairs perforations and an ear wick is used in otitis externa.",
+   "w": [
+    "Correct - draining the pus decompresses the middle ear and relieves pain at once.",
+    "Wrong - mastoidectomy is for complications such as mastoid abscess; none are present.",
+    "Wrong - adenoidectomy may reduce recurrent episodes but does not relieve this acute pain.",
+    "Wrong - myringoplasty repairs a chronic perforation; the drum here is intact.",
+    "Wrong - an ear wick is for a swollen canal in otitis externa, not pus behind the drum."
+   ],
+   "r": "Slide p36"
+  },
+  {
+   "t": "COM",
+   "stem": "A 32-year-old woman has had intermittent left ear discharge for 2 years, worse after colds and when water enters the ear. The discharge is copious, mucoid and does not smell. Otoscopy shows a large kidney-shaped hole in the pars tensa with a rim of drum all round; the attic is intact and there is no keratin.\nWhat is the most likely diagnosis?",
+   "o": [
+    "Atticoantral (squamous) chronic otitis media",
+    "Acute otitis media in the stage of resolution",
+    "Otomycosis with a secondary drum perforation",
+    "Chronic otitis externa with granular myringitis",
+    "Tubotympanic (mucosal) chronic otitis media"
+   ],
+   "a": 4,
+   "e": "Profuse, mucoid, odourless discharge from a **central perforation** (rim present all round) is **tubotympanic or 'safe' COM** (slide p38): disease is confined to the mucosa, cholesteatoma is absent and complications are rare. The discharge is mucoid and profuse because it comes from the goblet cells of the middle ear mucosa. Symptoms for longer than 3 months exclude AOM (under 3 weeks).",
+   "w": [
+    "Wrong - atticoantral disease gives a marginal or attic perforation with scanty, foul discharge.",
+    "Wrong - AOM lasts under 3 weeks; this has been present for 2 years.",
+    "Wrong - otomycosis causes itch and fungal debris, not a mucoid discharge through a central perforation.",
+    "Wrong - otitis externa produces canal and drum surface inflammation, not a mucoid middle ear discharge.",
+    "Correct - central perforation with profuse, odourless mucoid discharge is the safe mucosal type."
+   ],
+   "r": "Slide p38"
+  },
+  {
+   "t": "COM",
+   "stem": "A 40-year-old farmer has had right ear discharge on and off for 18 months with reduced hearing. He is referred from a Klinik Kesihatan, where only pus in the canal could be seen. In the ENT clinic the ear is mopped and examined under the microscope.\nWhich finding would most indicate disease with a high risk of complications?",
+   "o": [
+    "Central perforation with mucoid discharge",
+    "Attic perforation with scanty, foul discharge",
+    "Dry central perforation with tympanosclerosis",
+    "Retracted intact drum with an air-fluid level",
+    "Diffuse canal oedema with tragal tenderness"
+   ],
+   "a": 1,
+   "e": "**Atticoantral (unsafe) COM** involves the attic and antrum: the perforation is **marginal or in the pars flaccida**, and the discharge is **scanty but foul** from bone destruction and anaerobes (slide p38). **Cholesteatoma** and granulation are common and erode bone, so complications (labyrinthine fistula, facial palsy, intracranial sepsis) are frequent. A central perforation with profuse mucoid discharge suggests safe tubotympanic disease.",
+   "w": [
+    "Wrong - central perforation with mucoid discharge is the safe tubotympanic pattern.",
+    "Correct - attic or marginal perforation with scanty, foul discharge signals unsafe disease and likely cholesteatoma.",
+    "Wrong - an inactive dry perforation carries a low risk of complications.",
+    "Wrong - this describes middle ear effusion behind an intact drum.",
+    "Wrong - these are signs of otitis externa, not of middle ear disease."
+   ],
+   "r": "Slide p38"
+  },
+  {
+   "t": "COM",
+   "stem": "A 9-year-old boy with long-standing left ear discharge has 5 days of fever and worsening pain. The left pinna is pushed forwards and downwards. Behind it there is a tender, fluctuant, red swelling that obliterates the retroauricular groove. Otoscopy shows pus and sagging of the posterosuperior canal wall.\nWhat is the most likely diagnosis?",
+   "o": [
+    "Postauricular reactive lymphadenitis",
+    "Furunculosis of the posterior canal wall",
+    "Acute mastoiditis with mastoid abscess",
+    "Bezold abscess deep to sternomastoid",
+    "Perichondritis of the pinna and concha"
+   ],
+   "a": 2,
+   "e": "Pus breaking through the mastoid cortex lifts the periosteum behind the ear, pushing the **pinna forwards and downwards** and obliterating the retroauricular groove; **sagging of the posterosuperior meatal wall** (the bone over the antrum) is the key otoscopic sign (slide p40). Lymphadenitis and furunculosis can also push the pinna forwards, but the groove is preserved and the meatal wall does not sag. Manage with admission, IV antibiotics, HRCT and **cortical mastoidectomy**.",
+   "w": [
+    "Wrong - lymphadenitis leaves the retroauricular groove intact and the meatal wall normal.",
+    "Wrong - a furuncle is a localised canal swelling; it does not cause sagging of the bony posterosuperior wall.",
+    "Correct - pinna displaced forwards and downwards plus posterosuperior meatal sagging is a mastoid abscess.",
+    "Wrong - a Bezold abscess lies in the neck below the mastoid tip, not behind the pinna.",
+    "Wrong - perichondritis inflames the pinna itself and does not affect the canal wall."
+   ],
+   "r": "Slide p40"
+  },
+  {
+   "t": "COM",
+   "stem": "A 50-year-old man with untreated foul-smelling right ear discharge for years presents with fever and a painful, firm swelling in the upper right neck. The swelling lies deep to the sternocleidomastoid below the mastoid tip, and he holds his head tilted to the right. The pinna is in a normal position with no swelling above or in front of the ear.\nWhich abscess is this?",
+   "o": [
+    "Bezold abscess",
+    "Citelli abscess",
+    "Luc abscess",
+    "Zygomatic abscess",
+    "Postauricular abscess"
+   ],
+   "a": 0,
+   "e": "When pus breaks through the **medial side of the mastoid tip** it tracks along the sternocleidomastoid to form a **Bezold abscess**, deep to the muscle in the upper neck (slides p39-43). A **Citelli** abscess follows the posterior belly of digastric into the digastric triangle; a **Luc** abscess passes through the roof of the canal to lie deep to temporalis; a **zygomatic** abscess lies above and in front of the ear. Treat with IV antibiotics, drainage and mastoidectomy.",
+   "w": [
+    "Correct - pus from the mastoid tip tracking deep to the sternocleidomastoid is a Bezold abscess.",
+    "Wrong - a Citelli abscess lies in the digastric triangle along the posterior belly of digastric.",
+    "Wrong - a Luc abscess lies deep to temporalis, above the ear, via the canal roof.",
+    "Wrong - a zygomatic abscess lies in front of and above the pinna.",
+    "Wrong - a postauricular abscess lies behind the pinna and pushes it forwards and downwards."
+   ],
+   "r": "Slides p39-43"
+  },
+  {
+   "t": "COM",
+   "stem": "A 35-year-old woman with chronic left ear discharge develops deep pain behind the left eye and double vision on looking to the left. Examination shows foul pus in the left canal and failure of abduction of the left eye; other cranial nerves are normal and she is alert without neck stiffness.\nWhere has the infection most likely spread?",
+   "o": [
+    "Sigmoid (lateral) venous sinus",
+    "Lateral semicircular canal",
+    "Mastoid tip with a neck collection",
+    "Petrous apex of the temporal bone",
+    "Cavernous sinus via ophthalmic veins"
+   ],
+   "a": 3,
+   "e": "Persistent **otorrhoea**, **retro-orbital (trigeminal) pain** and **lateral rectus (VI) palsy** form **Gradenigo syndrome**, from petrositis (slide p41). The abducens nerve crosses the petrous apex in Dorello's canal and the trigeminal ganglion lies on its anterior surface, so both are irritated. Confirm with CT/MRI and treat with IV antibiotics and mastoid surgery.",
+   "w": [
+    "Wrong - sigmoid sinus thrombophlebitis causes picket-fence fever, not an isolated VI palsy.",
+    "Wrong - a labyrinthine fistula causes vertigo and hearing loss, not diplopia.",
+    "Wrong - a neck collection (Bezold) does not involve cranial nerves V and VI.",
+    "Correct - petrous apex infection irritates the VI nerve and trigeminal ganglion: Gradenigo syndrome.",
+    "Wrong - cavernous sinus thrombosis gives proptosis, chemosis and multiple ocular nerve palsies."
+   ],
+   "r": "Slide p41"
+  },
+  {
+   "t": "COM",
+   "stem": "A 16-year-old with foul-smelling left ear discharge for years is admitted with headache and high spiking fevers with rigors twice daily, the temperature falling to normal in between. There is tender oedema over the posterior part of the left mastoid. He is alert, with no neck stiffness or focal neurological signs. Blood cultures are pending.\nWhich complication is most likely?",
+   "o": [
+    "Otogenic temporal lobe abscess",
+    "Lateral sinus thrombophlebitis",
+    "Extradural abscess over the tegmen",
+    "Otitic bacterial meningitis",
+    "Subdural empyema over the convexity"
+   ],
+   "a": 1,
+   "e": "**Picket-fence fever** with rigors (septic emboli shed from an infected thrombus) and oedema over the mastoid emissary vein (**Griesinger sign**) indicate **lateral (sigmoid) sinus thrombophlebitis**, an intracranial complication of COM (slide p39). Meningitis gives neck stiffness and photophobia, and a brain abscess or empyema gives focal signs and raised pressure. Confirm with contrast CT or MR venography; treat with IV antibiotics and mastoidectomy with exposure of the sinus.",
+   "w": [
+    "Wrong - a temporal lobe abscess gives raised pressure and focal signs such as dysphasia.",
+    "Correct - picket-fence fever plus Griesinger sign points to an infected sigmoid sinus thrombus.",
+    "Wrong - an extradural abscess is often silent or causes local headache, not swinging rigors.",
+    "Wrong - meningitis gives neck stiffness and photophobia, absent here.",
+    "Wrong - a subdural empyema causes rapid deterioration with seizures and focal deficits."
+   ],
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "COM",
+   "stem": "A 28-year-old man has a central perforation of the right drum that has stayed dry for 8 months with water precautions. There is no keratin or attic retraction. PTA shows a 25 dB conductive loss on the right with normal bone conduction. He wants to be able to swim again.\nWhat is the most appropriate management?",
+   "o": [
+    "Cortical (Schwartze) mastoidectomy",
+    "Modified radical mastoidectomy",
+    "Myringoplasty with a fascia graft",
+    "Myringotomy and grommet insertion",
+    "Bone-anchored hearing aid fitting"
+   ],
+   "a": 2,
+   "e": "This is **inactive mucosal COM**: a dry perforation. Keep the ear dry, record hearing with an audiogram and, once the ear has been **dry for about 6 months**, offer **myringoplasty** (repair of the drum, usually with a temporalis fascia graft) to restore hearing and allow water exposure (slide p44). Mastoidectomy is for complicated active disease or cholesteatoma, and a grommet treats effusion behind an intact drum.",
+   "w": [
+    "Wrong - cortical mastoidectomy is for active disease with complications such as mastoiditis.",
+    "Wrong - a canal wall down operation is for cholesteatoma, not a dry mucosal perforation.",
+    "Correct - a dry perforation for over 6 months is ready for myringoplasty.",
+    "Wrong - a grommet ventilates an intact drum; this drum already has a hole.",
+    "Wrong - repairing the drum can restore hearing; an implant is not the first option."
+   ],
+   "r": "Slide p44"
+  },
+  {
+   "t": "COM",
+   "stem": "A 45-year-old woman has had right ear discharge for 4 months. The discharge is mucopurulent; after mopping there is a central perforation with inflamed but non-granular mucosa and no keratin. She has no vertigo, facial weakness, headache or fever. This is her first treatment.\nWhat is the best initial management?",
+   "o": [
+    "Pus swab, withholding treatment until culture returns",
+    "Oral amoxicillin for 2 weeks without any ear drops",
+    "Urgent HRCT temporal bone and cortical mastoidectomy",
+    "Gentamicin ear drops with weekly ear syringing",
+    "Aural toilet, ofloxacin drops and keeping the ear dry"
+   ],
+   "a": 4,
+   "e": "**Active COM without complication** is treated in clinic: **aural toilet** so drops reach the mucosa, **topical ofloxacin** (better than oral antibiotics because it reaches high local concentrations and is not ototoxic) and strict **dry-ear precautions** (slide p45). A swab is reserved for cases that fail to resolve, and systemic antibiotics are added for children, granulation tissue or failed topical treatment. HRCT and mastoidectomy are for complicated disease.",
+   "w": [
+    "Wrong - a swab is for unresolved cases; treatment should not be delayed.",
+    "Wrong - topical drops after ear toilet work better than oral antibiotics.",
+    "Wrong - imaging and surgery are for complications, which are absent here.",
+    "Wrong - gentamicin is ototoxic through a perforation and syringing a perforated ear is contraindicated.",
+    "Correct - clean, give topical quinolone and keep dry; observe for complications."
+   ],
+   "r": "Slide p45"
+  },
+  {
+   "t": "CHOL",
+   "stem": "A 6-year-old boy is referred from Klinik Kesihatan after a school hearing screen. Otoscopy of the right ear shows a smooth pearly-white mass behind the anterosuperior quadrant of an intact, mobile tympanic membrane; the pars tensa and pars flaccida look normal. His mother recalls two episodes of acute otitis media treated with oral amoxicillin, never with ear discharge.\nWhich additional history would make a congenital origin untenable under the Levenson criteria?",
+   "o": [
+    "Myringotomy and grommet insertion in that ear at age 3",
+    "A third episode of acute otitis media treated last year",
+    "A 25 dB conductive hearing loss on that side on PTA",
+    "Mass seen in the anterosuperior rather than posterior quadrant",
+    "A family history of cholesteatoma in his father"
+   ],
+   "a": 0,
+   "e": "**Levenson criteria** for congenital cholesteatoma: white mass medial to a **normal TM**, normal pars tensa and pars flaccida, **no history of otorrhoea or perforation**, and **no previous otological procedure**. A grommet is an otological procedure that breaches the drum and could implant squamous epithelium, so the lesion can no longer be called congenital. Previous AOM without otorrhoea is NOT an exclusion, because most children have had AOM.",
+   "w": [
+    "Correct - a previous otological procedure (which also perforates the drum) excludes a congenital cholesteatoma under Levenson.",
+    "Wrong - AOM episodes without otorrhoea or perforation do not exclude it; almost every child has had AOM.",
+    "Wrong - a conductive loss is an expected effect of a middle ear mass, not an exclusion criterion.",
+    "Wrong - the anterosuperior quadrant is actually the classic site of congenital cholesteatoma.",
+    "Wrong - family history is not part of the Levenson criteria."
+   ],
+   "r": "Slide p49"
+  },
+  {
+   "t": "CHOL",
+   "stem": "A 38-year-old man attends ENT clinic with a blocked left ear. Microscopy shows a retraction pocket of the pars flaccida draped onto the neck of the malleus, and the outer attic wall shows a small area of limited bony erosion. The base of the pocket is visible and dry, with no keratin.\nWhich grade best describes this retraction?",
+   "o": [
+    "Tos grade 2",
+    "Tos grade 3",
+    "Tos grade 4",
+    "Sadé grade 3",
+    "Sadé grade 2"
+   ],
+   "a": 1,
+   "e": "**Tos** grades the **pars flaccida**: 1 not touching the malleus neck, 2 touching the malleus neck, 3 as grade 2 plus **limited erosion of the scutum** (outer attic wall), 4 as grade 3 plus severe erosion. **Sadé** grades the **pars tensa** (1 slight retraction, 2 onto incus/stapes, 3 atelectasis onto promontory, 4 adhesive otitis). Any scutal erosion lifts a contact pocket from grade 2 to at least grade 3.",
+   "w": [
+    "Wrong - grade 2 is contact with the malleus neck without any scutal erosion.",
+    "Correct - contact with the malleus neck plus limited scutum erosion is Tos grade 3.",
+    "Wrong - grade 4 needs severe erosion of the outer attic wall.",
+    "Wrong - Sadé grades describe the pars tensa (grade 3 = atelectasis onto the promontory), not attic pockets.",
+    "Wrong - Sadé grade 2 is a pars tensa retraction onto the incus or stapes."
+   ],
+   "r": "Slides p52-53"
+  },
+  {
+   "t": "CHOL",
+   "stem": "A 45-year-old woman has 2 years of scanty, foul-smelling right otorrhoea. Microscopy shows a pars flaccida perforation with white keratin flakes. PTA shows a 35 dB conductive loss. HRCT temporal bone is requested to plan surgery.\nWhich CT finding is typically the earliest bony sign of this disease?",
+   "o": [
+    "Erosion of the lateral semicircular canal bony capsule",
+    "Dehiscence of the tegmen tympani over the attic",
+    "Blunting of the scutum at the lateral attic wall",
+    "Opacification with sclerosis of the mastoid air cells",
+    "Erosion of the bony facial canal at the second genu"
+   ],
+   "a": 2,
+   "e": "An attic (pars flaccida) cholesteatoma presses first against the **scutum**, the sharp bony spur of the lateral attic wall, so **blunting of the scutum is often the earliest CT sign**. The other HRCT hallmark is a well-defined homogeneous soft-tissue mass in the attic or non-dependent areas. Labyrinthine fistula, tegmen dehiscence and facial canal erosion are later complications to look for on the scan, not early signs.",
+   "w": [
+    "Wrong - a lateral canal fistula is a later complication (circumscribed labyrinthitis).",
+    "Wrong - tegmen erosion is a later finding that warns of intracranial spread.",
+    "Correct - scutal blunting is the classic earliest bony sign of attic cholesteatoma.",
+    "Wrong - a sclerotic, opacified mastoid reflects long-standing chronic otitis media, not an early erosive sign.",
+    "Wrong - facial canal erosion is a later finding that risks facial palsy."
+   ],
+   "r": "Slides p57-58"
+  },
+  {
+   "t": "CHOL",
+   "stem": "A 30-year-old man is referred for myringoplasty with a note: 'dry central perforation, safe ear'. Under the microscope there is a dry central perforation of the right pars tensa. A small brown crust sits over the pars flaccida, and on direct questioning he admits occasional scanty, smelly discharge.\nWhat is the best next step?",
+   "o": [
+    "List for myringoplasty after 6 months of a dry ear",
+    "Topical ofloxacin drops for 2 weeks, then review",
+    "Repeat PTA and tympanometry before listing",
+    "Microsuction of the crust to inspect the attic",
+    "Ear swab for culture and sensitivity first"
+   ],
+   "a": 3,
+   "e": "An attic cholesteatoma can coexist with a central perforation, so **always examine the attic even when a central perforation is seen**. A crust over the pars flaccida often hides an attic perforation or retraction pocket full of keratin, and scanty foul discharge is an unsafe-ear feature. If cholesteatoma is found, the plan changes from myringoplasty to mastoid surgery with HRCT.",
+   "w": [
+    "Wrong - listing for myringoplasty risks closing the drum over an undiagnosed attic cholesteatoma.",
+    "Wrong - drops do not answer the key question of what lies under the attic crust.",
+    "Wrong - hearing tests are needed later but will not exclude cholesteatoma.",
+    "Correct - clear the crust under the microscope and inspect the pars flaccida for a cholesteatoma sac.",
+    "Wrong - a swab is for unresolved active discharge and does not examine the attic."
+   ],
+   "r": "Slides p54-55"
+  },
+  {
+   "t": "CHOL",
+   "stem": "A 42-year-old teacher has extensive cholesteatoma filling the attic and antrum of her left ear. Bone conduction is normal and at surgery the stapes is intact and mobile. The surgeon decides the posterior canal wall must be taken down for safe clearance, but wants to keep her chance of useful hearing.\nWhich procedure is most appropriate?",
+   "o": [
+    "Radical mastoidectomy",
+    "Cortical (Schwartz) mastoidectomy",
+    "Combined approach tympanoplasty",
+    "Atticotomy alone",
+    "Modified radical mastoidectomy"
+   ],
+   "a": 4,
+   "e": "Both radical and **modified radical mastoidectomy (MRM)** are **canal wall down**: the posterior meatal wall is removed and the middle ear, attic, antrum and mastoid become one cavity. Radical mastoidectomy removes the TM remnants and ossicles (except the stapes footplate) and obliterates the Eustachian tube, so no hearing mechanism is left. MRM **preserves the TM remnant and ossicular remnants (handle of malleus, stapes)** and can be combined with tympanoplasty to rebuild hearing.",
+   "w": [
+    "Wrong - radical mastoidectomy clears disease but removes the hearing mechanism and blocks the Eustachian tube.",
+    "Wrong - cortical mastoidectomy is canal wall up and is used for acute mastoiditis, not extensive cholesteatoma.",
+    "Wrong - combined approach tympanoplasty keeps the posterior canal wall (canal wall up).",
+    "Wrong - atticotomy alone is a limited canal wall up procedure for small attic disease.",
+    "Correct - MRM takes down the canal wall but preserves the drum remnant and ossicles for hearing."
+   ],
+   "r": "Slides p61-63"
+  },
+  {
+   "t": "CHOL",
+   "stem": "A 34-year-old man with no past ear infections or perforation develops a keratin-filled sac in the attic. Histology of the excised pars flaccida shows the basal layer of its squamous epithelium proliferating and breaking through the basement membrane into the subepithelial connective tissue.\nWhich theory of cholesteatoma formation does this histology support?",
+   "o": [
+    "Basal cell hyperplasia with papillary ingrowth (Ruedi)",
+    "Invagination of a retraction pocket (Wittmaack)",
+    "Epithelial migration through a perforation (Habermann)",
+    "Squamous metaplasia of middle ear mucosa (Sadé)",
+    "Embryonic epidermoid cell rest (Michaels)"
+   ],
+   "a": 0,
+   "e": "**Ruedi's basal cell hyperplasia** theory: basal cells of the pars flaccida proliferate and push papillary cones through the basement membrane, and these become cholesteatoma behind an intact drum. With **Wittmaack's invagination** theory, standard texts (Dhingra) class it as **primary acquired** (no prior perforation or infection). Habermann's migration and Sadé's metaplasia need a perforation or infected mucosa, so they explain **secondary acquired** disease. Note: slide p51 lists Ruedi under secondary acquired; most texts place it under primary acquired.",
+   "w": [
+    "Correct - basal layer proliferation through the basement membrane is Ruedi's theory (primary acquired).",
+    "Wrong - Wittmaack explains a deepening retraction pocket, not basal layer invasion on histology.",
+    "Wrong - Habermann requires a perforation for canal skin to migrate in; he has never had one.",
+    "Wrong - Sadé's metaplasia follows chronic infection of middle ear mucosa, which he has not had.",
+    "Wrong - an embryonic cell rest explains congenital cholesteatoma, not a pars flaccida lesion in an adult."
+   ],
+   "r": "Slides p50-51"
+  },
+  {
+   "t": "CHOL",
+   "stem": "A 50-year-old man with long-standing foul-smelling left otorrhoea complains of brief spinning when he presses on his left tragus or blows his nose. Microscopy shows an attic perforation filled with keratin. Pressing the tragus to raise canal pressure produces vertigo and nystagmus.\nWhich structure has most likely been eroded?",
+   "o": [
+    "Posterior semicircular canal",
+    "Lateral semicircular canal",
+    "Superior semicircular canal",
+    "Cochlear promontory",
+    "Stapes footplate at oval window"
+   ],
+   "a": 1,
+   "e": "A **positive fistula test** means pressure in the canal is being transmitted to the labyrinth through eroded bone (**circumscribed labyrinthitis**, slide p77). The **lateral (horizontal) semicircular canal** bulges into the medial wall of the aditus and antrum, directly in the path of attic-antral cholesteatoma, so it is the commonest fistula site. Confirm with HRCT and plan surgery; the matrix over a fistula is handled carefully to protect hearing.",
+   "w": [
+    "Wrong - the posterior canal lies deep in the petrous bone, away from the antrum, and is rarely eroded.",
+    "Correct - the lateral canal prominence faces the aditus and antrum and is the commonest fistula site.",
+    "Wrong - superior canal dehiscence is usually a non-infective thinning of the middle fossa floor.",
+    "Wrong - promontory erosion is uncommon and would threaten the cochlea rather than the canal.",
+    "Wrong - the footplate is a rare fistula site compared with the lateral canal."
+   ],
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "VERT",
+   "stem": "A 72-year-old man attends Klinik Kesihatan with 'dizziness' for 3 weeks. He feels light-headed and his vision greys out within seconds of getting up from a chair; there is no spinning, no hearing loss and no tinnitus. Amlodipine and a thiazide were started last month. Ear and neurological examinations are normal.\nWhat is the most appropriate next step?",
+   "o": [
+    "Dix-Hallpike test on both sides",
+    "Pure tone audiometry and tympanometry",
+    "Lying and standing blood pressure",
+    "Oral betahistine and review in 2 weeks",
+    "MRI internal acoustic meatus"
+   ],
+   "a": 2,
+   "e": "Vertigo is a symptom, so first decide whether it is **true vertigo** (an illusion of rotation) or **light-headedness/presyncope** or imbalance. Greying out on standing with no spinning, after new antihypertensives, points to **postural hypotension**, so measure lying and standing BP. Vestibular tests and betahistine are for true rotatory vertigo.",
+   "w": [
+    "Wrong - Dix-Hallpike tests for BPPV, which causes spinning on lying down or rolling over, not presyncope on standing.",
+    "Wrong - audiometry is for hearing symptoms or true vertigo; he has neither.",
+    "Correct - presyncope on standing after new antihypertensives calls for a postural BP check.",
+    "Wrong - betahistine is for Ménière's-type vertigo and would not help postural hypotension.",
+    "Wrong - imaging of the IAM is for asymmetrical hearing loss or unilateral tinnitus."
+   ],
+   "r": "Slide p66"
+  },
+  {
+   "t": "VERT",
+   "stem": "A 48-year-old lift technician had a head injury 2 months ago. He now reports an exaggerated sinking or rising sensation whenever the lift starts moving up or down, but no spinning when turning his head and no hearing loss. Dix-Hallpike testing is negative.\nDysfunction of which vestibular end-organ best explains his symptom?",
+   "o": [
+    "Utricle",
+    "Lateral semicircular canal",
+    "Posterior semicircular canal",
+    "Saccule",
+    "Superior semicircular canal"
+   ],
+   "a": 3,
+   "e": "The **semicircular canals** detect **angular** (rotational) acceleration; the **otolith organs** detect **linear** acceleration and gravity. The **utricle** senses horizontal linear movement (forwards and backwards); the **saccule** senses **vertical linear movement** (up and down, as in a lift). The trap is the utricle: it is the source of BPPV otoconia, but it senses horizontal, not vertical, movement.",
+   "w": [
+    "Wrong - the utricle senses horizontal linear (forward-backward) acceleration.",
+    "Wrong - the lateral canal senses rotation in the horizontal plane, such as turning the head.",
+    "Wrong - the posterior canal senses rotation and is the canal involved in BPPV.",
+    "Correct - the saccule senses vertical linear acceleration, such as a lift starting up or down.",
+    "Wrong - the superior canal senses rotation (nodding), not linear movement."
+   ],
+   "r": "Slide p68"
+  },
+  {
+   "t": "VERT",
+   "stem": "A 66-year-old man with diabetes and hypertension presents to ED with sudden vertigo and vomiting for 6 hours. He cannot stand without support. There is vertical downbeating nystagmus that is unchanged with visual fixation, hearing is normal, and there is mild left finger-nose ataxia.\nWhat is the most appropriate next step?",
+   "o": [
+    "Epley manoeuvre and discharge home",
+    "IV prochlorperazine then discharge with betahistine",
+    "Vestibular rehabilitation exercises",
+    "Urgent pure tone audiometry next morning",
+    "Urgent brain imaging via the stroke pathway"
+   ],
+   "a": 4,
+   "e": "Central features: **severe, constant imbalance**, **neurological signs**, and **vertical or direction-changing nystagmus not suppressed by visual fixation**, with slow recovery. Peripheral vertigo gives unidirectional horizontal-torsional nystagmus that is suppressed by fixation, fatigable, with latency, often with hearing loss. In a vascular-risk patient this is a posterior circulation (cerebellar) stroke until proven otherwise: the must-not-miss diagnosis.",
+   "w": [
+    "Wrong - Epley treats BPPV; this nystagmus is constant and vertical, not positional.",
+    "Wrong - sedating and discharging a likely cerebellar stroke is a dangerous miss.",
+    "Wrong - rehabilitation is for compensated peripheral loss, not an acute central event.",
+    "Wrong - hearing is normal and audiometry does not address the stroke risk.",
+    "Correct - central signs with vascular risk factors need urgent brain imaging for posterior circulation stroke."
+   ],
+   "r": "Slides p70-71"
+  },
+  {
+   "t": "VERT",
+   "stem": "A 58-year-old woman has 2 weeks of brief spinning attacks when she rolls onto her right side in bed or looks up to a high shelf; each lasts under a minute. Hearing is normal. On right Dix-Hallpike testing, after a 5-second latency, there is upbeating torsional nystagmus with the upper pole beating towards the right (lower) ear, lasting 20 seconds and weaker on repetition.\nWhat is the best management?",
+   "o": [
+    "Epley manoeuvre for the right posterior canal",
+    "Barbecue (Lempert) roll for the lateral canal",
+    "Epley manoeuvre for the left posterior canal",
+    "Betahistine 16 mg three times daily for 3 months",
+    "Urgent MRI brain with diffusion-weighted imaging"
+   ],
+   "a": 0,
+   "e": "This is posterior canal **BPPV**: otoconia dislodged from the **utricle** into the **posterior semicircular canal** (about 80% of cases). A positive Dix-Hallpike shows **latency of a few seconds, upbeating torsional geotropic nystagmus lasting under a minute, which fatigues**; the undermost ear is the affected one. Treat with canalith repositioning (**Epley**) starting on the affected side; drugs do not help. Note: slide p72 says attacks last seconds to minutes; classic BPPV attacks last under a minute.",
+   "w": [
+    "Correct - a positive right Dix-Hallpike means right posterior canal BPPV, treated by a right-sided Epley.",
+    "Wrong - the barbecue roll is for lateral canal BPPV, which gives horizontal nystagmus on supine roll testing.",
+    "Wrong - the undermost (right) ear during the positive test is the affected side.",
+    "Wrong - betahistine has no role in BPPV; repositioning is curative in most patients.",
+    "Wrong - latency, fatigability and torsional geotropic nystagmus are classic peripheral BPPV, not central."
+   ],
+   "r": "Slides p72-74"
+  },
+  {
+   "t": "VERT",
+   "stem": "A 44-year-old woman has had four attacks over 6 months of spinning vertigo lasting 2-3 hours, with vomiting, a roaring left tinnitus and left ear fullness. Between attacks she is well. PTA during a recent attack showed left thresholds of 45 dB HL at 250 and 500 Hz and 20 dB HL from 2 to 8 kHz, with no air-bone gap; this improved a month later.\nWhat is the underlying pathology?",
+   "o": [
+    "Otoconia displaced into the posterior canal",
+    "Distension of the endolymphatic compartment",
+    "Viral inflammation of the vestibular nerve",
+    "Schwannoma of the vestibular nerve in the IAM",
+    "Ischaemia in the anterior inferior cerebellar artery"
+   ],
+   "a": 1,
+   "e": "Episodic vertigo lasting **20 minutes to hours** with **fluctuating low-frequency SNHL, tinnitus and aural fullness** is **Ménière's disease**, caused by idiopathic **endolymphatic hydrops** (distension of the endolymphatic space). BPPV lasts seconds, vestibular neuritis is a single attack lasting days without hearing loss, and a schwannoma causes progressive rather than fluctuating loss.",
+   "w": [
+    "Wrong - BPPV attacks are positional, last seconds and spare hearing.",
+    "Correct - endolymphatic hydrops causes the triad with fluctuating low-frequency SNHL.",
+    "Wrong - vestibular neuritis is a single prolonged attack over days, with normal hearing.",
+    "Wrong - a vestibular schwannoma causes progressive asymmetrical loss, not discrete reversible attacks.",
+    "Wrong - an AICA stroke is a single sudden event with neurological signs, not recurrent reversible attacks."
+   ],
+   "r": "Slide p75"
+  },
+  {
+   "t": "VERT",
+   "stem": "A 55-year-old man with a 4-year history of definite left-sided Ménière's disease still has two disabling attacks a month despite a low-salt diet, reduced caffeine and regular betahistine. His left ear now has a flat 75 dB HL sensorineural loss; the right ear is normal.\nWhat is the most appropriate next treatment?",
+   "o": [
+    "Daily prochlorperazine taken long term",
+    "Repeated Epley manoeuvres every month",
+    "Intratympanic gentamicin to the left ear",
+    "Endolymphatic sac surgery on the right",
+    "Vestibular rehabilitation as sole therapy"
+   ],
+   "a": 2,
+   "e": "**Vestibular sedatives** (prochlorperazine, promethazine) are for **acute attacks only**, because long-term use delays central compensation. **Intratympanic gentamicin** is a chemical labyrinthectomy: it controls vertigo in most patients but can worsen hearing, so it suits an ear whose hearing is already poor. Surgery (endolymphatic sac decompression, vestibular neurectomy) is for failed medical treatment and is done on the affected side. Note: slide p76 lists betahistine (Betaserc) with the sedatives; it is a histamine analogue, not a vestibular sedative.",
+   "w": [
+    "Wrong - long-term vestibular sedatives impair central compensation; use them only during attacks.",
+    "Wrong - Epley repositions otoconia in BPPV and has no role in hydrops.",
+    "Correct - with hearing already poor in the left ear, ablative intratympanic gentamicin is the logical next step.",
+    "Wrong - surgery would be done on the affected left ear, never the normal right ear.",
+    "Wrong - rehabilitation helps chronic imbalance but does not stop recurrent hydrops attacks."
+   ],
+   "r": "Slide p76"
+  },
+  {
+   "t": "VERT",
+   "stem": "A 35-year-old man with long-standing foul-smelling right otorrhoea presents to ED with 2 days of fever, severe constant vertigo and vomiting. PTA shows no response in the right ear at maximum output on both air and bone conduction. Horizontal nystagmus beats towards the left ear.\nWhat is the most likely diagnosis?",
+   "o": [
+    "Serous (viral) labyrinthitis",
+    "Circumscribed labyrinthitis from a canal fistula",
+    "Vestibular neuritis",
+    "Suppurative labyrinthitis",
+    "Benign paroxysmal positional vertigo"
+   ],
+   "a": 3,
+   "e": "**Suppurative labyrinthitis**: bacteria invade the labyrinth (from COM/cholesteatoma or meningitis), destroying it, so there is a **total, permanent SNHL (dead ear)**, severe vertigo and nystagmus beating towards the healthy ear. Serous labyrinthitis (toxins or virus) gives partial, recoverable hearing loss; a circumscribed fistula gives brief pressure-induced vertigo with hearing preserved. Admit for IV antibiotics and mastoid surgery, and watch for meningitis.",
+   "w": [
+    "Wrong - serous labyrinthitis gives partial, often recoverable hearing loss, not a dead ear.",
+    "Wrong - a circumscribed fistula causes brief pressure-induced vertigo with hearing largely preserved.",
+    "Wrong - vestibular neuritis spares hearing and is not linked to chronic otorrhoea.",
+    "Correct - a dead ear with severe vertigo and fever in unsafe COM means bacterial invasion of the labyrinth.",
+    "Wrong - BPPV is brief, positional and never causes a dead ear."
+   ],
+   "r": "Slide p77"
+  },
+  {
+   "t": "VERT",
+   "stem": "A 52-year-old woman has 1 year of left-sided tinnitus and gradually worsening left hearing, with mild unsteadiness but no spinning attacks. Otoscopy is normal. PTA: right ear normal; left ear AC and BC equal at 15 dB HL at 250-500 Hz, 35 dB HL at 2 kHz and 45 dB HL at 4-8 kHz. Tympanometry is type A in both ears.\nWhat is the most appropriate investigation?",
+   "o": [
+    "HRCT temporal bone with fine bone cuts",
+    "Repeat PTA in 12 months to watch for progression",
+    "Dix-Hallpike test on the left side",
+    "Carotid and vertebral artery Doppler",
+    "Gadolinium MRI of internal acoustic meatus"
+   ],
+   "a": 4,
+   "e": "**Asymmetrical SNHL or unilateral tinnitus** must be investigated to exclude a **vestibular schwannoma** (acoustic neuroma); the test of choice is **MRI of the internal acoustic meatus** (gadolinium-enhanced or high-resolution T2). HRCT shows bone, not a small nerve-sheath tumour. Note: slide p70 lists acoustic neuroma under central causes; it arises from the vestibular nerve in the IAM/cerebellopontine angle (retrocochlear) and gives central signs only when large.",
+   "w": [
+    "Wrong - HRCT is for bony middle ear disease such as cholesteatoma and misses small intracanalicular tumours.",
+    "Wrong - waiting a year risks missing a growing tumour; asymmetry needs imaging now.",
+    "Wrong - she has no positional vertigo, so Dix-Hallpike adds nothing.",
+    "Wrong - vascular imaging does not explain a progressive unilateral SNHL.",
+    "Correct - gadolinium MRI of the IAM is the investigation of choice to exclude vestibular schwannoma."
+   ],
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "PTA",
+   "stem": "A 58-year-old woman with a 20-year history of an intermittently discharging left ear attends ENT clinic. PTA of the left ear: air conduction 60, 65, 70 and 75 dB HL at 0.5, 1, 2 and 4 kHz; bone conduction 30, 35, 40 and 45 dB HL at the same frequencies. The right ear is normal.\nHow is the left-ear hearing loss best classified?",
+   "o": [
+    "Moderate mixed hearing loss",
+    "Severe mixed hearing loss",
+    "Moderate conductive hearing loss",
+    "Moderate sensorineural hearing loss",
+    "Mild sensorineural hearing loss"
+   ],
+   "a": 0,
+   "e": "**Severity** is read from the **air conduction** average (here about 68 dB HL = **moderate**, 41-70 dB HL on the BSA scale). **Type** is read from **bone conduction**: BC is abnormal (above 20 dB HL) and there is a 30 dB air-bone gap, so the loss is **mixed**, the classic pattern of chronic otitis media (conductive element from the perforation or ossicles plus cochlear damage from toxins). Note: slides p85 and p89 say an air-bone gap of 10 dB or more, p91 says more than 10 dB; teach a gap of more than about 10 dB.",
+   "w": [
+    "Correct - AC average about 68 dB HL is moderate; abnormal BC plus a 30 dB gap makes it mixed.",
+    "Wrong - severe starts at 71 dB HL; the AC average here is about 68 dB HL.",
+    "Wrong - conductive loss needs normal BC; her BC is 30-45 dB HL.",
+    "Wrong - sensorineural loss has no air-bone gap; here the gap is 30 dB.",
+    "Wrong - mild is 20-40 dB HL, and the large air-bone gap excludes pure SNHL."
+   ],
+   "r": "Slides p83-91"
+  },
+  {
+   "t": "PTA",
+   "stem": "A 46-year-old man who has worked for 20 years in a palm-oil mill without ear protection finds it hard to follow conversation in crowded places. Otoscopy is normal. PTA in both ears: AC and BC equal, 15 dB HL from 250 Hz to 2 kHz, 55 dB HL at 4 kHz, and 30 dB HL at 8 kHz.\nWhat is the most likely diagnosis?",
+   "o": [
+    "Age-related hearing loss (presbycusis)",
+    "Noise-induced hearing loss",
+    "Aminoglycoside ototoxicity",
+    "Otosclerosis with cochlear involvement",
+    "Bilateral Ménière's disease"
+   ],
+   "a": 1,
+   "e": "A bilateral sensorineural **notch at 4 kHz with recovery at 8 kHz** is the signature of **noise-induced hearing loss**: the cochlear region tuned around 4 kHz is the most vulnerable to noise trauma. Presbycusis slopes down steadily to 8 kHz without recovery, ototoxicity starts at the highest frequencies, and Ménière's affects the low frequencies first. Advise hearing protection and workplace hearing surveillance.",
+   "w": [
+    "Wrong - presbycusis gives a steadily sloping high-frequency loss that is worst at 8 kHz, with no recovery.",
+    "Correct - a 4 kHz notch recovering at 8 kHz in a noise-exposed worker is classic noise-induced loss.",
+    "Wrong - aminoglycoside damage begins at the highest frequencies (8 kHz and above).",
+    "Wrong - otosclerosis gives a conductive loss with an air-bone gap; here AC equals BC.",
+    "Wrong - Ménière's gives fluctuating low-frequency loss with vertigo, usually one-sided at first."
+   ],
+   "r": "Slide p88"
+  },
+  {
+   "t": "PTA",
+   "stem": "A 30-year-old woman notices that her hearing in both ears has worsened since her second pregnancy, yet she hears speech better on a noisy bus. Both tympanic membranes look normal. PTA shows bilateral AC thresholds around 45 dB HL across all frequencies; BC is 10-15 dB HL except for a dip to 35 dB HL at 2 kHz. Tympanograms show a peak at 0 daPa with compliance of 0.2 ml.\nWhat is the most likely underlying pathology?",
+   "o": [
+    "Fluid filling the middle ear cleft",
+    "Disruption of the incudostapedial joint",
+    "Otospongiotic fixation of the stapes",
+    "Hyaline plaques within the tympanic membrane",
+    "Outer hair cell loss at the basal cochlea"
+   ],
+   "a": 2,
+   "e": "Progressive bilateral **conductive loss with a normal drum** in a young woman, worse with pregnancy, with paracusis Willisii (hearing better in noise), suggests **otosclerosis**. The **Carhart notch** (BC dip at **2 kHz**) is a mechanical artefact of stapes fixation that improves after stapes surgery, and the tympanogram is **type As** (normal pressure, low compliance). Effusion would give a flat type B trace, and ossicular discontinuity a high-compliance type Ad.",
+   "w": [
+    "Wrong - effusion gives a dull drum and a flat type B tympanogram, not a peak at 0 daPa.",
+    "Wrong - discontinuity gives a hypermobile type Ad trace with high compliance.",
+    "Correct - stapes fixation gives conductive loss, a 2 kHz Carhart notch and a type As trace.",
+    "Wrong - tympanosclerotic plaques are visible on the drum, and her drums are normal.",
+    "Wrong - outer hair cell loss is sensorineural, with no air-bone gap."
+   ],
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "PTA",
+   "stem": "A 40-year-old man woke this morning with a blocked, deaf right ear and loud tinnitus. There is no vertigo, pain or discharge. Otoscopy is normal on both sides. With a 512 Hz tuning fork, Rinne is positive in both ears and Weber lateralises to the left.\nWhat is the most appropriate next step?",
+   "o": [
+    "Nasal decongestant and autoinflation, review in 6 weeks",
+    "Softening drops and ear syringing of the right ear",
+    "Oral amoxicillin for presumed otitis media",
+    "Same-day ENT referral for PTA and oral steroids",
+    "Reassure and repeat tuning fork tests in a month"
+   ],
+   "a": 3,
+   "e": "Rinne positive with **Weber lateralising to the better (left) ear** means a **right sensorineural loss**; a conductive loss would send Weber to the deaf ear. Sudden SNHL is an **otological emergency**: confirm with same-day PTA and start high-dose oral steroid (e.g. prednisolone 1 mg/kg, maximum 60 mg) as early as possible, then MRI IAM to exclude a retrocochlear cause. The trap is treating a 'blocked ear' as wax or Eustachian tube dysfunction.",
+   "w": [
+    "Wrong - this treats Eustachian tube dysfunction, but the tuning forks show sensorineural loss.",
+    "Wrong - the canals are clear on otoscopy, and syringing does nothing for cochlear loss.",
+    "Wrong - the drums are normal, so there is no evidence of otitis media.",
+    "Correct - sudden SNHL needs same-day audiometry and early oral steroids.",
+    "Wrong - a month's delay loses the window in which steroids help recovery."
+   ],
+   "r": "Lecturer pearl"
+  },
+  {
+   "t": "TYMP",
+   "stem": "A 6-year-old girl had bilateral grommets inserted 6 months ago for glue ear. At review both ears are dry. Tympanometry of the right ear shows a flat trace with no identifiable peak and an ear canal volume of 2.4 ml; before surgery the same ear read 0.7 ml.\nWhat is the best interpretation of the right tympanogram?",
+   "o": [
+    "Middle ear effusion behind a blocked grommet",
+    "Grommet extruded into canal and blocked by wax",
+    "Eustachian tube dysfunction with negative pressure",
+    "Hypermobile drum from ossicular discontinuity",
+    "A patent grommet connecting canal and middle ear"
+   ],
+   "a": 4,
+   "e": "A **type B** (flat) trace must be read with the **ECV**: **normal ECV = effusion**, **low ECV = wax or probe against the canal wall**, **high ECV = perforation or patent grommet**, because the probe now measures the canal plus the middle ear space. A jump from 0.7 to 2.4 ml with a dry ear means the grommet is open and working. Note: slide p98 describes type B as having normal ECV; type B is any flat trace, and the ECV tells you the cause.",
+   "w": [
+    "Wrong - a blocked grommet with effusion gives a flat trace with a normal, not raised, ECV.",
+    "Wrong - wax blocking the canal gives a flat trace with a low ECV.",
+    "Wrong - Eustachian tube dysfunction gives a type C trace with a negative-pressure peak.",
+    "Wrong - discontinuity gives a type Ad trace with a tall peak, not a flat one.",
+    "Correct - a flat trace with a high ECV after grommet insertion means a patent grommet."
+   ],
+   "r": "Slide p98"
+  },
+  {
+   "t": "TYMP",
+   "stem": "A 7-year-old boy has had a blocked left ear for 10 days after a cold, with no pain or fever. Otoscopy shows a retracted tympanic membrane with a prominent short process of the malleus and no fluid level. Left tympanometry: peak at −250 daPa, static compliance 0.6 ml, ECV 0.8 ml.\nWhich tympanogram type is this, and what does it indicate?",
+   "o": [
+    "Type B, indicating middle ear effusion",
+    "Type As, indicating a stiff, fixed ossicular chain",
+    "Type C, indicating Eustachian tube dysfunction",
+    "Type Ad, indicating ossicular discontinuity",
+    "Type A, indicating a normal middle ear"
+   ],
+   "a": 2,
+   "e": "Normal peak pressure is **+50 to −100 daPa** with compliance 0.3-1.7 ml. A peak shifted well into **negative pressure with normal compliance and ECV is type C**, meaning the middle ear is below atmospheric pressure because of **Eustachian tube dysfunction**, here after an upper respiratory infection. It may progress to effusion (type B) but usually resolves with watchful waiting or autoinflation.",
+   "w": [
+    "Wrong - type B has no peak at all; this trace has a clear peak.",
+    "Wrong - type As peaks near 0 daPa with low compliance; here compliance is normal and the peak is negative.",
+    "Correct - a peak at −250 daPa with normal compliance and ECV is type C from Eustachian tube dysfunction.",
+    "Wrong - type Ad peaks near 0 daPa with very high compliance.",
+    "Wrong - type A peaks between +50 and −100 daPa; −250 daPa is outside that range."
+   ],
+   "r": "Slide p99"
+  },
+  {
+   "t": "TYMP",
+   "stem": "A 26-year-old man was punched on the right side of the head 3 weeks ago and has had right-sided hearing loss since then. The tympanic membrane is intact, with no blood behind it. PTA: right AC 50 dB HL and BC 10 dB HL across frequencies. Right tympanometry: peak at 0 daPa, static compliance 3.0 ml, ECV 1.3 ml.\nWhat is the most likely cause?",
+   "o": [
+    "Dislocation at the incudostapedial joint",
+    "Haemotympanum from temporal bone fracture",
+    "Traumatic stapes footplate fixation",
+    "Traumatic perforation of the pars tensa",
+    "Eustachian tube oedema with negative pressure"
+   ],
+   "a": 0,
+   "e": "**Type Ad**: normal peak pressure with **markedly raised compliance** (above 1.7 ml), meaning a **flaccid, hypermobile system**. With an intact drum and a large conductive loss (40 dB air-bone gap) after head trauma, this means **ossicular discontinuity**, most often at the incudostapedial joint or the long process of the incus. A thin, scarred drum can also give type Ad, but would not explain a 40 dB gap.",
+   "w": [
+    "Correct - a hypermobile type Ad trace with a large conductive gap after trauma means ossicular discontinuity.",
+    "Wrong - haemotympanum fills the middle ear, giving a flat type B trace with normal ECV, and none is seen.",
+    "Wrong - fixation stiffens the system, giving type As (low compliance), not high compliance.",
+    "Wrong - the drum is intact; a perforation would give a flat trace with a high ECV.",
+    "Wrong - Eustachian tube dysfunction gives a negative-pressure type C peak."
+   ],
+   "r": "Slide p97"
+  }
+ ]
+}
